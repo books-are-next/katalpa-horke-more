@@ -1,36 +1,125 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Hořké moře
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jakuba Katalpa
+  publisher: Městská knihovna v Praze
+  modified: '2021-04-13T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - horke_more_001.html
+  - horke_more_002.html
+  - horke_more_003.html
+  - horke_more_004.html
+  - horke_more_005.html
+  - horke_more_006.html
+  - horke_more_007.html
+  - horke_more_008.html
+  - horke_more_009.html
+  - horke_more_010.html
+  - horke_more_011.html
+  - horke_more_012.html
+  - horke_more_013.html
+  - horke_more_014.html
+  - horke_more_015.html
+  - horke_more_016.html
+  - horke_more_017.html
+  - horke_more_018.html
+  - horke_more_019.html
+  - horke_more_020.html
+  - horke_more_021.html
+  - horke_more_022.html
+  - horke_more_023.html
+  - horke_more_024.html
+  - horke_more_025.html
+  - horke_more_026.html
+  - horke_more_027.html
+  - horke_more_028.html
+  - horke_more_029.html
+  - horke_more_030.html
+  - horke_more_031.html
+  - horke_more_032.html
+  - horke_more_033.html
+  - horke_more_034.html
+  - horke_more_035.html
+  - horke_more_036.html
+  - horke_more_037.html
+  - horke_more_038.html
+  - horke_more_039.html
+  - horke_more_040.html
+  - horke_more_041.html
+  - horke_more_042.html
+  - horke_more_043.html
+  - horke_more_044.html
+  - horke_more_045.html
+  - horke_more_046.html
+  - horke_more_047.html
+  - horke_more_048.html
+  - horke_more_049.html
+  - horke_more_050.html
+  - horke_more_051.html
+  - horke_more_052.html
+  - horke_more_053.html
+  - horke_more_054.html
+  - horke_more_055.html
+  - horke_more_056.html
+  - horke_more_057.html
+  - horke_more_058.html
+  - horke_more_059.html
+  - horke_more_060.html
+  - horke_more_061.html
+  - horke_more_062.html
+  - horke_more_063.html
+  - horke_more_064.html
+  - horke_more_065.html
+  - horke_more_066.html
+  - horke_more_067.html
+  - horke_more_068.html
+  - horke_more_069.html
+  - horke_more_070.html
+  - horke_more_071.html
+  - horke_more_072.html
+  - horke_more_073.html
+  - horke_more_074.html
+  - horke_more_075.html
+  - horke_more_076.html
+  - horke_more_077.html
+  - horke_more_078.html
+  - horke_more_079.html
+  - horke_more_080.html
+  - horke_more_081.html
+  - horke_more_082.html
+  - horke_more_083.html
+  - horke_more_084.html
+  - horke_more_085.html
+  - horke_more_086.html
+  - horke_more_087.html
+  - horke_more_088.html
+  - horke_more_089.html
+  - horke_more_090.html
+  - horke_more_091.html
+  - horke_more_092.html
+  - horke_more_093.html
+  - horke_more_094.html
+  - horke_more_095.html
+  - horke_more_096.html
+  - horke_more_097.html
+  - horke_more_098.html
+  - horke_more_099.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
