@@ -7,9 +7,7 @@ MARIE
 Matka  
 Dům
 
-/vlnolam/
-
-  
+> /vlnolam/
 
 Do léviovského domu vstupuji sotva jednou za rok. Nerozhlížím se a mířím přímo k matčině pokoji, který je tak plný cigaretového kouře, že sotva rozeznám její obrysy.
 

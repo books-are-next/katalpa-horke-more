@@ -7,10 +7,8 @@ ANIELA
 Mirjam  
 Smrt
 
-kdysi  
-/ticho/
-
-  
+> kdysi  
+> /ticho/
 
 Mirjamka procházela mými sny i v táboře. Cítila jsem, jak se mi vrtí v břiše, zatím vtisknutá do podoby vajíčka. A pokaždé, když jsem menstruovala, měla jsem jistotu, že odchází všechno kromě Mirjamky, která se držela mých útrob jako medových plástů.
 

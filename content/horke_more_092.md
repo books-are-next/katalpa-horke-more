@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Pohovka
 
-nyní  
-/řečiště/
-
-  
+> nyní  
+> /řečiště/
 
 Pohovka původně patřila Míně. Dostala jsem ji, když se po její smrti rozprodávalo zařízení domu.
 
@@ -33,9 +31,7 @@ Zabořila jsem do ní nos a čichala.
 
 Sotva jsem se na ni uložila, zavoněla klisnou.
 
-\* \* \*
-
-  
+* * *
 
 Thonet. Ohnout nebo zlomit. Pohovky byly pod jeho úroveň, rád se díval na vzpřímené lidi.
 

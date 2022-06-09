@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Aniela
 
-/přítoky/
-
-  
+> /přítoky/
 
 Zdá se jí, že změna, kterou prochází, bude brzy zřejmá i ostatním.
 

@@ -5,10 +5,8 @@ contentType: prose
 
 ANIELA
 
-nyní  
-/strnulost, ticho/
-
-  
+> nyní  
+> /strnulost, ticho/
 
 Když zůstanu v Pokoji sama, položím se na pohovku a zkouším zachytit zbytky Mariina tepla. Ležím ve stejné poloze jako ona, možná jsem víc uvolněná, protože svou pohovku dobře znám. Ruce mám zkřížené na prsou, hlavu opřenou o polštář. Nemohu-li hovořit v její přítomnosti, musím mluvit, když tu není.
 
@@ -36,9 +34,7 @@ Opouštíš mě ve chvíli, Mirjam, kdy přicházejí nové časy; jáma v zemi
 
 Ty jsi, Mirjam, zmizela tak dokonale, že po tobě nezbyl ani stín, marně jsem se snažila vyšťourat tě z míst, kam děti ukrývají cukroví. Nebyla jsi v žádné z tváří, které jsem zkoumala, nenalezla jsem tě v útrobách muže, za něhož jsem se provdala, a nevyskočila jsi z mého těla ani ve chvíli, kdy jsem na svět přiváděla své děti.
 
-\* \* \*
-
-  
+* * *
 
 Na cestu domů jsem dostala čokoládu. Všechny, které jsme seděly na korbě nákladního vozu, jsme držely v prstech silnou tabulku čokolády.
 

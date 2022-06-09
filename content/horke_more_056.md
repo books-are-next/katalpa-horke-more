@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Alma, Alma
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 První žena, kterou jsem potkala, když jsem se vrátila do města, byla Alma. Pohodlně rozložená na kufru čekala na vlak; když mě udeřila do obličeje, otřela si prsty a schovala ruku v kapse, pak se znovu posadila, nohy roztažené, aby udržela rovnováhu.
 
@@ -23,9 +21,7 @@ Otočila jsem se a vyšla do ulice. Koupila jsem polévku v mělké misce.
 
 Když Alma dojedla, vrazila mi misku do ruky a vyběhla ven, vydělat se do míst svých imaginárních kolejí. Vrátila se s urousanými šaty a chňapla po kufru, chvilku ho vlekla za sebou a nakonec ho odlepila od země a přitiskla k boku. Její stín ztučněl, vyšla z nádraží jako pastýř s hranatou ovcí.
 
-\* \* \*
-
-  
+* * *
 
 Kufr vyrobili ještě před válkou v podniku, který se specializoval na výrobu příručních zavazadel a rukavic. Měl dřevěnou konstrukci potaženou kůží a uvnitř polstrovanou hedvábím. Vedle zámku byl vytlačený znak výrobce a monogram majitele, který Alma vyškrábala špičkou nože.
 
@@ -33,9 +29,7 @@ Přetékal hedvábným prádlem a parfémy. Byla v něm také sada stříbrný
 
 Kdyby prodaly jen polovinu věcí, z utržených peněz by mohly žít nejméně půl roku. Alma se však odmítala obsahu kufru vzdát, obchá­zela ho po špičkách a jen v nejlepší náladě se uvolila jednotlivé kousky rozbalit.
 
-\* \* \*
-
-  
+* * *
 
 Když s Almou opustily nádraží, zamířily k městu. Alma seděla na zastávce od rána, a proto se těžko vzdávala myšlenky, že nikam nepojede. Tvářila se důležitě a nechala se Anielou doprovodit na hlavní nádraží. Sotva však zaslechla zvonění kolejí, zbledla, a když se v proudu neznámých tváří ukázalo, že by její kufr mohl být v nebezpečí, posadila se na zem v parku a přitáhla si kufr ke kolenům.
 
@@ -51,15 +45,11 @@ O dvě ulice dál, když pochopila, že je čeká další bezcílná pouť měs
 
 Teprve ráno jí došly síly, posadily se spolu na břeh řeky a znaveně pozorovaly hladinu.
 
-\* \* \*
-
-  
+* * *
 
 Jak by Alma nechodila obtěžkaná kufrem s pokladem, když do poslední chvíle žila s mužem?
 
-\* \* \*
-
-  
+* * *
 
 Všechno, co Alma dělala, dělala s rozmyslem. Vždycky měla ušetřeno na tramvaj, aby nemusela chodit s nákupem pěšky. Ulicemi procházela pomalu, takže pokaždé měla čas zvednout zatoulanou minci, prozkoumat výlohy a přečíst si vývěsní tabule obchodů.
 
@@ -87,9 +77,7 @@ Zuby odhrnul kalhotky (přitom byl stále zaklesnutý prsty do jejího masa) a 
 
 V ten okamžik se do svého pána, který zpychl průsvitnými perlami, zamilovala, a když odcházel, taktně předstírala, že nevidí skvrnu na jeho kalhotách.
 
-\* \* \*
-
-  
+* * *
 
 Druhý den vzbudil Almu před svítáním. Měl na sobě čisté šaty a byl oholený. Posadil ji do auta a před polednem zastavil v neznámém městě. V obchodě na hlavní třídě jí koupil šaty s květinovým vzorem. Potom jí vsunul do dlaně peníze a poslal ji vybrat si spodní prádlo. Stála před prodavačkou a předstírala, že je klidná, na bankovku v dlani se neodvážila podívat. Když to posléze udělala, strávila v obchodě skoro hodinu, zatímco on objednal pokoj v hotelu a pak přecházel po chodníku a kouřil doutník.
 
@@ -105,9 +93,7 @@ Nakonec, když cítil, že je to pod jeho důstojnost, mě odvedl do koupelny. B
 
 Kde jste vlastně byli? ptá se Aniela před usnutím, i když odpověď zná, viděla porcelánový pohárek na pití pramene.
 
-\* \* \*
-
-  
+* * *
 
 Když začaly platit protižidovské zákony, byl konec. Napřed si Alma nepřipouštěla, že by se jí to mohlo týkat.
 
@@ -139,9 +125,7 @@ Ano, říká Alma, já kurva. Kvůli němu jsem se vzdala všech ostatních.
 
 Aniela zavírá dveře, protože tohle už zná.
 
-\* \* \*
-
-  
+* * *
 
 Nastěhoval ji do vlhkého suterénního bytu. Stýkal se s ní stejně často jako v době, kdy bydlela u nich. Když přišel, uklidila jídlo, které jí přinesl, oblékla se a vyrazili ven. Obvykle parkoval o několik ulic dál, vzdálenost byla přímo úměrná jeho strachu. Posadil ji na zadní sedadlo a vyjel z města. Neodvážili se vracet na ta samá místa víckrát než jednou, a tak Alma poznala mnoho nových měst. Většinou zastavil někde v poli, Alma se převlékala a on se opíral o kapotu a díval se opačným směrem, tvář strnulou, jako by ho čekaly nepříjemnosti.
 
@@ -159,9 +143,7 @@ Ráno si oblékla černé šaty a zavěšená do pana Schappeho odcházela, rec
 
 Občas se stávalo, že ji pan Schappe zavezl do města, které dávno předtím vybral, zastavil, aby se mohla převléknout do slušných šatů, a pak ji vodil ulicemi. Měla žízeň a hlad, ale nezašli nikam, kde by se mohla najíst; když padl soumrak, vypravili se zpátky a ona suchýma očima pozorovala stromy podél silnice a bez zájmu odhadovala, jakou úrodu dají na podzim.
 
-\* \* \*
-
-  
+* * *
 
 Bydlela ve sklepním pokoji. Záchod byl na chodbě a pro vodu chodila k hydrantu na ulici. Přelomy dne a noci se pro ni staly důležitými mezníky. To, co bylo mezi nimi, připomínalo mlhu, kterou vyplňovala zbytečnou a nenáročnou činností, spánkem, šitím, jídlem nebo malováním.
 
@@ -183,9 +165,7 @@ Točila se jí z toho hlava, a když to řekla svému milenci, přikázal jí,
 
 Alma zůstávala v pokoji i při náletu. Zatímco v ostatních vzbuzovalo houkání sirén horečnou aktivitu, Alma upadala do strnulosti, nohy za oknem se měnily v barevné šmouhy a ona je sklíčeně přenášela na papír. Až budou houkat, lehni si pod postel a zavři oči, řekl jí pan Schappe, ale ona to nikdy neudělala, naopak, pokaždé se postavila doprostřed pokoje (když rozpažila, dotkla se prsty obou stěn) a dívala se ke stropu, takže kdyby domy byly ze skla, piloti by v průhledném hranolu uviděli její tvář, bílou pleť krysy a zadumané oči, echte Blondine, s tělem přivyklým vlhkosti a tmě.
 
-\* \* \*
-
-  
+* * *
 
 Žádná bolest procházející mým tělem nedokázala později odvrátit můj pohled od Almy s vyprázdněným obličejem a napnutýma rukama; od tváře uchované takovým mrazem, že jen pomyšlení na něj nahánělo husí kůži.
 
@@ -197,9 +177,7 @@ Na konci války pan Schappe a jeho žena zmizeli. On po domovnici poslal Almě 
 
 Alma ho poslechla a celý měsíc ze své postele pozorovala nohy, přecházející za oknem. Každý večer okno poctivě zatemnila, a te­prve pak rozsvítila svíčku a vdechovala zkažený vzduch. Když v kapse kabátu našla cigarety, které tam pan Schappe zapomněl, jednu z nich si zapálila a donutila se polykat kouř.
 
-\* \* \*
-
-  
+* * *
 
 Často usnula ještě před západem slunce a probudila se do tmy. Neměla ponětí, jestli je noc dne, v němž se uložila ke spánku, nebo jestli se vzbudila do tmy dne nového. Vrátila se do postele a znovu se propadla do sna; nechala se vzbudit jen zvuky sirén, unaveně opouštěla lůžko a stavěla se doprostřed pokoje, roztahovala paže a v prstech cítila, jak se základy domu chvějí.
 
@@ -221,9 +199,7 @@ Vrátila se do sklepa. Domovnice s černými prsty se na nic neptala a pozvala
 
 O chvíli později už stála na malém náměstí (vida, přece se našlo), roztržitě škubala listy pámelníku a přemýšlela.
 
-\* \* \*
-
-  
+* * *
 
 Když led kolem ní roztál, Alma ještě chvíli studila. Kůži měla modrou a ulicemi se pohybovala nejistě, protože jí chybělo předchozích pět let.
 
@@ -237,9 +213,7 @@ Někdy si na Almino nádražní dobrodružství vzpomenu a přemýšlím, jaký
 
 Možná spala. Brada jí pomalu klesala na prsa, oči měla zakapané sladkou šťávou a dech se jí zastavoval v hrdle, do úst nevstoupil.
 
-\* \* \*
-
-  
+* * *
 
 Alma mi vyprávěla, jak za ní ve snu přišla babička, Pojď, pomodlíme se, šma jizrael.
 
@@ -259,15 +233,11 @@ Zpočátku jsme byly ze své blízkosti v rozpacích. Zatímco Alma do sebe nec
 
 Při svlékání pohybovala rty, a když jsem k ní přiblížila hlavu, abych zaslechla její slova, vrazila mi jazyk do ucha.
 
-\* \* \*
-
-  
+* * *
 
 Nutila mě, abych si hledala práci. Sama se rozhodla vypátrat své rodiče a sourozence. Neměla tušení, co se s nimi stalo, a tak chodila po městě a vyptávala se. Každý den vstávala se svítáním, a protože nikde neotvírali tak brzy, seděla nahrbeně na židli, hladila si patu a přemýšlela.
 
-\* \* \*
-
-  
+* * *
 
 Aniela si práci nehledala. Po návratu z tábora ztěžkla, zlenivěla a ztratila radost.
 

@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Nebylo jiné cesty než skrze mě samu.
 

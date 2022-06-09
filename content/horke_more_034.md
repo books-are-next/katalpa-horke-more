@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Začala jsem se měnit.
 

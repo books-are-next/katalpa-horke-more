@@ -7,9 +7,7 @@ MARIE
 David  
 Dům
 
-/příboj/
-
-  
+> /příboj/
 
 Marie spěchá tmou. Zatímco míří k léviovskému domu, muž David se v jejím bytě vrhá do skříní, vytahuje oblečení a zkoumá ho, prohlíží kapsy a čichá k límečkům. Je unavený a zklamaný, zničil Mariiny šaty a naplil do hrnců. Teď sedí na obráceném stole a sbírá síly. Pak pokračuje v pláči, rozbíjí panty a trhá obrazy, utírá se do prostěradel.
 

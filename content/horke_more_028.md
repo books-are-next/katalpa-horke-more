@@ -7,9 +7,7 @@ MARIE
 Matka  
 Dům
 
-/vlnolam, prameny/
-
-  
+> /vlnolam, prameny/
 
 Pořád jsem tady. Červe, nebudu tvým Lazarem, zůstanu.
 
@@ -27,9 +25,7 @@ Byla jsem sama, šťastně sama.
 
 Odněkud jsem to musela vědět. Jestli to byl příběh, vstoupil do mě nepozorovaně. Nevzpomínám si, že by mi o tom někdo vyprávěl.
 
-\* \* \*
-
-  
+* * *
 
 Třetí noc v léviovském domě.
 
@@ -63,9 +59,7 @@ Jsem jedna z nich.
 
 Usedám a zakrývám si oči.
 
-\* \* \*
-
-  
+* * *
 
 Marie se posadí vedle hubené Léviovny; kdyby chtěla, mohla by jí složit ruce do klína.
 
@@ -105,9 +99,7 @@ Zasáhla mě, řekne Marie. Kámen stekl do mého klína, oči jsem měla plné 
 
 Ale mé čelo zůstalo neporušené.
 
-\* \* \*
-
-  
+* * *
 
 Kromě toho, který svou jedinečnost okusil jako první, nikdo z Léviů nevěděl, jak se to stalo.
 
@@ -174,9 +166,7 @@ Ráno vypustili z vězení.
 
 S každým vytržením vlasu a zlomenou kostí drtí některý z Léviů v ústech praženou mandli, olizuje karamel, tiskne si dlaně na tvář.
 
-\* \* \*
-
-  
+* * *
 
 Třetí noc v léviovském domě.
 
@@ -188,9 +178,7 @@ Nakláním se a svírám hlavu mezi koleny.
 
 Co se mnou bude?
 
-\* \* \*
-
-  
+* * *
 
 Začala jsem se měnit.
 
@@ -206,9 +194,7 @@ Jestli dům opustím, snad zmizím docela.
 
 Jak dlouho ještě budu Marií?
 
-\* \* \*
-
-  
+* * *
 
 Břemeno.
 
@@ -216,9 +202,7 @@ Jsem vyděšena jeho tíhou, neunesu ho.
 
 Je třeba utéct.
 
-\* \* \*
-
-  
+* * *
 
 Vstanu a prodírám se pryč, kolem manéže a ještě jednou dokola, hledám skulinu, kterou bych mohla uniknout.
 
@@ -226,9 +210,7 @@ Jeden z léviovských mužů mě zastaví, v očích už mám kus volného neb
 
 Rozjímá přede dveřmi, za kterými začíná ráno. Když ho opustím, ztichne a uzavře se.
 
-\* \* \*
-
-  
+* * *
 
 V chodbě Marie potkává matku. Hlavu má zvednutou, zkoumá malbu těsně pod stropem. Marie se přitiskne ke stěně a opatrně se plíží ke dveřím záchodu, myslí na okno vedoucí do zahrady.
 

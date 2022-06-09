@@ -7,10 +7,8 @@ ANIELA
 Marie  
 Smrt
 
-stále znovu  
-/pohyb/
-
-  
+> stále znovu  
+> /pohyb/
 
 Nemám strach.
 
@@ -50,9 +48,7 @@ Jsem skalní puklinou, jsem říčním dnem.
 
 Opojena, vyjdu jí vstříc.
 
-\* \* \*
-
-  
+* * *
 
 Na chodníku, v odrané šedi. Bezvýznamná. Tmavým proužkem krve sviní cestu a míří k nosítkům, ukapávajícím blankyt prstu.
 
@@ -68,9 +64,7 @@ V bílém víru se z dřevěných már zvedá Magdaléna, chvěje se a mrzne,
 
 Anielu opouští strnulost, rozbíhá se, letí. S hlasitým křikem se klene přes propast, přichází o rty. Žene se proti bílé stěně, vrhá se mezi rybí břicha, do trnoví akátů; s trýznivou radostí, rozbolavělá, žhnoucí, vrhá se k M.
 
-\* \* \*
-
-  
+* * *
 
 Vidím ji.
 

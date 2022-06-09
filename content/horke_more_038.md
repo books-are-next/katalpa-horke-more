@@ -7,9 +7,7 @@ MARIE
 Jakuba  
 Dům
 
-/přítoky, prameny/
-
-  
+> /přítoky, prameny/
 
 Chodník zraňuje.
 
@@ -19,9 +17,7 @@ Opírám se o stěnu, u paty chrámu, a cedím vzácnou léviovskou krev. Pol
 
 Už na mě čeká, nůžky v rukou. Položím jí hlavu do klína, ona mě hladí a nic se neděsí mé srsti, laská se s tuhými kučerami a zalévá mě sladkostí, mezi její rukou a mým čelem by neprošel paprsek světla, září. Cítím její prsty, objímá mi hlavu a šeptá: Zkrátíme srst, nabrousíme drápky, a jsou to její nůžky, které mi tuhnou ve vlasech v planoucí prut, v divukrásný krápník.
 
-\* \* \*
-
-  
+* * *
 
 Jakuba pročesává Mariiny vlasy.
 
@@ -49,9 +45,7 @@ Když jí z lebky vyjde zářivá špička, rozpláče se úlevou.
 
 Jakuba se posadí vedle ní, jehlici v rozevřené dlani.
 
-\* \* \*
-
-  
+* * *
 
 Jakuba svírá v rukou počátek mého života, temnotu, ze které jsem vyšla. Vidím, že hlavou jehlice je léviovský dům, to on mi lámal kosti.
 
@@ -75,9 +69,7 @@ Můj čas se proměnil.
 
 Opustila jsem hlubokou jámu a stala jsem se počátkem.
 
-\* \* \*
-
-  
+* * *
 
 Potom Jakuba opatrně sevře prsty. Hne zápěstím.
 

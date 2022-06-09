@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Josef Holman
 
-kdysi  
-/vtékání/
-
-  
+> kdysi  
+> /vtékání/
 
 Byla přesvědčena, že v ní nevyrostl nikdo z nich. Nedovolila by to.
 
@@ -23,9 +21,7 @@ Když byla v táboře, doufala, že je potká. Nakonec pochopila, že ji opusti
 
 Rozhněvala se na ně už tehdy. Věděla, že otec myslel jen na své papíry. Zřekl se rodiny dřív, než zemřel.
 
-\* \* \*
-
-  
+* * *
 
 Nevydržím to, řekl můj muž, když jsme se domilovali. Pověz mi, co se s nimi stalo?
 
@@ -33,7 +29,7 @@ Nevím o nich víc než ty, odpověděla jsem.
 
 Oči zahleděné do tmy, ještě jsme nepočali ani toho, který byl před Annou.
 
-\* \* \*
+* * *
 
 Josef Holman nemohl Aniele odpustit, že po nich nepátrala. Sám byl netrpělivý; po skončení války se vracelo tolik lidí! Potkával je každý den na ulicích, valili se proti němu jako černá lavina. Sbíral odvahu a vyčkával. Chodíval na obhlídky domu, kde žila Albertova rodina. Bylo jich přece tolik, alespoň jeden z nich se musel vrátit.
 
@@ -55,9 +51,7 @@ Slunečné odpoledne, světlo prochází Anielou ležící na posteli.
 
 Ach, nějaké číslo a písmeno, vzpomene si Aniela a ukáže mu záda.
 
-\* \* \*
-
-  
+* * *
 
 Po milování.
 
@@ -69,8 +63,6 @@ Zastydí se za vlastní hlas, ale uši má nastražené.
 
 Ano, i má sestra to má za sebou, odpoví Aniela.
 
-\* \* \*
-
-  
+* * *
 
 Vyptával se mě stále na to samé. Jako bych uměla čarovat a jednoho dne mu mohla na jeho obvyklé, Jsou mrtví, odpovědět, Ale kdepak, je to jen žert.

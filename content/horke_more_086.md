@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Jakuba
 
-nyní  
-/žár/
-
-  
+> nyní  
+> /žár/
 
 Krátký okamžik soustředění. Před chvílí se otevřela světu. V moci těla sklání tvář k nahým kolenům. Sedí na porcelánové míse, hoří černým kaviárem. Vlhké prádlo zachycené kotníky, podvazek drtí patou.
 

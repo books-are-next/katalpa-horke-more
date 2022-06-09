@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Po smrti nejsem už ničí. Stejně tak, když se vracím do života. Probouzím se na pusté pláni, kde zem bedlivě střeží semena a uváženě rozdílí vodu, probouzím se uprostřed stepi, v rámu obrazu, na pevně napjatém plátně, probouzím se ve své vlastní posteli.
 

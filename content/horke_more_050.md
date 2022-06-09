@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Anna
 
-nyní  
-/oddech/
-
-  
+> nyní  
+> /oddech/
 
 Aniela se opírá o umyvadlo, neodvažuje se zvednout oči k zrcadlu.
 
@@ -21,17 +19,13 @@ Nezůstalo nic než Magdalénin prst.
 
 A když se Aniela nedočkavě sklání k Marii, vidí v ní poslední Magdalénu.
 
-\* \* \*
-
-  
+* * *
 
 Zavřu oči. Nevěřila bych, že začnu šedivět i tam. Sevřu v hrsti několik tvrdých chomáčků a zatáhnu. Jsem ráda, když zůstanou na svém místě. Pořád jsem dole stejně bohatá, ojíněná jako ovce.
 
 Pak zaslechnu na schodech kroky a polekaně stáhnu ruku. Podle prudkosti, s jakou nacpe klíč do zámku, poznám, že je to Anna. Přibouchne za sebou a volá: Mami! Slyším, jak jde chodbou. Míří do koupelny. Za chvilku stane ve dveřích, na hlavě klobouk, ruce v kapsách, v obličeji ani stopu po rozpacích.
 
-\* \* \*
-
-  
+* * *
 
 Anninu postavu rámují dveře. Dívá se na matku jasnýma tvrdýma očima, Aniela v nich vidí své tělo, nahé a zářivé.
 

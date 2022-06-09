@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Marie
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Okurku krájí na tenké plátky. Včera brousila nůž a dneska by i nehet svlékla z kůže.
 
@@ -45,17 +43,13 @@ Uštěpačný závěr, strouhá ho tak, jak je, s hlínou, dlouhými chlupy a 
 
 Oči má oteklé. Dotkne se zrůžovělého koutku a pak se rozpláče, nasucho pláče, bez slz, zachová vůni i tvar, Jakubina pochoutka bude nedotčena.
 
-\* \* \*
-
-  
+* * *
 
 Jakuba přestala pít kávu, chutná jí jako bláto.
 
 Ach, Aniela v záchvatu vzteku sype obsah plechovky do umyvadla, plive na něj. Než pustí vodu, pokorně lžičkou vyškrábne alespoň na dnešní šálek.
 
-\* \* \*
-
-  
+* * *
 
 Večer pak čeká na Marii. Zešílela a pojala za své všechny šperky, které doma našla.
 
@@ -65,9 +59,7 @@ Na ramenou sestra, něžně splývá. Aniela cítí tlak kostí zhutnělých v 
 
 Čeká na Marii. Roztahuje se za stolem, s krovkami vyztuženými a připravenými, roztahuje se za stolem jako královna.
 
-\* \* \*
-
-  
+* * *
 
 Kdo byl prvním? myslí si, když se dozví o léviovském tajemství.
 
@@ -83,9 +75,7 @@ Nevadilo jí obětovat oko?
 
 Nemá smysl dávat Marii odpovědi.
 
-\* \* \*
-
-  
+* * *
 
 Nejistým hlasem vypráví Marie o své návštěvě v Jakubině salonu.
 

@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Josef Holman
 
-kdysi  
-/vtékání/
-
-  
+> kdysi  
+> /vtékání/
 
 Rukopisy jí ukázal hned. Boule jí ještě nezmizela z krku, a už před sebou měla spoustu papírů bez datace, složenou v tuhých deskách.
 
@@ -53,9 +51,7 @@ Přikývl.
 
 Ona se pak posadila a začala se znovu věnovat jídlu, papíry ležely mezi nimi. Nezajímaly ji. Polykala tiše a dívala se před sebe, jako by tu nebyl.
 
-\* \* \*
-
-  
+* * *
 
 Vytušila svou šanci. Odplata za květiny.
 
@@ -67,9 +63,7 @@ Určitě. Myšlenky teď dělil mezi jejího otce a přídělové lístky.
 
 Hodina vyprávění o mém otci za jednu pralinku.
 
-\* \* \*
-
-  
+* * *
 
 Nedokázal jít za ničím, co nemělo pevné obrysy.
 
@@ -101,9 +95,7 @@ Marie otce milovala mnohem víc než já. Připadal jí zajímavý. Četla jeho 
 
 Josef Holman se neklidně ošívá a z tváře mu mizí krev. Při mluvení se chytám větru. Nepamatuji si nic, čím bych mohla Josefa Holmana, pátrajícího po svém druhu, potěšit.
 
-\* \* \*
-
-  
+* * *
 
 Aniela si nevzpomíná, kdy se do něj zamilovala.
 
@@ -115,9 +107,7 @@ Dal jí přečíst otcovy rukopisy. Držel ji nad nimi, dokud nepromočila papí
 
 Nemohla mu poskytnout víc než sebe samu. Když to pochopil, práskl dveřmi a nechal ji civět na kupičku papírů. Rovnala je do tuhých desek a umiňovala si, že je zapálí. Nakonec je pevně svázala a položila na jeho stůl.
 
-\* \* \*
-
-  
+* * *
 
 Od chvíle, kdy ji přistihl, jak dělá konkurenci křišťálovému lustru, bydlela u něj. Nemusela se starat vůbec o nic. Kupoval jí prádlo a oblečení, a když menstruovala, přinášel jí z nemocnice vatu. Vařil. Když se myl, nezamykal se a ona musela vždy přitisknout ucho ke dveřím, aby zjistila, jestli může bezpečně vejít.
 
@@ -129,8 +119,6 @@ Seděli v kavárně, pod pruhovanou plachtou, a dívali se na řeku. On před 
 
 Zeptal se, jestli nepomýšlela na odchod z domu, jako by zapomněl, že celé roky nedělá nic jiného, než že je s ním.
 
-\* \* \*
-
-  
+* * *
 
 Měla i jiné muže. Jména už si Aniela nevybavuje. Jeden z nich ji zval na čaj (potkávala ho každý den při cestě do školy), a když konečně svolila, zavedl ji do restaurace a pak k sobě; z jeho spěchu poznala, že je ženatý; a další muž měl na ruce stejné číslo jako ona a přál si, aby ho Aniela políbila na každou z jizev, které jí ukázal.

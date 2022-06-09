@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Josef Holman
 
-kdysi  
-/vtékání/
-
-  
+> kdysi  
+> /vtékání/
 
 Na podzim se slunce pohybovalo mimořádně rychle. Aniela stále nevěděla, jak se zmocnit Josefa Holmana.
 
@@ -21,9 +19,7 @@ Když se zbavila Alminých příbuzných, zůstala beze snů. V noci do jejích
 
 Byla sama.
 
-\* \* \*
-
-  
+* * *
 
 Vyšla si na procházku s Magdaléninou tetou.
 
@@ -39,9 +35,7 @@ Pozorovala, jak Anieliny bradavky škrábou o krajku. Pomohla jí připnout pun
 
 Byla přesvědčená, že kousek hedvábí srazí Josefa Holmana na kolena.
 
-\* \* \*
-
-  
+* * *
 
 Měla jsem to na těle jako zbroj. Prsa v hladké skořápce, klín uzavřený pavučinou. Šla jsem po chodníku a vyhnula se akátům, už jsem se nepřátelila se stromy. Do domu Josefa Holmana jsem vešla středem. Neskrývala jsem se. Prádlo na mém těle zářilo.
 

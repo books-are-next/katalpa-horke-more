@@ -7,10 +7,8 @@ ANIELA
 Mirjam  
 Smrt
 
-kdysi  
-/ticho/
-
-  
+> kdysi  
+> /ticho/
 
 Mirjam se objevila společně se světlem. Nevím, jestli byla uvnitř už předtím a její čelist se vyrýsovala s otevřením dveří, nebo jestli do vlaku vklouzla zvenčí v závanu vzduchu. Když jsme vystupovali ven, řekla, Tady se chodí po nožích a skáče po kostech.
 

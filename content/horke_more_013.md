@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Měla jsem pocit, že v přízemí domu je zakázáno mluvit nahlas. Pokaždé, když jsme se odněkud vraceli a v dlouhé chodbě si zouvali boty a rozvěšovali kabáty, zakrývala si matka ukazováčkem rty.
 

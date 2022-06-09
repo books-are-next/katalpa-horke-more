@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Anna
 
-nyní  
-/oddech/
-
-  
+> nyní  
+> /oddech/
 
 Od chvíle, kdy se to stalo, řekne Aniela, až doteď, neuplynula ani vteřina.
 
@@ -25,14 +23,10 @@ Na konci mostu Marie a mezi ní a Magdalénou bezčasí.
 
 Anna to ví, a přesto se jí to dotýká. Rozpláče se.
 
-\* \* \*
-
-  
+* * *
 
 Všechno, co bylo po Magdaléně, se buď stalo ve světě stínu, nebo se nestalo vůbec, řekne Aniela, když Anna přestane plakat. Vezme ji za ruku. Ty mi rozumíš.
 
-\* \* \*
-
-  
+* * *
 
 Tu Anielu si nesu v sobě a nejsem jí opuštěna, stejně jako ona si nese mne a já ji neopouštím.

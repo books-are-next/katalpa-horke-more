@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 David
 
-/souš/
-
-  
+> /souš/
 
 Večer mě navštíví muž David. Nepoznává můj obličej, ale musí vědět, že jsem to já, protože k odchodu se nemá.
 

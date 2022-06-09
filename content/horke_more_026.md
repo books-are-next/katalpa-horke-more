@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Matka
 
-/vlnolam/
-
-  
+> /vlnolam/
 
 Napřed špičku. Prsty musí srolovat pod sebe, nehty zatnout do masa.
 
@@ -46,9 +44,7 @@ Nakonec, řekne, jsem ji ze sebe začala vydávat. Vycházela nohama. Ano. Stř�
 
 Mé rány se nechtěly zacelit, řekne Mariina matka. Teprve když jsem se otevřela jinde, začaly obrůstat masem.
 
-\* \* \*
-
-  
+* * *
 
 Později o tom Marie vypráví Aniele.
 

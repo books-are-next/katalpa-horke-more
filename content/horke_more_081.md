@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Mína
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 S Mínou jsem se rozešla ve zlém, protože to nešlo jinak, a dodnes kvůli tomu pláču.
 

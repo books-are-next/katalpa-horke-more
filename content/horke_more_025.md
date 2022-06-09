@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Probudí ji hlasitý šepot. Tápe v matčině posteli, nohy má zamotané do přikrývky, a protože nemůže hned ven, zmocní se jí úzkost. Během svého zápasu s peřinou si stihne ohmatat ústa, musí se přesvědčit, že hlas nevychází z ní.
 
@@ -26,9 +24,7 @@ Vyzkouší kličku na okně, otevře ho a vykloní se do zahrady; v nejistém 
 
 Zatají dech a naznačí pohyb, zvedne koleno a dotkne se jím okenního rámu, rukama pevně svírá opěradlo židle, kterou si pod okno přistavila. Mlčí a vyčkává, tvář vystavenou svítání, chodidla stále ještě v teple. Neví, co by měla dělat. Nakonec, s těžkým srdcem, opustí svou pozorovatelnu a zavře okno, ještě jednou se prohlédne v zrcadle a pomalým krokem zamíří ke dveřím. Šepot, který přichází z kuchyně, se nad ní klene jako most.
 
-\* \* \*
-
-  
+* * *
 
 Sotva vstoupila do kuchyně, nabádali ji k tichosti.
 

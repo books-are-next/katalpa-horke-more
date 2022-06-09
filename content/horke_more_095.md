@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Magdaléna
 
-nyní  
-/pohyb/
-
-  
+> nyní  
+> /pohyb/
 
 Uprostřed cesty.
 
@@ -19,9 +17,7 @@ Aniela se rozpláče úlevou. Prohmatá si tvář, je špičatá a nezraněná.
 
 Ještě je ztuhlá spánkem, ale k bdělosti chybí jediný krok. Odvrací pohled od Magdaléniných nosítek, od úzké pánve, zatopené dřevem, a dívá se na své střevíce, vpáčené do prachu cesty. Pak, kdesi v kořenech, v zákrtčí svého těla, sebere odvahu, zhluboka se nadechne a řekne, Měla jsem příšerný sen.
 
-\* \* \*
-
-  
+* * *
 
 Opuchla jsem neznámými místy.
 
@@ -61,9 +57,7 @@ Poznávám to teprve teď, protože teprve teď z něj procitám.
 
 Magdaléniným neklidným prstem jsem byla vržena doprostřed noční můry. Dovolila jsem svému tělu zestárnout a poznat muže, vydala jsem se při několika porodech. Byla jsem odloučena od těch, které jsem milovala, a unikla jsem mnohým ohňům, jiné mě sežehly. Každý úd mého těla byl zasažen bolestí a otevřel se, pamatuji si jména všech, kdo vystřelili šíp. Byla jsem zraněna a navštívena smrtí, a předtím, než jsem otevřela oči a probudila se, hleděla jsem do zrcadla na tělo plné skvrn, na tělo mdlé a s necudnými chlupy, a přese všechnu hrůzu, kterou jsem cítila, jsem byla potěšena tím, že funguje; radovala jsem se z plného břicha a tmavých prsů.
 
-\* \* \*
-
-  
+* * *
 
 Když se probouzím, hlasitě pláču. Nedokážu myslet na nic jiného než na svou bolest. V krátkém okamžiku před procitnutím znovu opouštím svou matku a vidím sestru, zachvácenou ohněm; zase nechávám mezi svá stehna vstoupit muže a přivádím na svět děti. Pod unavenými víčky držím jména všech svých milých, překvapené tváře milenek a pevná objetí; v posledních vteřinách spánku mám stále ještě před očima obraz krajiny, kterou jsem navštívila, cítím hebkost látky a pach starých dřevěných skříní.
 

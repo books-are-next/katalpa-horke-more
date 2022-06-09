@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Marie
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Marie nepřišla. Je to konec? Kdepak, ještě mám Jakubu, držím v pěsti její vlas.
 
@@ -33,17 +31,13 @@ Vykloním se, seberu slinu a plivnu. S plivnutím letí i má protéza, zably
 
 Když se otočím, na pohovce se má sestra Marie plácá do stehen a v koutku se krčí Josef Holman se zdviženými palci.
 
-\* \* \*
-
-  
+* * *
 
 Okem nebo vnitřním zrakem, když teď nemám zuby, vidím Marii. Utíká, žene se, utíká. Kam, to nevím, protože na dveře klepe Jakuba. Nese tác a na něm maso. Chvilku se dívá na má ústa. Otevřu je dokořán, aby se mohla přesvědčit, že opravdu nemám zuby. Vychutnávám si pocit vítězství. Netrvá dlouho, protože Jakuba vzápětí nabere první sousto, vloží si ho do úst a žvýká a pak, ó ano, v dlani tmavou kaši, sune mi ji ke rtům.
 
 Na pohovce stále sestra Marie a z Jakubiných úst kane živá voda, toť bujón nesmrtelnosti, hovězí nektar.
 
-\* \* \*
-
-  
+* * *
 
 Aniela: A je to Jakuba, která na mně leží jako kámen.
 
@@ -57,9 +51,7 @@ Aniela: Hlupačka.
 
 Marie: Kořist.
 
-\* \* \*
-
-  
+* * *
 
 Když se Marie konečně objeví, Aniela je překvapena. Údiv zahlédne i ve tváři své sestry. Obě mlčí a pozorují Marii, která se uloží na pohovku a zavře oči.
 

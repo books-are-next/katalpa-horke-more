@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Dvojčata
 
-kdysi  
-/prameny/
-
-  
+> kdysi  
+> /prameny/
 
 Můj muž přežívá jako stín v koruně mariánského stromu.
 
@@ -29,9 +27,7 @@ Viděla jsem, jak si Anna rovná klobouk a ostražitě pozoruje ty, kterým ram
 
 Když jsme odcházely, očima bloudili v jámě, záda napjatá, nestoudné boule obratlů, proti všemu očekávání dokazující, že i oni mají páteř; křehké kůstky spojené v dechberoucí růženec.
 
-\* \* \*
-
-  
+* * *
 
 Usychala jsem vedle něj, a on si toho nevšiml. Každý večer jsem vracela kousky kůže na místo, kam patří. Vkládala jsem je do prázdných obdélníků na obličeji a na spáncích, brala jsem včelám vosk, abych slepila popraskanou tvář, mozaiku špinavých střepů. A jestli jsem čekala voňavé maso, mýlila jsem se. Žádná milost pro zlodějku mateří kašičky.
 
@@ -75,9 +71,7 @@ Vstoupila jsem také do mysli své dcery a zaclonila jí obzor nalitými prsy. 
 
 Ochočili si mě. V mlčení jsem předla svou vlastní smrt.
 
-\* \* \*
-
-  
+* * *
 
 Hladovím, říkala jsem své sestře ve snech a její útěcha byla její pomstou. Plnila můj spánek obrazy stromů obtěžkaných plody; kdekterý pahýl rodil ovoce.
 
@@ -125,17 +119,13 @@ Byli jsme jedna.
 
 Natáhla jsem se a stala se ještě plošší. Byla jsem plochá jako sám čas. Dotkla jsem se palců jeho nohou; zaúpěl. Když jsem k nim přiblížila rty, nedokázal už setrvat v nehybnosti, prohnul se a já jsem sklouzla na špičku jeho údu; se zaťatými svaly jsem si brala všechno, co dával. Hryzala jsem ho do chodidel, abych se ujistila, že je živ a zdráv, a on se pode mnou hroutil. S bolestným křikem tvořil, prohnutý jako svého času Matka, drobil se mi pod rukama a vydával, ačkoliv nechtěl.
 
-\* \* \*
-
-  
+* * *
 
 Nakonec jsme zůstali ležet, bez pohnutí, vyčerpáni. Uzavřel svou hrůzu do semene, které teď vycházelo ze mě, jednolité a skvostné jako růženec.
 
 Měl zavřené oči. Já jsem se soustředila na nový půvab svých nohou a stehen, a když ze mě opadla největší únava, začala jsem do sebe soukat zbytky posvátné šňůry. Otevřel oči a pozoroval, jak nakládám s věcí, kterou odhodil. Nepřetahoval se o ni. Když jsem dojedla, neposkytl mi žádnou útěchu.
 
-\* \* \*
-
-  
+* * *
 
 O několik dnů později má váha vzrostla tak, že mě to vyděsilo. Věděla jsem, že v sobě nesu srdce navíc, ale netušila jsem, že bude tak těžké. Ztloustla jsem přes noc, jako bych z muže vysála život, proměnila ho v polštář a nacpala si ho pod šaty.
 
@@ -143,9 +133,7 @@ Nebyla jsem o nic spokojenější než předtím. Pozřela jsem ovci, a hebkos
 
 Naše rozmluvy se měnily v ticho dřív, než byla vyskládána všechna slova, a jeho hlas nepronikl hlouběji než k některému z medových zákoutí, jimiž bylo naplněno mé lůno. Dítě, které mi nafukovalo pupek, nebylo spojené se mnou, ale s ním, s jeho hlasem, špičkou jazyka, se rty, a pokaždé, když můj muž promluvil, zvedalo bradu a zarývalo ji do mých tkání, do měkkého klenutí, které znalo lépe než já.
 
-\* \* \*
-
-  
+* * *
 
 Má sestra mi pověděla toto, Když muž nechce, sází jedovaté stromy. Přátelí se s tisem, pěnišníkem a vavřínem. Trny jsou pro něj málo, potřebuje jed.
 
@@ -161,9 +149,7 @@ Pohlédla jsem na sestru, která to věděla ještě předtím, než se to stalo
 
 Tak jsem platila za dlaň lapenou proudem, za sestřinu ruku laskající elektřinou nabité dráty, za opuštěnou rozkoš jejího útěku.
 
-\* \* \*
-
-  
+* * *
 
 I bradavky hledaly u mého muže.
 
@@ -179,15 +165,11 @@ Vyklouzly ze mě postupně, nejprve syn a za ním, s ukazováčkem přitisknut
 
 Od začátku se obracely k mému muži. Kutaly u něj s nadějí na mléko, a protože se nedočkaly ani mléka, ani trpělivosti, musely se držet u mě. Přesto se za mým mužem otáčely tak často, až se jim na krku vytvořila malá proláklinka.
 
-\* \* \*
-
-  
+* * *
 
 Na jména si Aniela nevzpomíná.
 
-\* \* \*
-
-  
+* * *
 
 Jména? Měly jména?
 
@@ -199,9 +181,7 @@ Dobře, jmenovaly se
 
 Odplata a Zadostiučinění pro mého muže a Žárlivost a Nejistota pro Annu.
 
-\* \* \*
-
-  
+* * *
 
 Obtáčely mi kotníky. U ní bych to pochopila, už se narodila s rukou vraženou do cizího těla. Ale její bratr?
 
@@ -219,9 +199,7 @@ Otevřela jsem jim dveře, aby mohly odejít.
 
 Pamatuji si, že Anna se zakousla do klobouku.
 
-\* \* \*
-
-  
+* * *
 
 Dvojčata.
 
@@ -237,9 +215,7 @@ Byli sami.
 
 Svět se jim odrážel v matných neočištěných ploškách, rozkládal se v struktuře krystalu. Hudbu vnímali jako teplo a barvy jim praskaly mrazem. Zvuk houslí je dojímal k slzám a symfonie slyšeli v jejich prvotní podobě, rozepsané pro jednotlivé nástroje. Nedokázali však vyřešit ani tu nejjednodušší rovnici. Stále znovu se nechávali porážet nezávisle proměnnou, Anniným kloboukem, kapkou červeně na vrcholu snové kotangenty, která byla nad jejich chápání.
 
-\* \* \*
-
-  
+* * *
 
 Mé děti, průvodci životem.
 

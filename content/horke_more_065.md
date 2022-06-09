@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Matka
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Když jsem od ní odcházela, líbala mě na rozloučenou.
 
@@ -31,9 +29,7 @@ Když se měnila v kamenného bůžka, věděla jsem, že by mi mohla patřit.
 
 Nádoba hrůzy.
 
-\* \* \*
-
-  
+* * *
 
 Navštěvoval ji ten, za koho byla provdána. Vzal si její šperky, při každé návštěvě si něco odnesl. Nejprve náhrdelník s přívěsky a potom prsteny, které si v záchvatu cpávala do úst.
 
@@ -43,9 +39,7 @@ On se zpočátku mohl přiblížit až k ní, po chvíli se uklidnila, seděla 
 
 Ona sedávala na podlaze a dívala se na okénko zatažené záclonou tak dlouho, dokud se neobjevil jeho obličej. Někdy to trvalo celý den. Několikrát jsem ho doprovázela. Zabořil hlavu do záclony a sevřel v prstech kliku; opřít o sklo se neodvažoval.
 
-\* \* \*
-
-  
+* * *
 
 Pověz mi o jeho šatech, napsala Matka do fialového sešitu.
 
@@ -55,15 +49,11 @@ Jsou z šedé vlněné látky, z tvídu. Vypadají, jako by je někdo posypal 
 
 Jedno žere druhé, napsala ona. Pověz mi víc.
 
-\* \* \*
-
-  
+* * *
 
 Když jsem mu v zimě sundávala svrchník, ustřihla jsem kousek vnitřního lemu a vložila ho do Matčina sešitu. Přijala ho tiše, nechala ho projít všemi stránkami a potom svým zažívacím traktem, jedno žere druhé; vydělala ho rozložený na jednotlivé nitě hned vedle dveří.
 
-\* \* \*
-
-  
+* * *
 
 Aniela.
 
@@ -73,9 +63,7 @@ Samozřejmě, že jsem si zjistila Matčino jméno. Ačkoliv se mi do toho pří
 
 Nevyslovuje ho. Někdo jiný už to udělal za ni, na první stránce fialového sešitu. Inkoustovou tužkou, která se musí trpělivě slinit.
 
-\* \* \*
-
-  
+* * *
 
 Když jsem ji umývala, vzala mou ruku, prst, a vložila ho do sebe.
 

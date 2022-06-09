@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Marie
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Jsem okouzlena tím, že se můj život dal opět do pohybu, s Mariiným příchodem jsem se znovu nadechla.
 

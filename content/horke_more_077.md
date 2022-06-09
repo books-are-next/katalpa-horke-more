@@ -5,10 +5,8 @@ contentType: prose
 
 ANIELA
 
-stále znovu  
-/strnulost, ticho/
-
-  
+> stále znovu  
+> /strnulost, ticho/
 
 Pamatuji si každý ze svých snů. Promlouvaly ke mně pravdivě a žádný z nich nepřiznal svoji ošidnost dřív, než to bylo nezbytné. K ránu jsme se trmáceli společně, bok po boku, a někdy byla noční můra silnější než já.
 
@@ -26,9 +24,7 @@ Viděla jsem matku a ženy před ní. Viděla jsem věštkyně, bojovnice a ni
 
 Všechno jsem viděla ve snu a skrze něj. Nebylo zapomnění a tam, kde by měla být bílá místa, bylo tušení.
 
-\* \* \*
-
-  
+* * *
 
 Toto je životopis mé matky:
 

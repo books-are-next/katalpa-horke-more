@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Jakuba
 
-/přítoky/
-
-  
+> /přítoky/
 
 Jakubin mozek jsem nejprve znala z rentgenového snímku.
 
@@ -48,9 +46,7 @@ Opatrně se dotkne šíje, kde se hladká kůže bez varování mění v štět
 
 Rozradostní ji to stejně jako muže, který později v restauraci obdivuje její účes.
 
-\* \* \*
-
-  
+* * *
 
 Vada, kterou Jakuba trpí, se nazývá prosopagnosie. Jakubin mozek, stejně jako mozek ostatních postižených, nevykazuje žádné anomálie. Přesto Jakuba není schopna rozeznávat lidské tváře ani jejich výrazy.
 
@@ -62,9 +58,7 @@ Podle čeho si mě zařadila?
 
 Každý týden mám několik hodin na to, abych zkoumala zákonitosti, jimiž se řídí její rozum.
 
-\* \* \*
-
-  
+* * *
 
 Marie sedí vedle Jakuby, v ruce tužku a zápisník, ústa nabarvená. Sklání se nad papíry a neklidně poškubává zápěstím. Jakuba probírá fotografie lidských tváří, hraje si s nimi jako se skládankou, na jednu stranu dává ty, které dokáže rozluštit, v klíně shromažďuje ostatní. Nad každým obrázkem přemýšlí, ačkoliv Marie ji už nejméně dvakrát žádala, aby se rozhodovala co nejrychleji. Potřetí to opakovat nechce, a tak bezmocně přihlíží, jak pomalu se Jakuba rozhoduje, na tři takty, vezme si fotografii ze stolu, přiblíží k ní obličej, a nakonec ji opatrně odloží.
 
@@ -82,9 +76,7 @@ Přemýšlí.
 
 Žádná z nich nemluví.
 
-\* \* \*
-
-  
+* * *
 
 Večer jsem bezbranná. Nastřádá se ve mně únava z celého dne a znehybní mne. Nedokážu se bránit zlým myšlenkám.
 

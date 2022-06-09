@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Magdaléna
 
-kdysi  
-/strnulost/
-
-  
+> kdysi  
+> /strnulost/
 
 Jely na kole. Šlapala Magdaléna. Předtím se asi pohádaly; Aniela si nevzpomíná přesně, uhaduje to jen z toho, s jakou zuřivostí se Magdaléna v jejích vzpomínkách opírá do pedálů.
 

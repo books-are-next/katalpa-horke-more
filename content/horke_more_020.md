@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Jakuba
 
-/přítoky/
-
-  
+> /přítoky/
 
 Když je Marie sama, uvažuje o výrazech, které se odpoledne vystřídaly na Jakubině tváři. Myslí na pohyb svalů.
 

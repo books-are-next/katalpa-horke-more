@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Marie v zaplněném hledišti léviovského domu, odmítá lovit v kornoutu s bonbony, který koluje hledištěm, a posílat ho dál.
 

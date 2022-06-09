@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Aniela
 
-/přítoky/
-
-  
+> /přítoky/
 
 Na tvrdé pohovce, připomínající máry.
 
@@ -30,9 +28,7 @@ Zabývá se vlastními vzpomínkami, přesvědčena, že to nepoznám.
 
 Nemá strach, že bych ji mohla přistihnout.
 
-\* \* \*
-
-  
+* * *
 
 Marie.
 

@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Matka
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Když jsem ji myla, bylo to už poté, co jsem potratila, vzala jsem její prst a vložila ho do sebe. Dala jsem jí hmatat svou ránu. Zašili mě úplně, nechali jen malý otvor pro menstruační krev.
 

@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/odliv/
-
-  
+> /odliv/
 
 Z léviovského domu jsem odešla bez rozloučení.
 

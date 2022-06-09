@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Dvojčata
 
-kdysi  
-/prameny/
-
-  
+> kdysi  
+> /prameny/
 
 Byli výčitkou. Trýzní. Ohrožovali Anninu plnost, sáli dvojími ústy. Jejich sveřepost probouzela v Anně hravost, a hravost byla jen zástěrkou pro touhu svrhnout je z útesu, vymazat z bytí.
 

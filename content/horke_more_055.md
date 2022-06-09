@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Alma
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Výloha zůstala prosklená. Zůstal i nápis nade dveřmi. Neodvážila jsem se zvednout hlavu, ale mezi prsty jsem ho poznala jako rozmazanou skvrnu na bílém podkladě.
 
@@ -41,9 +39,7 @@ Zadrápla jsem se jí do dlaně s penězi a ona mě náhle pevně sevřela; je
 
 Pojď, řekla.
 
-\* \* \*
-
-  
+* * *
 
 Když šla k Magdaléninu domu, nečekala, že ho uvidí. Myslela si, že zmizel ze světa anebo změnil podobu, protože staré domy se plnily novým obsahem.
 

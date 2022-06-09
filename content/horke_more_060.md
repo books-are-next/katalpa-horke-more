@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Josef Holman
 
-kdysi  
-/vtékání/
-
-  
+> kdysi  
+> /vtékání/
 
 Svého muže jsem našla podle spodků.
 
@@ -45,9 +43,7 @@ Musíš se o sebe postarat, řekla Alma, když jsme vylévaly hnis z jejích s
 
 Dívala jsem se, jak si natahuje punčochy a připíná podvazky.
 
-\* \* \*
-
-  
+* * *
 
 Plížila jsem se za ním.
 
@@ -95,9 +91,7 @@ Záviděla mi ho?
 
 Oběma rukama držela chodidlo a tiskla rozchlípené okraje k sobě.
 
-\* \* \*
-
-  
+* * *
 
 Když zjistila, že Josef Holman usiluje o ženu, tak jako předtím usiloval o její rodiče, poklesla na duchu. Překvapilo ji, že někdo z její minulosti je schopen takové činorodosti. Sama se měla za mrtvou. A zatímco drhla špinavé spodky, on se dobýval do těla ženy. Dělal si na ni nárok. Neztrácel čas. Spoléhal na sílu trnů a pylu. Růže, gladioly, lilie. Zatím se držel při zemi. Pastelové barvy, nic výstředního. Snad vůně; učitelka je odnášela do popelnice ještě v plném květu.
 
@@ -145,9 +139,7 @@ Vzdychla. Stáhla se zpátky. Jeho doupě na dosah ruky.
 
 Musí překlenout čtverec zaneřáděného nic.
 
-\* \* \*
-
-  
+* * *
 
 Vymyslela plán.
 
@@ -231,9 +223,7 @@ Je zdravá jako ryba, jenom přidušená a posraná.
 
 Ta ostuda!
 
-\* \* \*
-
-  
+* * *
 
 Řekl mi, abych mu vyprávěla o svých snech.
 
@@ -253,9 +243,7 @@ Albertovo tělo s ženským klínem.
 
 Musel mi dát injekci.
 
-\* \* \*
-
-  
+* * *
 
 Nebyl to její první pokus o sebevraždu.
 
@@ -277,9 +265,7 @@ Nezneviditelněla.
 
 Špičky konečně mohly volně vydechnout.
 
-\* \* \*
-
-  
+* * *
 
 Nebyl to její první pokus o sebevraždu.
 

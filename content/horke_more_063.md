@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Matka
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Začala docházet na oddělení, kde Josef Holman pracoval. Nedělala nic zvláštního, některým ženám pomáhala s hygienou, odnášela jejich šaty do prádelny a převlékala jim postele; vesměs to byly činnosti, které jí ošetřovatelky rády přenechaly.
 
@@ -25,9 +23,7 @@ Aniela netušila, proč jí říkají Matka, dokud ji neuviděla svlečenou. Spo
 
 Aniela si všimla jejího břicha, příliš velkého na hubené paže a stehna, s pruhem zlatých chlupů vedoucích k pohlaví, a podívala se vyděšeně na sestru a sestra, která Matce právě drhla podpaží, řekla, Taky jsme si myslely, že je těhotná, ale jsou to jenom prdy, a pokračovala v mytí strnulého bílého těla (Aniela cítila pod prsty, jak je teplé), a když dorazila k hýždím, myla je opatrně jako skleněnou láhev, tváří se přitom opírala o Matčino rameno, a sotva se dotkla levé půlky, vyrazil z Matčiných útrob dlouhý sten a žínka zavlála jako prapor.
 
-\* \* \*
-
-  
+* * *
 
 Nafukovalo ji všechno, včetně vody. Jakmile se prohnula, břicho jí trčelo vzhůru jako velká kulatá hora.
 
@@ -37,9 +33,7 @@ Rozesmála se tak, že se sotva udržela na nohou, umyvadlo, ve kterém stála, 
 
 Osušila jsem ji a oblékla, a zatímco jsem připravovala její věci do prádelny, ona něco psala. Na odchodu jsem od ní dostala papír, do jehož středu naškrábala tučnými písmeny: Nezlobte se.
 
-\* \* \*
-
-  
+* * *
 
 Možná ho ještě někde mám. Byl to fialový sešit s tuhými deskami a ostrou zlatou ořízkou, papíry byly tvrdobílé a odpuzovaly vodu.
 

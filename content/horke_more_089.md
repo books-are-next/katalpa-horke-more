@@ -7,10 +7,8 @@ ANIELA
 Alma  
 Anna
 
-nyní  
-/žár/
-
-  
+> nyní  
+> /žár/
 
 Jednoho dne jsem potkala Almu. Stála na nábřeží, opírala se o hůl a mávala na mě rukou, Běž pryč!
 
@@ -28,9 +26,7 @@ Když Alma dokončila poslední mohylu, vrátila se ke mně. Na břehu si utrhla
 
 Zamířila k botám a její babička se připravila ke skoku. Pak se uvelebila v Almině patě, v rance, kterou kdysi připravila vlastními zuby.
 
-\* \* \*
-
-  
+* * *
 
 Přítmí.
 
@@ -86,9 +82,7 @@ Celou noc Alma učí Anielu zpívat.
 
 Aniela poctivě opakuje slova, která jí Alma předříkává, a nakonec usíná vyčerpáním.
 
-\* \* \*
-
-  
+* * *
 
 Domů jsem se vrátila tak unavená, že nade mnou Anna zaplakala.
 

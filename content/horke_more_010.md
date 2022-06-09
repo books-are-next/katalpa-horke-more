@@ -6,17 +6,13 @@ contentType: prose
 MARIE  
 David
 
-/souš/
-
-  
+> /souš/
 
 O muži Davidovi mohu říct jen tolik:
 
 Poprvé jsem se s ním milovala potmě. Nemohla jsem jinak než potmě, když při plném vědomí.
 
-\* \* \*
-
-  
+* * *
 
 Znala jeho hlas, způsob chůze a tvář, jeho postavu, zatažené břicho i ruce, spuštěné podél těla; zatímco jedním okem pátrala v jídelním lístku, druhým si ho prohlížela.
 
