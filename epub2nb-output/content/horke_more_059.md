@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Pokoj
 
-nyní  
-/strnulost, ticho/
-
-  
+> nyní  
+> /strnulost, ticho/
 
 Pokoj je o patro výš než Anielin byt.
 
@@ -23,9 +21,7 @@ Když se pro ně sklonila, zahlédla špičky ženiných bot, krotké a zaoblen
 
 Nechápala, jak se mohla zmýlit, ženina tvář byla unavená a skleslá a Aniela v ní okamžitě poznala svou pacientku.
 
-\* \* \*
-
-  
+* * *
 
 V Pokoji jsou dvě okna. Přiléhá k němu nevelká místnost, úzké doupě bez balkonu, s arkýřem, z něhož lze hmatat sochu držící římsu.
 

@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Aniela
 
-/přítoky/
-
-  
+> /přítoky/
 
 O Aniele se dozvěděla od Jakuby. Od té doby nemohla spát.
 
@@ -30,9 +28,7 @@ Stiskla Anielin zvonek, rychle přeběhla k protějšímu domu a obja­la kame
 
 Bílá skvrna za oknem, poprvé vidí Anielu. Zatajila dech, představuje si, jak Aniela hmatá po kličce. Otevře obě okenní křídla zároveň, paže rozpjaté. Začichá. Ucítí něco neznámého. Očima pátrá v listoví vrženém na chodník. Satyr, o kterého se opírá, polyká Mariinu ruku, takže se k němu obrátí zády a nehtem přitom škrábne o kámen.
 
-\* \* \*
-
-  
+* * *
 
 Jakubin obličej zůstává bez výrazu.
 
@@ -42,9 +38,7 @@ Co dělá Aniela? ptám se.
 
 Pomáhá takovým, jako jste vy, řekne nakonec.
 
-\* \* \*
-
-  
+* * *
 
 Vypravím se za ní.
 
@@ -70,9 +64,7 @@ Stále ještě nevím, čím se živí. Je lékařkou a já bych si přála, ab
 
 Za několik dní mám jasno. V Pokoji, kam mě zavedla, se drží pach cigaret, je to vůně jejího muže, která sem vstupuje z jiné místnosti. Jeden, dva, tři kroky k pohovce, která se tyčí uprostřed místnosti. Hromobití vyschlého dřeva s hrázičkou řídké květované látky, přejedu po ní prstem, takže klapot Freudovy uvolněné jazylky, to je horší než zubař.
 
-\* \* \*
-
-  
+* * *
 
 Anielina pohovka.
 

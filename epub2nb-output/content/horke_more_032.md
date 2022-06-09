@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Marie, při pohledu do zrcadla: Co se to se mnou děje?
 

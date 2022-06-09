@@ -7,10 +7,8 @@ ANIELA
 Mirjam  
 Smrt
 
-kdysi  
-/ticho/
-
-  
+> kdysi  
+> /ticho/
 
 Když se tábor vyprazdňoval, nikdo tomu nemohl věřit. Bloudili jsme známými místy, nebezpečnějšími než dřív, protože byla zbavena těch, kdo udržovali pořádek.
 

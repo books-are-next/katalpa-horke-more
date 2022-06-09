@@ -5,10 +5,8 @@ contentType: prose
 
 ANIELA
 
-kdysi  
-/nepokoj/
-
-  
+> kdysi  
+> /nepokoj/
 
 Ano, řekne Aniela. Na sobě mám kamaše, tmavohnědou sukni a svetr.
 
@@ -32,8 +30,6 @@ Počkej, zastaví ji. Až do večera mu pak pere špinavé spodky a pokrývky a
 
 Když se vrací domů (a vyhýbá se mostům), cítí v sobě náznak klenutí. Před domem potkává Josefa Holmana, který si odnáší poslední z otcových knih.
 
-\* \* \*
-
-  
+* * *
 
 Ten rabín přežil válku. Když jsem ho znovu potkala, vyprávěl mi, že mokré oblečení na něm ztuhlo jako štít, kůže Hospodinova mu říkal, a žádný šíp ji neprostřelil, nedotklo se ho nic, z čeho měl strach, neutrpěl žádnou ránu.

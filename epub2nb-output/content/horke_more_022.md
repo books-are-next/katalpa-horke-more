@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Matka stojí u vstupu do tunelu, nepouští mě dál.
 
@@ -20,9 +18,7 @@ Svatební fotografie chybí. Kdysi to ve mně vzbuzovalo podezření, že se rod
 
 Na dalších snímcích je matka už se mnou; doba jejího těhotenství také chybí. Pak následuje jeden snímek za druhým, bez přestávky, až k mé promoci a otcově smrti, a potom konec, najednou už neměl kdo fotit.
 
-\* \* \*
-
-  
+* * *
 
 Může si vybrat cestu.
 
@@ -32,9 +28,7 @@ Muž vedle ní je netrpělivý a ospalý, neměla ho s sebou brát. Nechápe, 
 
 Ve tmě před sebou nic nevidí, ale podle zvuků pozná, že se Marie zastavila, zadívala se na dům a začala váhat, možná lituje, že se sem vůbec vydávali; slyší, jak potřásá hlavou, zvoní, jako by místo obratlů měla kousky kovu, ale ať napíná oči sebevíc, nemůže ji před sebou zahlédnout. Vyrazí rukama vpřed, paži pěkně do obloučku, aby ji neudeřil do zad, ale nenahmatá ji, Marie tu není, a tak postupuje vpřed jako slepec, se rty příliš suchými na to, aby zavolal její jméno.
 
-\* \* \*
-
-  
+* * *
 
 Rozhodla se náhle.
 
@@ -42,9 +36,7 @@ Za sebou slyšela tápajícího muže, kroky vrážel do cesty, jako by mu patř
 
 Odrazila se a zmizela v zahradě. Proklouzla mezi stromy a utíkala kolem dávno zrušených záhonů. Po kamenech rozpuštěných v hlíně doskákala ke dveřím pro služku, k úzkému vchodu s kamenným prahem; stačilo, aby ukázala tvář, a dům ji vpustil, přiblížila k nim svůj léviovský nos a dveře se otevřely.
 
-\* \* \*
-
-  
+* * *
 
 Schody vzhůru, hala s lýkovým kobercem, modrá omítka, proutěný věšák, zrcadlo.
 

@@ -6,18 +6,14 @@ contentType: prose
 ANIELA  
 Anna
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Anna se narodila v samém zárodku zimy, na stromech bylo ještě listí. Ležela jsem na posteli a můj muž doširoka otevřel okno.
 
 Mrazem jsem se zacelila.
 
-\* \* \*
-
-  
+* * *
 
 První tři roky byly těžké. Pracovala jsem v jiné nemocnici než můj muž a k Anně jsme museli najmout chůvu. Mína nám to nemohla odpustit, a tak jsme se rozhodli Annu nechávat u ní a každý týden ji navštěvovat. Mína pro nás uvolnila pokoj, ve kterém kdysi býval Matčin výstřední šatník; skříně teď byly čisté a brzy se zaplnily plenami, ručníky a dětským zásypem.
 
@@ -35,9 +31,7 @@ Pracovala jsem jako asistentka na psychiatrickém oddělení a jediné vzdělá
 
 Pacienty, které mi posílal muž, jsem přijímala v našem bytě. Několikrát zazvonili, právě když jsem se chystala za Annou, omlouvali se a tlačili se dovnitř; neměla jsem odvahu je odmítnout. Některým z nich jsem z nemocnice přinesla valium nebo jiné léky a první z nich spáchal sebevraždu právě v den Anniných narozenin.
 
-\* \* \*
-
-  
+* * *
 
 Mezi mé první pacientky patřily tři ženy – matka a dvě provdané dcery. Každá z nich se jmenovala jinak, a proto jsem na jejich příbuzenský vztah přišla pozdě, jinak bych dvě z nich musela odmítnout.
 

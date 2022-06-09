@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Otcovo předloktí bylo čisté. Vím to, protože když jsem za ním chodila do nemocnice, ruce měl obnažené, přichystané k napojení na přístroje.
 
@@ -17,8 +15,6 @@ S Léviovými to tak bylo od počátku.
 
 Byli nedotknutelní.
 
-\* \* \*
-
-  
+* * *
 
 Přemýšlím o tom, jak moc jsem Léviová. Pokaždé, když mám pocit, že trpím, myslím právě na to.

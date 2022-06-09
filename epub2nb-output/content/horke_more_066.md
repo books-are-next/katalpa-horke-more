@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Alma
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Myslím na Almu.
 

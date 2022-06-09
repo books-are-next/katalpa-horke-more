@@ -6,18 +6,14 @@ contentType: prose
 ANIELA  
 Ostatní
 
-kdysi  
-/plameny/
-
-  
+> kdysi  
+> /plameny/
 
 Aniela si pamatuje svůj příchod na svět. To, co bylo předtím, si vybavit nedokáže.
 
 Někdy si představuje, jak se chvěje v otcových tříslech, a v matčiných pohybech pánví tuší předzvěst porodu.
 
-\* \* \*
-
-  
+* * *
 
 Přede mnou byla Marie a Markéta, po mně Rosa, Ilan, Joel a Adam. Bylo nás sedm. Jména nám vybíral otec a nebylo to nic lehkého; když jsme se narodili a matka nás předložila smotané v měkkém balíčku, díval se na nás jako na kámen nebo strom, jako bychom nebyli úštěpek z jeho ledví, ale zvíře, které měl Adam pojmenovat na úsvitu dějin. Tak nás pozoroval náš otec, křivku hlavy, zaoblení čela, zkřížení prstů, velikost rtů; přemýšlel o tom, jak pojmenovat bytost, která už teď je jedinečná a jednou bude sama.
 
@@ -39,9 +35,7 @@ Po Markétě jsem se narodila já. Tuším, že přede mnou byl ještě někdo, 
 
 Po mně přišla Rosa. Rosa se narodila mezi dvěma požáry, ale nedokázala si poradit ani s jediným. V únoru hořel Reichstag a v květnu knihy, vyskládané na náměstích. Ve vzduchu pukali chrousti, přivábení žárem, a otec pendloval mezi knihovnou a kolébkou; Marii bylo deset let a chodila do páté třídy, dokázala už si poradit s většinou domácích prací a poctivě se učila hrát na flétnu; když se narodila Rosa, změnila se v malou maminku a utrhovala ji matce od prsu.
 
-\* \* \*
-
-  
+* * *
 
 Matka měla tak štíhlý pas, že už jako děti jsme ho mohly obejmout a za jejími zády spojit prsty. Nosila tmavé šaty a při kojení si zakrývala břicho bílým ubrouskem.
 
@@ -49,17 +43,13 @@ Byla elegantní a praktická. Chodila do gymnázia, a nebýt toho, že doprov�
 
 Studoval medicínu, a tak se každá z jejich schůzek uskutečnila na neobvyklém místě a ve vší počestnosti (dokonce i ta, která se konala ve vypolstrované místnosti bez klik a oken v nemocnici U Andělů).
 
-\* \* \*
-
-  
+* * *
 
 Po Rose se narodili Ilan s Joelem. Byli do sebe zaklesnuti nohama, Ilan vyšel pár chvil před Joelem. Byli to první muži do rodiny, a proto bylo jejich narození náležitě oslavováno.
 
 Po Ilanovi s Joelem se narodil Adam, První i Poslední zároveň; po Adamovi nebyl už nikdo.
 
-\* \* \*
-
-  
+* * *
 
 Matčiny podprsenky byly z jemné bílé látky, všité do hladkých košilek nebo plátěných korzetů. Ramínka měly z širokého pruhu plátna, z obou stran sevřená krajkou, a zapínání na hladkou stuhu, zářivé vlákno mezi prsy, které matka dokázala vzít do prstů jedné ruky a rozvázat, takže se jí rozmarně zavlnilo kolem boků a po břiše.
 

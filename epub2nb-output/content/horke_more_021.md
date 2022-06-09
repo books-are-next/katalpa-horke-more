@@ -7,9 +7,7 @@ MARIE
 Matka  
 Dům
 
-/vlnolam, prameny/
-
-  
+> /vlnolam, prameny/
 
 Jednoho dne k nám přivezou matku. Vyděsí mě to. Uplyne celý den, než se odvážím vyjít z laboratoře a vstoupit do nemocniční budovy.
 
@@ -19,9 +17,7 @@ Dívám se na ni ode dveří, spí.
 
 Vidím, jak umíněně sevřené má rty, a tuším, že spánek, který ji odloučil od léviovského domu, není obyčejný.
 
-\* \* \*
-
-  
+* * *
 
 Bílá v bílé, matka před ní ležela jako obrovské dítě. Zakrytá nemocniční dekou, od brady po čelo známá, oční víčka jako dva lístky perleti, tmavohnědé vlasy proužkované světlem.
 
@@ -37,9 +33,7 @@ Přejde dvůr a vstoupí do jiné budovy. Sejde do suterénu, světlo z vrátn
 
 Oblékne si kabát a vrátí se do tmy.
 
-\* \* \*
-
-  
+* * *
 
 Místo, kam mířím, se zvedá přímo proti klášteru. Okny je vidět dovnitř, barevné mozaiky a dlouhé ubrusy, poctivé čalounění na židlích, růžovošedé dlaždice.
 

@@ -7,10 +7,8 @@ ANIELA
 Mirjam  
 Smrt
 
-nyní  
-/ticho/
-
-  
+> nyní  
+> /ticho/
 
 Vím o ní.
 
@@ -34,9 +32,7 @@ Jednou jsem ji přistihla jíst jablko. Schoulená seděla na zemi, kolena pokr�
 
 Dívala jsem se na její stín, žebra tygřila žebra, jazylka ostře bodala temnotou kyčlí.
 
-\* \* \*
-
-  
+* * *
 
 Vím o ní.
 
@@ -48,9 +44,7 @@ Mým rodičům rozdrtila lebku.
 
 Nevzdaluje se ode mne na krok. Jakuba o ní nemá tušení, sedí vedle ní a cpe se snídaní. Mirjamka se také neostýchá, nakloní se a vyfoukne Jakubě z talíře koláč, Jakuba si ničeho nevšimne, natáhne se přes stůl a znovu si naloží.
 
-\* \* \*
-
-  
+* * *
 
 Nepředstavovala jsem si nic.
 
@@ -80,9 +74,7 @@ Sotva se objevila, zpozorněla jsem. Pomyslela jsem na konec a sepjala ruce, te
 
 Snídala se mnou z bílého porcelánu a s chutí si dolévala čaj. Líně směřovala k poledni a nespouštěla ze mě oči, klidná a spokojená, mřížovím kostí se mi pokládala k nohám, měkce a bez pohnutí. Pozorovala každý můj pohyb, vnímala a uchovávala všechna má slova. Stala se ozvěnou, ale chybělo málo, aby předešla mému hlasu.
 
-\* \* \*
-
-  
+* * *
 
 O smrti chtěla Aniela mluvit se svou matkou.
 
@@ -98,9 +90,7 @@ Ještě nezačala dýchat, obrubník, překážka, chybějící krok; probouzí 
 
 Ukazovák Milované, Magdalénin prst.
 
-\* \* \*
-
-  
+* * *
 
 Noc.
 

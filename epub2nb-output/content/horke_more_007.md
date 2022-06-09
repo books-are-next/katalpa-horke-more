@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Začala jsem se měnit.
 
@@ -38,9 +36,7 @@ To, kým jsem, mi zatím nepůsobí bolest ani radost, jsem netečná a zvědav
 
 Kdyby mě však někdo oslovil jménem, řekl by, Léviová, Marie.
 
-\* \* \*
-
-  
+* * *
 
 Na světě je několik mužů, s nimiž jsem jedla ryby. Jeden z nich otevřel rybu po celé délce, pak udělal několik rychlých bočních řezů, a nakonec vytáhl kostru, celou a neporušenou.
 

@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Sestra Marie
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Jen se přiblížit, šeptá Marie, Anielina sestra, a bradavky jí ve tmě žhnou.
 
@@ -27,9 +25,7 @@ Plánují. Budou se držet za ruce. Jedna potáhne druhou.
 
 Zapomínají na stráže i na psy.
 
-\* \* \*
-
-  
+* * *
 
 Marie nakonec zůstane sama.
 
@@ -39,9 +35,7 @@ Když se rozběhla, zranila jí prsty.
 
 K dosažení cíle stačily Marii tři skoky; Aniela je později vnímala jako velký zářivý oblouk.
 
-\* \* \*
-
-  
+* * *
 
 Večer za mnou přišla. Čekala na vysvětlení. Měla vyhráno, bylo jí vidět až do žaludku. Ale její vztah k věcem končil tím, že jimi mohla procházet.
 

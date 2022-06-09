@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/prameny/
-
-  
+> /prameny/
 
 Probudím se s rukama zapřenýma o pelest postele, prsty bílé a studené jako led.
 
@@ -24,9 +22,7 @@ Dokud jsem tu já, zůstane pozorovatelkou, bude k sobě tisknout rty a zaujat
 
 Začnu prohledávat horní patro. Svůj pokoj vynechám, nenašla bych v něm nic, co bych neznala. Pátrám v matčině skříni, nočním stolku, knihovně. V poledne dojdu k telefonu, zavolám do nemocnice a ujistím se, že matka je dosud v bezvědomí.
 
-\* \* \*
-
-  
+* * *
 
 Proč, zeptá se později Aniela, vám tak záleželo na tom, aby matka zůstala v kómatu?
 
@@ -34,9 +30,7 @@ Protože, Marie má jemný profil, a když se během terapie dívá z okna, vy
 
 Aniela se na nic dalšího neptá.
 
-\* \* \*
-
-  
+* * *
 
 Matčiny věci jsou nezajímavé, kepr a umělá vlna, falešné límce, které se zapínají na patent a končí nad bradavkami. Silonové punčochy se lámou v prstech a z proděravělých pat se řinou drobky její kůže.
 
@@ -52,9 +46,7 @@ Rodinné panoptikum zná dokonale. Otcova rodina je prokrvená a šťavnatá, m
 
 Marie je shrne zpět do krabice, vstane a musí se zhluboka nadechnout. Je čas na svačinu, oběd, večeři; ještě rychle proběhne koupelnu a pak se spustí po schodech dolů.
 
-\* \* \*
-
-  
+* * *
 
 Jsem v léviovském domě.
 
@@ -64,9 +56,7 @@ Jsem v léviovském domě.
 
 Stojím uprostřed schodiště. Oči si zakrývám dlaní.
 
-\* \* \*
-
-  
+* * *
 
 Je mi dvanáct let a opatrně se plížím dolů.
 
@@ -92,9 +82,7 @@ Co je to? zeptala jsem se.
 
 Konec nadějím, odpověděla.
 
-\* \* \*
-
-  
+* * *
 
 Když vzhlédnu, chodba je prázdná.
 

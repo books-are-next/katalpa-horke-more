@@ -5,10 +5,8 @@ contentType: prose
 
 ANIELA
 
-stále znovu  
-/žár/
-
-  
+> stále znovu  
+> /žár/
 
 Byly to sny nedotčené mou sestrou Marií.
 
@@ -26,8 +24,6 @@ Ve stínu těla, myšlenek, ňader
 úzké kotníky a stehna,  
 která jako třísky štěpí další dcery.
 
-\* \* \*
-
-  
+* * *
 
 Kdybych řekla, že od té doby vyhledávám jen ženy, nebyla by to pravda. Ale od chvíle, kdy ke mně začaly přicházet ve snu, se miluji jen s nimi, nebo s nikým.

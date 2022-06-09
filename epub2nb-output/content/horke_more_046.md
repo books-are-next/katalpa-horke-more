@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Magdaléna
 
-kdysi  
-/strnulost/
-
-  
+> kdysi  
+> /strnulost/
 
 Než nás odvezli z města, šla jsem za Magdalénou.
 

@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Matka
 
-/vlnolam, moře/
-
-  
+> /vlnolam, moře/
 
 Mám horečku.
 
@@ -30,17 +28,13 @@ Jsem nemocná, řeknu a cizí hlas v chodbě vysloví zaklínadlo, telegram, a
 
 Před třemi dny zemřela matka.
 
-\* \* \*
-
-  
+* * *
 
 Spánek je vyhrazen temnotě a odpočinku; přestože matka zatíná pěstičky a stěžuje si na odložený pohřeb, nedovolím jí vstoupit. Už několik dní leží v mrazáku, a ještě chvíli bude, závistivě pokukuje po mém kabátu, ale dokud spím, nedám ho z ruky. Když se probudím, vrhne se po něm a cpe ruce do rukávů. Odvleče si ho s sebou. Víc ze mě nedostane. Naříká a s uraženým výrazem mizí; v duchu si chystá historku o nevděčné dceři, kterou bude vyprávět v léviovském domě.
 
 Ještě mezi dveřmi mi připomíná svůj pohřeb.
 
-\* \* \*
-
-  
+* * *
 
 V dalších dnech naslouchám tomu, co se děje uvnitř mého těla. Nemám hlad, ale donutím se spolknout kousek chleba, abych ho mohla sledovat jícnem.
 
@@ -50,9 +44,7 @@ Matka lká, když otevřu ústa a zkoumám své zuby. Na léviovská setkání 
 
 V mrazáku ji to nudí, sděluje mi, zatímco se věnuji svým vůním. Povzdechnu si, na nic jiného nemám čas, pracuji.
 
-\* \* \*
-
-  
+* * *
 
 Sedmý den odpočívám. Chtěla bych mluvit o svých šesti. Pod vrstvou špíny vidím, že jsem zhubla, jsem-li živá, nevím.
 

@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Alma
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Dostala práci, i když to nečekala. Viděla kolem sebe ženy s širokou hrudí, které vláčely pytle s oblečením, otáčely klikou pračky nebo drhly cíchy. Dlouhými kleštěmi sahaly do plamenů, vybíraly žhavé uhlíky a palcem je pěchovaly do žehličky.
 
@@ -27,9 +25,7 @@ Nikdy nevěděla, co najde uvnitř korzetů. V některých byly zašité kovov�
 
 Když se k ní začaly některé kousky prádla vracet, věděla, co v nich je, aniž párala dvojité švy nebo obruby. Některé předměty se působením vody a mydlin začaly drolit; tam, kde bývala výduť, ve které Aniela objevila křížek z kočičího zlata nebo olověný prstý­nek, zůstalo pár zrnek rzi, která musela ve studené vodě mnout tak dlouho, dokud neodplavila poslední kousek.
 
-\* \* \*
-
-  
+* * *
 
 V Magdalénině domě se nemohlo pářit z ničeho jiného než z kádí naplněných louhem a špínou. Zel jako otevřená tlama, a třebaže vyvrhoval čistotu, pro sebe si nenechával nic než špínu.
 

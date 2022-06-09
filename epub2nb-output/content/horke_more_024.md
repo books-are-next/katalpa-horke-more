@@ -7,9 +7,7 @@ MARIE
 Matka  
 Dům
 
-/vlnolam/
-
-  
+> /vlnolam/
 
 Přízemí domu je obydlené.
 
@@ -35,9 +33,7 @@ Pokaždé, když jsem ji přišla navštívit, nalezla jsem ji v ložnici, rozm
 
 Nevěděla jsem, že omládla.
 
-\* \* \*
-
-  
+* * *
 
 Po babiččině smrti jsme seděly v kuchyni a rozbíjely nádobí. Nenechaly jsme si nic, ani stojánek na vajíčka nebo náprstek, ničily jsme kousky z nejlepších porcelánek v Říši, hluboké mísy s bílým dnem, kameninové talíře a omáčníky s okraji změklými smetanovým sosem, zbavovaly jsme se všeho, co do domu přišlo během války, podšálků, smaltovaných hrnců, ve kterých uvízly zbytky masa, fotografií.
 
@@ -53,15 +49,11 @@ Dobrá práce.
 
 Později se sem vrátila a začala znovu.
 
-\* \* \*
-
-  
+* * *
 
 V matčiných představách jsme na konci třicátých let a ona se v babiččině kuchyni zalarvila se vším všudy, ještě chodí do školy a rtěnku v kabelce balí kvůli učebnicím do kapesníku.
 
-\* \* \*
-
-  
+* * *
 
 Jak poznám stáří stehu? Beru do rukou látku jejích šatů. Ušít to nemohla, protože šít nikdy neuměla. Ale co když si přála být švad­lenou? V sešitech, které jsem tu našla, vidím první náčrty, střihy.
 
@@ -85,9 +77,7 @@ Místnost, kterou jsme vybílily. Prázdno po těch, kdo přijímali od kohokoli
 
 Netušila jsem, že dům začal obrůstat masem, nalil se a zaplnil. Zatímco jsem stoupala po schodech za ní, kynul dole chléb z pečlivě proseté mouky.
 
-\* \* \*
-
-  
+* * *
 
 Jsem unavena pátráním po mladé dívce, do které se matka převtělila. Vůně zapomenuté snídaně mě rozčiluje, otevřu odpadkový koš a smetu do něj všechno, co nechala na stole, čaj vchrstnu do výlevky a pustím za ním horkou vodu, plamínek v karmě, na rozdíl od svého bratra v horním patře, vyzývavě tře jazykem o sklo.
 

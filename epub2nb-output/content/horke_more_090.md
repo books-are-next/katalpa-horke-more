@@ -7,10 +7,8 @@ ANIELA
 Anna  
 Jakuba
 
-nyní  
-/žár/
-
-  
+> nyní  
+> /žár/
 
 Omáčka z králíka. Boj o ledvinky. Jedné se zmocňuje Jakuba. Její ruka se rychle mihne nad talířem, sleduje dráhu, kterou si předtím vytyčila pohledem. Postřehnout ledvinku v míse plné bobkového listu a jalovce je umění, které předtím ovládala jenom Anna. Teď sedí vedle konkurence a trochu se ušklíbne, když Jakubina vidlička zamíří i podruhé ke kousku, který si vyhlédla pro sebe. Když se Jakuba vítězně stahuje na svůj talíř, upustí ledvinku přímo do Annina klína.
 
@@ -34,9 +32,7 @@ Když Jakuba dojí, všimnu si jejích rukou; pod jedním nehtem má zrníčko p
 
 Anna začne sklízet ze stolu. Na šatech má mastný stín a pět rozmazaných Jakubiných prstů. Nemrzí ji to, později své svatební šaty vyhodí; výstřižek z ušpiněného klína si nechá na památku.
 
-\* \* \*
-
-  
+* * *
 
 Anna přemlouvá matku, Dej jí ještě příležitost!
 
@@ -54,9 +50,7 @@ Než stihne matce odpovědět, Aniela si povzdychne. Rozhodne se, že se ještě
 
 Víš, kolik je mi let?! křičí pak na odcházející Annu z okna. Ve skutečnosti to vědí obě, a žádná z nich to nepovažuje za argument. Anna jí zamává z chodníku, a protože to dluží napjaté ulici, vykřikne Aniela číslo a přibouchne okno.
 
-\* \* \*
-
-  
+* * *
 
 Podruhé se s Jakubou setkala v zrcadlovém bludišti. Když na to vzpomíná, necítí hanbu, ale stejnou zlomyslnou zvědavost, jakou měla ve chvíli, kdy kupovala lístky, strkala Jakubu před sebou a ohmatávala první lesklé hrany.
 
@@ -74,16 +68,12 @@ Pod nohama kluzko. Rozběhne se. Přezůvky s gumovou podrážkou, které si mu
 
 Aniela stojí ve výklenku nedaleko dveří. Pozoruje oslepenou družku. Snaží se zadržovat dech, ale přesto teplem těla rosí okolní stěny. Její tep vede Jakubu správným směrem. Jakuba zrychluje krok, už netápe. S rozpřaženýma rukama si běží pro útěchu. Opouští labyrint, její cesta je přímá. Pospíchá, ve tváři výraz ukřivděného dítěte. Sílu zrcadel násobí slzami. Dopadne přesně tam, kde je podlaha ohřátá Anielinými chodidly. Obejme jí kolena a žaluje.
 
-\* \* \*
-
-  
+* * *
 
 Nejprve byla Jakuba zmatená. Proplouvala mezi cizími lidmi, pláč na krajíčku. Pak se zastavila a, schoulená, zbystřila smysly. Když se narovnala, zamířila rovnou ke mně.
 
 Její výčitky mě obměkčily. Hebce přilnula k patě mého těla. Pomohla jsem jí vstát a ona, vlasy rozcuchané, slané záňadří, plakala jako dítě. Přinutila jsem ji nazout si zpátky gumové boty a zbytek odpoledne jsme strávily korzováním podél zrcadlových stěn, zavěšené do sebe jako dvě sestry.
 
-\* \* \*
-
-  
+* * *
 
 Viděla jsem jen nás dvě. Znásobené a polknuté zářivou plochou. I kdyby nás odráželo tisíc zrcadel, vždycky bychom byly jenom dvě. Zástup tvořený povedeným párkem, jednou bezzubou a druhou s pamětí děravou jako cedník.

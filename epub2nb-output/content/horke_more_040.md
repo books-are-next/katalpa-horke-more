@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/příboj/
-
-  
+> /příboj/
 
 Tak se zachází s mrtvým tělem.
 

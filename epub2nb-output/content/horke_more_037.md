@@ -5,9 +5,7 @@ contentType: prose
 
 MARIE
 
-/moře/
-
-  
+> /moře/
 
 Před zrcadlem, kůži z divocha v rukou.
 

@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Mína
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Nemohla najít prázdné kupé. Obíhala vlak a rozčileně pokukovala po hodinkách. Nakonec si našla místo v posledním vagonu. Posadila se u dveří a třela si prsty naběhlé od provázku, kterým byl balík s Matčinými věcmi převázán. Počkala, až se vlak rozjede, a pak se dala do rozplétání uzlů.
 
@@ -31,9 +29,7 @@ Fialový sešit skryla do kabelky.
 
 Odcházela s balíkem plným rekvizit; skleněné knoflíky, kdo to kdy viděl; brokát a samet, střevíce s korkovou podrážkou potaženou gumou.
 
-\* \* \*
-
-  
+* * *
 
 Nenosila nic jiného, řekla sestra jejího muže a otevřela skříň. Byla napěchovaná látkami, které Aniela neuměla ani pojmenovat (to mě nejvíc trápí, že mi vzali šaty, řekla jí Matka); pach kožešin a peří.
 
@@ -69,9 +65,7 @@ Pláče radostí, řekla jeho sestra.
 
 Tyhle jsou poslední, ukázala hlavou k balíku, který mezitím stihl otevřít. Černý bengalín pálil papír na uhel.
 
-\* \* \*
-
-  
+* * *
 
 Šla mě vyprovodit na vlak.
 
@@ -107,15 +101,11 @@ Vyvrátíme je, navrhuje. Už teď má rty jako beranidlo.
 
 Nehýbám se a ona mě bere za ruku. Odcházíme zpět k domu. Ještě téhož večera pro mě zabíjí slepici, škube ji a vaří polévku, do které pouští dvě vejce.
 
-\* \* \*
-
-  
+* * *
 
 Malá žena byla šťastná. Svlékla se a vlezla si ke mně do postele. Udělala jsem jí místo a ona okamžitě usnula. Kůži měla hrubou jako plátno; když jsem ji ráno objala, řekla, Tohle ne, taková byla ona, a mě polil stud, stáhla jsem ruku a nechala ji vstát. Oblékla si šaty a punčochy, uvázala zástěru. Než odešla, hodila po mně okem a usmála se.
 
-\* \* \*
-
-  
+* * *
 
 Druhý den večer jsem znovu spatřila Matčina muže. Skloněný vedle kuchyňských kamen štípal dřevo. Měl široká záda a hranaté prsty.
 
@@ -137,9 +127,7 @@ Teď seděl proti mně, prsty zabořené v tabatěrce.
 
 Viděl jsem konec, řekl. Ale kde to má začátek?
 
-\* \* \*
-
-  
+* * *
 
 Vyšli jsme z pokoje a vydali se ke skříním plným šatů. Byli jsme bosí. Ani na chvilku nás nenapadlo změnit směr a zavést nepřítele na falešnou stopu, pod sekyrku Mínina bratra.
 
@@ -157,9 +145,7 @@ Ubrousky, šátky, prostírání. Rukavice, slunečníky, podvazky, vějíře.
 
 Viděla jsem, že můj muž sotva popadá dech. Stál v řece hedvábí, tryskající z otevřeného lůna rovnou do hrobu, a vyhýbal se stehům tenkým jako vlas.
 
-\* \* \*
-
-  
+* * *
 
 Ve skutečnosti Anielin muž ucítil příležitost obléknout své mrtvé.
 
@@ -185,9 +171,7 @@ Konečně se dotkl eucharistie. Uchvátil ji, natáhl si ji jako rukavičku. Jez
 
 Aniela neodmítla. Do korzetu ji zašněroval sám; opíral se o ni nohou, když ji zbavoval ňader.
 
-\* \* \*
-
-  
+* * *
 
 Vystoupila prdel a boky.
 
@@ -211,9 +195,7 @@ Pokoj jsme proměnili v kovárnu, hedvábí v podestýlku.
 
 Rozhodil kameny proti mému štítu.
 
-\* \* \*
-
-  
+* * *
 
 Tak byla počata Anna, tedy jako hříbě.
 
@@ -237,9 +219,7 @@ Stála mlčky, pozorovala tisíckrát přenášená mláďata (dole vlhko, naho�
 
 Zkusila jsem vyslovit její jméno; opustila nás dřív, než jsem otevřela ústa.
 
-\* \* \*
-
-  
+* * *
 
 Zničili jsme její panství.
 
@@ -257,9 +237,7 @@ Pečlivě se starala o dokonalý šatník a zároveň nenáviděla všechno, c
 
 Než se dotkla Matčiných šatů, dlouho si drhla ruce a čekala na znamení, které jí umožní se jich dotknout.
 
-\* \* \*
-
-  
+* * *
 
 Odjeli jsme bez rozloučení, protože se k nám obrátila zády.
 
@@ -267,9 +245,7 @@ Cestou jsem plakala. Nenápadně jsem se dotýkala břicha a přemýšlela o t
 
 Když jsme se usadili ve vlaku, můj muž se usmál. Mezi zuby se mu zatřpytila krajka.
 
-\* \* \*
-
-  
+* * *
 
 Aniela netušila, jestli počala své dítě s mužem, nebo s jantarovou jehlicí na klobouky. Stála před zrcadlem a zkoumala své břicho, snažila se nahmatat hebkost hlavičky.
 

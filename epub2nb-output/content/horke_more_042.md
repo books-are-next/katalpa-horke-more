@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Dům
 
-/moře/
-
-  
+> /moře/
 
 Domem jsem prošla od sklepa po půdu.
 
@@ -22,9 +20,7 @@ Rozdrtila jsem ho a vysála.
 
 Vylezla jsem na střechu. Cestou jsem poklepávala na stěny a uvažovala o jejich síle. Viděla jsem, že dům má dobrou kostru, zdi napjaté a krovy sevřené. Za komínem jsem znovu usnula a probudil mě déšť, vstala jsem a přemýšlela, jednou nohou nakročená k městu a druhou zabořena v hřebeni. Okapem se hnala voda.
 
-\* \* \*
-
-  
+* * *
 
 Když jsem dům začala požírat, zjistila jsem, že ani vlčí tělo není odolné k prachu. Hledala jsem něco, čím bych se mohla zakrýt, a ve svém starém pokoji jsem nalezla plné skříně.
 
@@ -48,9 +44,7 @@ Jenom to zkouším, vysvětlím jí.
 
 Matka vycení zuby. Směje se a rozhání kouř rukou; v zahradě není vidět na krok.
 
-\* \* \*
-
-  
+* * *
 
 Nejdřív jsem spálila nábytek z místností, do kterých nikdo nechodil. Pak jsem oškrábala zdi a odstřihla lustry. Sloupala jsem tapety a vytáhla hřebíky s obrazy; rámy jsem připevnila lepenkou zpět. Vysadila jsem okna i dveře a opřela je o stěnu tak, aby nebylo nic poznat.
 
@@ -66,9 +60,7 @@ Později přišla bouřka a strhala v domě patra. Přečkala jsem ji na zahra
 
 Pak jsem se posadila a odpočívala. Všimla jsem si, že mezi dveřmi přešlapuje matka. Nafukovala tváře a krčila čelo; když ke mně udělala krok, zavrtěla jsem hlavou. Dívala jsem se na ni tak dlouho, dokud nezmizela.
 
-\* \* \*
-
-  
+* * *
 
 Kuchyni, ve které se Léviové scházeli, jsem vyprázdnila naposled.
 
@@ -84,9 +76,7 @@ Matka nakonec.
 
 Opustí mě a rány v mých kostech se zacelí.
 
-\* \* \*
-
-  
+* * *
 
 Jsem sama.
 
@@ -104,9 +94,7 @@ Chci ho mít stále na očích. Vstanu a vyberu si místo u dveří, bokem se 
 
 Až nastane čas, vstoupím do něj.
 
-\* \* \*
-
-  
+* * *
 
 Ticho.
 
@@ -148,9 +136,7 @@ Stéblo trávy.
 
 Ze zvuku, se kterým prorazilo podlahu, se rodí nový jazyk.
 
-\* \* \*
-
-  
+* * *
 
 Marie spí uprostřed sadu.
 

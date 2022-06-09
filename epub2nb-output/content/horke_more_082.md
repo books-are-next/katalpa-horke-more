@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Marie
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Je několik vysvětlení pro to, jak se o mně Marie dozvěděla.
 

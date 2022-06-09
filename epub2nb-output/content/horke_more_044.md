@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Magdaléna
 
-kdysi  
-/strnulost/
-
-  
+> kdysi  
+> /strnulost/
 
 Magdaléna přinesla granátové jablko.
 
@@ -27,9 +25,7 @@ Znaly jsme se teprve pár měsíců, a už jsme si vyrazily zuby. Ne­můžeme 
 
 Naše jména odlišovala jen grafická podoba.
 
-\* \* \*
-
-  
+* * *
 
 Kaluže.
 
@@ -47,17 +43,13 @@ Sama se změnila v kulatý plod.
 
 Potom jsme obě zapomněly, proč jsem přišla.
 
-\* \* \*
-
-  
+* * *
 
 Magdaléna líbá Anielu na rty, bradu, tváře.
 
 Okenní parapet je prázdný.
 
-\* \* \*
-
-  
+* * *
 
 Nehnou se od sebe na krok. Když jdou po ulici, Magdaléna nevkročí na chodník a nechá se postříkat protijedoucím autem. Cítí se jako hrdinka, když vozí Anielu na rámu svého kola, v pase uvázaný Anielin svetr se žlutou hvězdou, kterou večer obkresluje na její nahá záda. Je tak vzrušená láskou k přítelkyni, že se pouští do stále odvážnějších kousků, shání pro Anielu čokoládu, vodí ji do zadních řad kina, prochází se po městě v jejích označkovaných šatech.
 

@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 David
 
-/souš/
-
-  
+> /souš/
 
 Dnes zpracovává čísla a s nikým nemluví. Ráno dlouho stála před zrcadlem a zkoušela si oblečení; když jde do laboratoře, bere si bílý plášť, ale i pod ním chce být oblečená tak, aby od minuty mohla umřít, čistě a elegantně.
 
@@ -30,15 +28,11 @@ Vystudovala neurologii, židovská nevěsta, chytrá po tatínkovi. Když chodí
 
 Teď počítá mnohem složitější věci, ale dědečkovo vysvětlení nezapomněla. Každoročně si na okraj diáře poznamená číslo, židovský letopočet.
 
-\* \* \*
-
-  
+* * *
 
 Odpoledne vyhladoví. Vzpomene na muže, na Davida.
 
-\* \* \*
-
-  
+* * *
 
 Když je to na koření, je to vždycky ve spěchu. Opřu se o dlaně a dávám pozor, abych nehtem nepoškodila obal.
 
@@ -70,9 +64,7 @@ Přemýšlela nad tím, proč si ji vybral?
 
 Jen okamžik. Vystoupil z místa, na kterém už dávno byl.
 
-\* \* \*
-
-  
+* * *
 
 Pro něj to není poprvé, přesto se v jejím těle ztratí.
 
@@ -82,9 +74,7 @@ Marie chvíli odpočívá, než ho začne utěšovat.
 
 Říká mu něžnými jmény.
 
-\* \* \*
-
-  
+* * *
 
 Později se dozví, že jeho otec je košerákem, tele rozporcuje i poslepu. On to dotáhl dál, roznáší jídlo v noblesním podniku a po večerech studuje kabalu. Před svátky pomáhá otci, už jako dítě dostával skládací zvířátka z kartonu, a tak si před každou porážkou poctivě opakuje.
 

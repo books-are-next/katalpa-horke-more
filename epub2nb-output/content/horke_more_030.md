@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 David
 
-/souš/
-
-  
+> /souš/
 
 Visí jí na rtech, čeká. Útěk k neznámému domu jí odpustil, stalo se to tak dávno, že si z toho pamatuje jen Mariin skok do tmy.
 
@@ -30,9 +28,7 @@ Marie ho pak odstrčila a on se jí letmo otřel o stehno, sám si podržel ú
 
 Nakonec se uložil pod jejím uchem a doufal, že promluví.
 
-\* \* \*
-
-  
+* * *
 
 Místo slov ho posléze naplní strach. Přitiskne se k ní. Zvedne hlavu a prohlíží si její nohy. Má pěkná lýtka a bílé nehty, z jednoho právě odchází černá, pozůstatek po ráně, kterou kdysi utržila.
 
@@ -52,9 +48,7 @@ Marie mu s úsměvem ukazuje léviovský div.
 
 Netrpí.
 
-\* \* \*
-
-  
+* * *
 
 A není rozdílu mezi bolestí a krásou, obě cítím stejně. Vím, že mi tělem prochází železný prut, a kdybych chtěla, mohu vykřiknout.
 

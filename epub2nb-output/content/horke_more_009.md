@@ -6,9 +6,7 @@ contentType: prose
 MARIE  
 Aniela
 
-/přítoky/
-
-  
+> /přítoky/
 
 Pohovka u Aniely je jí nepohodlná. Má nohy skrčit, nebo natáhnout? Zavřít oči? Možná mohla zůstat sedět. Ale na to měla myslet už poprvé; když tehdy Aniela ukázala na pohovku a vyzvala ji, aby se posadila, neměla si hned zouvat boty a hloubit pohodlný důlek, stačilo, aby se dotkla okraje a shrbila ramena.
 
@@ -22,9 +20,7 @@ Marie se narovná a zavře oči. Přesto jí pod víčky zůstane Anielin obraz
 
 Zpočátku chodila za Anielou kvůli Jakubě. Proč k ní chodí teď, neví.
 
-\* \* \*
-
-  
+* * *
 
 Na Anielině pohovce vycházím ze sebe, mažu hranice. Zouvám se a střevíce mi mizí z dohledu; jsem bezbranná. Lež nemá smysl, přestože by mohla upoutat Anielinu pozornost stejně dobře jako pravda.
 
@@ -32,9 +28,7 @@ Když usedám na pohovku, stávám se součástí Anielina dne. Nepřibližujeme
 
 Zrcátka, které Aniela nastražila do knihovny, si nevšimnu hned, dlouhou dobu se leskne v koutku mého oka. Teprve mnohem později si uvědomím, že jde o Anielinu tajnou pozorovatelnu, a když nastane vhodná příležitost, potěžkám ho v dlani a pohladím rukojeť.
 
-\* \* \*
-
-  
+* * *
 
 Když Anielu opouštím, cítím se unavená.
 

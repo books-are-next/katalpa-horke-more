@@ -6,16 +6,12 @@ contentType: prose
 ANIELA  
 Marie
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Marie poprvé. Přichází o pár minut dřív. Neřekne víc než Miluji. Nakloním se, abych ji lépe slyšela, ale zbytek věty mi vezme její dech.
 
-\* \* \*
-
-  
+* * *
 
 Když Marie promluvila, otevřela se přede mnou cesta. Znala jsem ji. Už předtím jsem zkoušela přejít bosou nohou po kamení.
 
@@ -43,9 +39,7 @@ Procházím Mariinými pootevřenými rty. Jsem holá jako skála, nic než kost
 
 Vcházím tam, kde vládlo ticho.
 
-\* \* \*
-
-  
+* * *
 
 Aniela je uvyklá všemu, co z květované pohovky přichází, ale Mariino mlčení po jediném slově ji zaráží. Když se Marie nehýbá, začíná se o ni bát. Naklání se tváří k tváři, mezi nimi je prostor několika tichých kroků.
 

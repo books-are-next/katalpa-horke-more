@@ -7,10 +7,8 @@ ANIELA
 Marie  
 Pokoj
 
-nyní  
-/touha/
-
-  
+> nyní  
+> /touha/
 
 Prohlíží si vajíčka, která ze sebe vytáhla na karmínové šňůrce. Vystavuje je slunečním paprskům. Když má hotovo, s hlavou nakloněnou o pár kroků ustoupí a těší se šňůrou napjatou mezi dvěma stěnami.
 
@@ -22,31 +20,23 @@ Má bílé tělo, dosud nezraněné mužským vousem.
 
 Nakonec se rozhodne pro druhý korálek zleva. Opatrně ho do sebe vloží. O pár měsíců později ho zalitý krví ztratí, ale v tuhle chvíli se cítí jako nevěsta.
 
-\* \* \*
-
-  
+* * *
 
 Podruhé roztahuje korálkovou šňůru před početím Anny. Má pocit, že Anna na ni mává kloboukem, třetí vajíčko zprava.
 
-\* \* \*
-
-  
+* * *
 
 Aniela je pokaždé udivena tím, kolik tvarů se jí nabízí; kromě oválů jsou tu placatice i hvězdy. Tam, kde se vajíčka dotýkají jedno druhého, mají malou prohlubeň.
 
 Postupně jich několik vybere pro své další děti. Žádné z nich není tak krásné jako to pro Annu, které s sebou vleklo kusy jejích tkání, jako by se jí nechtělo pustit.
 
-\* \* \*
-
-  
+* * *
 
 Naposledy ze sebe šňůru odmotává před Mariiným příchodem. Když vypustí z útrob poslední smyčku lana, oddechne si. Šňůra se chvěje mezi stěnami pokoje.
 
 Aniela se posadí. Zadumaně civí na provaz a náhle se plní tichou hrůzou. Mezi jednotlivými vajíčky jsou mezery, kdysi jimi bezhlavě plýtvala a každý měsíc posílala jedno pryč, do země, po vodě. Několik jich pečlivě vybrala a naočkovala mužem, ale v porovnání s tím, kolik jich v doprovodu krvavých fanfár propouštěla ze svých služeb, to bylo rozhodně málo.
 
-\* \* \*
-
-  
+* * *
 
 Pozoruji šňůru, kterou jsem vytrhla ze svých útrob, a připadá mi, že se na ní houpají všechny mé děti; poprvé poznávám také to, které jsem potratila.
 
@@ -70,9 +60,7 @@ Změnila se bez mého vědomí. Ustaly neohlášené odchody. Vidím provaz vetc
 
 Lítostivě je prohlížím. Zapomínám na to, že má přijít Marie. Jsem tu já a šňůra mých vajíček.
 
-\* \* \*
-
-  
+* * *
 
 Nakonec se zvednu. Mířím k omšelé liáně.
 
@@ -86,9 +74,7 @@ Dýchám štiplavou vůni zrání. Pak odhodlaně sáhnu po nejbližším plodu,
 
 Radostí se rozpláču.
 
-\* \* \*
-
-  
+* * *
 
 Nečekala jsem, že v nich bude ještě život. Ale místo do sněhu jsem vložila ruku do kovářské pece. Ach! Nemohla jsem tomu uvěřit. Dotýkala jsem se jich znovu a znovu. Pronikala mi do páteře, oděla jsem se do nich.
 
@@ -96,15 +82,11 @@ Tíha šedobílé duhy.
 
 Pak jsem uslyšela Marii.
 
-\* \* \*
-
-  
+* * *
 
 Zatímco jsem v koupelně, Marie nahlíží do mé pracovny.
 
-\* \* \*
-
-  
+* * *
 
 Marie:
 
@@ -114,9 +96,7 @@ Ve vzduchu visí otisk. Co tady kuchala, že to krvácelo stříbrem?
 
 Nastražila mi past? Vždyť věděla, že přijdu.
 
-\* \* \*
-
-  
+* * *
 
 Když vyjdu z koupelny, stojí už zase na chodbě. Nehnutě, jako by tam byla celou dobu, rozepíná si kabát a dává ho na věšák. Pokynu jí a jdeme do Pokoje, ona krok přede mnou. Posadí se na pohovku, kolena u sebe, ruce v klíně.
 

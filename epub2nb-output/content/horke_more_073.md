@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Sestra Marie
 
-kdysi  
-/žár/
-
-  
+> kdysi  
+> /žár/
 
 Večer nás zahnali spát.
 

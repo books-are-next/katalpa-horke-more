@@ -5,10 +5,8 @@ contentType: prose
 
 ANIELA
 
-stále znovu  
-/strnulost, ticho/
-
-  
+> stále znovu  
+> /strnulost, ticho/
 
 Nenacházím v tom smyslu.
 

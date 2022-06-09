@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Magdaléna
 
-kdysi  
-/strnulost/
-
-  
+> kdysi  
+> /strnulost/
 
 Kromě dřeva, uhlí a elektřiny se ve většině domácností používal svítiplyn. Dal se využít i tak, jak to udělal pan Börner, když ho sobě a Magdaléně pustil před spaním. Na co myslel, než se propadl do temnoty, není známo. Jeho dceři Magdaléně se zdál sen. Skákala v něm z hvězdy na hvězdu, a čím víc se plnila plynem, tím byla rychlejší. Nakonec si připadala jako řeka, závaží nebo přesýpací hodiny, spokojená a neústupná, valila se vpřed. Brala s sebou všechno, písek, trny a jehličí, obyvatele lesa i ty, kdo jím jen procházeli.
 
@@ -39,9 +37,7 @@ Aniela ucítila bodnutí, když se to stalo. Neviděla však souvislost mezi Mag
 
 Okamžik poté, co se namodralý plynek usadil za Anielinou hrudní kostí, Aniela usnula.
 
-\* \* \*
-
-  
+* * *
 
 Ztuhla a nebylo nic. Nebylo nic. Zvenku to vypadalo jako shluk zvědavých lidí, rozháněných strážníkem. Vyhloubila si v něm místo, vtlačila se do něj, usnula. Odteď na sobě stále bude mít kamaše a nad žlutou hvězdou bílou bradu, omrzající ve studeném vzduchu, se škrábancem pootevřených rtů.
 
@@ -57,9 +53,7 @@ Dojde ke svému tělu a tiše na ně promluví, láká ho zpět.
 
 Pak polkne a vydá se na roh ulice, odkud se rozběhne a vrhne kupředu, ke stojící Aniele. Na okamžik cítí, že se jejich ruce spojily, nehty se dotkly nehtů a kosti zapadly na svá místa. Potom však sklouzne na zem a odře si kolena. Než se zvedne, otočí hlavu. Ta druhá je tam stále, pravou nohou dráždí obrubník a zírá před sebe.
 
-\* \* \*
-
-  
+* * *
 
 Vrátila jsem se domů. Šla jsem po špičkách a neohlížela jsem se. Věděla jsem, že tam stojí.
 

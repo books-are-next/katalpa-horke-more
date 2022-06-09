@@ -6,10 +6,8 @@ contentType: prose
 ANIELA  
 Josef Holman
 
-kdysi  
-/vtékání/
-
-  
+> kdysi  
+> /vtékání/
 
 Josef Holman míval zlé sny. Převalovala jsem se na posteli a poslouchala, jak svým hlasem prorůstá nocí, tápe, zastavuje se a putuje dál. Občas utichal nebo naříkal tak tiše, že jsem to neslyšela.
 
