@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Marie  
 Pokoj
@@ -46,17 +48,29 @@ Místa, kde byl až dosud život, jsou prázdná.
 
 Kotevní lano zpuchřelo. Opály se změnily v sinavý rybíz.
 
+</section>
+
+<section>
+
 Rty mám pootevřené, musím dýchat.
 
 Co se mnou bude?
 
 Jsou tu barvy, na které jsem nebyla připravená.
 
+</section>
+
+<section>
+
 Bílá jako medúza, holubinka nebo pavučinec, barva obnaženého kloubu. Šedá a kouřově modrá, psí sivost a vrtkavá žlutá, ohavné, nervy drásající cákance. Nikdy bych nevěřila, že s nimi budu spojená.
 
 Kam se poděla temná naducanost, višňový lesk vajíček? Když jsem je vytáhla na světlo poprvé, zvonila o sebe jako křemeny, chrli­la jiskry. Sama mi padala do dlaně a v každém z nich se chvělo dítě.
 
 Změnila se bez mého vědomí. Ustaly neohlášené odchody. Vidím provaz vetchý jako pavoučí vlákno. Ovoce zmizelo. Jako by je nahradily kameny. Neodvažuji se jich dotknout, obírám se jimi jenom v myšlenkách.
+
+</section>
+
+<section>
 
 Lítostivě je prohlížím. Zapomínám na to, že má přijít Marie. Jsem tu já a šňůra mých vajíček.
 
@@ -69,6 +83,10 @@ Chci se dotknout mlhy, prozkoumat ji.
 Většina vajíček zůstala kulatá, visí z bílé šňůry. Rozechvějí se, když k nim dojdu.
 
 Mám strach. Prohlížím je a v žádném z nich nevidím nic z toho, co jsem znávala předtím, děti připravené ke vsazení. Podobají se slepým zrcadlům, pod vrstvou ledu prázdno.
+
+</section>
+
+<section>
 
 Dýchám štiplavou vůni zrání. Pak odhodlaně sáhnu po nejbližším plodu, prsty mi projdou vlahým kouřem a zarazí se u kulatého tvrdého jádra. Není větší než oříšek, ale je tam, a když ho obemknu, jemně a zkušeně, popálí mi dlaň tak, že vyjeknu a stáhnu ruku zpět.
 
@@ -101,3 +119,5 @@ Nastražila mi past? Vždyť věděla, že přijdu.
 Když vyjdu z koupelny, stojí už zase na chodbě. Nehnutě, jako by tam byla celou dobu, rozepíná si kabát a dává ho na věšák. Pokynu jí a jdeme do Pokoje, ona krok přede mnou. Posadí se na pohovku, kolena u sebe, ruce v klíně.
 
 Mohla bych ji rozdrtit. Ona si myslí totéž, ale neřekne to.
+
+</section>

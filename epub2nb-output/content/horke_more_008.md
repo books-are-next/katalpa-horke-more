@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Jakuba
 
@@ -24,6 +26,10 @@ Měla roztažené nohy a ruce spuštěné do klína. Držela hřeben s hustým
 
 Připadala mi tupá.
 
+</section>
+
+<section>
+
 Jakuba si na projekt vzpomínala.
 
 Ale tenkrát jsem nepracovala s vámi, řekne Marii.
@@ -35,6 +41,10 @@ Marie si vybaví nápis na Jakubině složce. Bílými prsty si nechá prohmatat
 Všimla si toho?
 
 Omládla o několik let.
+
+</section>
+
+<section>
 
 Když ji ostříhala, odvedla ji Jakuba do místnosti přiléhající k salonu a posadila do křesla. Marie začala vysvětlovat, proč by ráda pokračovala v projektu, který byl před několika lety zastaven. Jakuba na ni civěla s očima dokořán, ale nakonec souhlasila. Úmluvu potvrdily stisknutím ruky. Jakubiny prsty jsou nejisté, zato Marie se raduje z výhodného obchodu.
 
@@ -81,3 +91,5 @@ Přemýšlí.
 Večer jsem bezbranná. Nastřádá se ve mně únava z celého dne a znehybní mne. Nedokážu se bránit zlým myšlenkám.
 
 V noci, když ostatní spí, hryžu se do ocasu a s hrozivou přesností míjím ránu, kterou se neodvažuji vykousnout. Tak dlouho ve mně mokvá, až se stává dalším otvorem mého těla. Teprve děravá jako síto jsem úplná.
+
+</section>

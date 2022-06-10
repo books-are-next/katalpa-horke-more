@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 David
 
@@ -46,6 +48,10 @@ Když ze mě vystoupí, ucítím pepř. Otočím se a znovu se mu nabídnu, ut�
 
 Levandule a tymián, pokračuje. Stahuje břicho, tělo má napjaté. Pak zmlkne a ustrne v pohybu, spolyká okolní vůně a chce se na mě položit. Jemně se dotknu jeho prsou a přiměji ho k tomu, aby zůstal vztyčený.
 
+</section>
+
+<section>
+
 Nestyděla jsem se. Jak bych mohla? Naše místo bylo tam, kde začíná život.
 
 Ve skladu, řekne Aniela.
@@ -59,6 +65,10 @@ Zanícená ústa, vousy a křehké skráně, tvář rozpuštěná v kozí srst
 Girlandy, věnce a stuhy, které jí vycházely z klína, se tlačily do jeho rtů, mezi zuby a pod jazyk.
 
 Nenarazili jsme na žádnou překážku, řekne Marie. Neměla jsem v sobě nic, co by mi bránilo se mu oddat.
+
+</section>
+
+<section>
 
 Přemýšlela nad tím, proč si ji vybral?
 
@@ -85,3 +95,5 @@ Děsí ho to.
 Do jejího těla se dobývá s obavou, že ho obklíčí jako zeď. Pod rukama mu rostou stále nová ňadra, špičkou penisu narazí na Mariinu páteř. Rozpačitě uvolňuje matky a popouští šrouby, zkoumavě hladí plec a boky, ještě nenašel místo, kudy lze beze strachu vést nůž.
 
 Dohání ho to k slzám.
+
+</section>

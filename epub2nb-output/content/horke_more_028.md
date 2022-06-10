@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Matka  
 Dům
@@ -14,6 +16,10 @@ Pořád jsem tady. Červe, nebudu tvým Lazarem, zůstanu.
 Chtěla jsem zmizet za svítání, opustit dům.
 
 Jakmile jsem se oblékla do špinavého županu, věděla jsem, že neodejdu. Klíč od šatníku mi podala babička Léviová, a má ruka její neprošla. Nechala jsem otevřené dveře do kuchyně a při oblékání poslouchala matčin hlas; když domluvila, ozval se potlesk. Pak odkašlávání, vrzání židlí. Kroky. Posadila jsem se na postel. Vyplenila jsem šatník a tiskla se ke své kořisti, almara za mnou se zubatila prádlem, břicho děravé, rovný šev, odírčí přeťaté škrábancem, zkuste si podat ruku s mrtvým, a trefit se na poprvé; skříň byla otevřena a vyvržena klíčem, který mi podala Rivka, babička Léviová.
+
+</section>
+
+<section>
 
 Ráno byla kuchyně prázdná. Ve vzduchu pach manéže. Podlaha vlhká. Ti, kdo tu byli, vysáli šťávu z rostlin a vzduch z prostoru mezi obrazem a rámem, z malby zbyl popel.
 
@@ -35,6 +41,10 @@ Nesnesu ho.
 
 Jeho strukturu jsem objevila náhodou, snad ve snu.
 
+</section>
+
+<section>
+
 Třetí noc v léviovském domě.
 
 Když se vracím od Aniely, přemýšlím nad ním. V trávě jsou stopy, které jsem tu zanechala první den.
@@ -50,6 +60,10 @@ Se zvědavýma očima se posadím do přední řady a přivlastním si cizí bo
 Jsem Léviová.
 
 Netrpím.
+
+</section>
+
+<section>
 
 Třetí noc v léviovském domě, a už je nedokážu opustit.
 
@@ -91,6 +105,10 @@ Jsou nasyceni, ale chtějí hladovět.
 
 Je to tak, řekne Mariina sousedka. Nemluvíme o ničem jiném. Hladovíme po hladu.
 
+</section>
+
+<section>
+
 A pak, řekne Marie ženě vedle sebe, uchopila Aniela kámen a udeřila mě do čela.
 
 Žena pohlédne na její tvář.
@@ -107,6 +125,10 @@ Dýchali čistý vzduch a neznali nebezpečí.
 
 Rozhodně to nebylo dobré. Ale nemohli s tím nic dělat. Někteří z těch, kdo byli shromážděni v kuchyni, vzpomínali na své první pokusy o zteč tajemství.
 
+</section>
+
+<section>
+
 Dveře jsme nechali čisté, řekne muž s mírnými ústy. Prohlédli jsme veřeje i nadpraží, aby v kameni nezůstala ani kapka krve, slza prys­kyřice ve dřevě.
 
 Vchody vydrhnuté, podlahy bez šlápot. A hlavně žádná krev, rozhodně ne ten večer. Ani beránka jsme nejedli.
@@ -117,15 +139,31 @@ Všechno, co nebylo z Izraele, pobil. Ale nás minul. Přehlédl. Čekali jsme 
 
 Mořem jsme prošli poslední, pokračuje. Lovili jsme ryby a On za námi polykal vojáky. Vysával z nich morek, ohýbal jejich záda.
 
+</section>
+
+<section>
+
 Nikdy jsme netrpěli, muž si mne prsty, tak jako ostatní. A to není, pohlédne na Marii, pro Žida bezpečné.
+
+</section>
+
+<section>
 
 Smějí se. Myslím, že jenom někteří, ale když se rozhlédnu, zjistím, že v tom jsou zajedno. Jsem z nich, a smát se nedokážu.
 
 Jsou tady Léviové a také ti, kteří se Léviovými stali sňatkem. Scházejí se tu proto, aby hovořili o utrpení. Ti, kdo původně nejsou z Léviů, vědí, o čem mluví. Poznám je teprve ve chvíli, kdy usednou do židle uprostřed místnosti a začnou vyprávět.
 
+</section>
+
+<section>
+
 Slovem přichází k Léviovým bolest.
 
 Kuchyně jihne polohlasem. Ti, kterým se vyhnulo pronásledování, morové rány a smrt, žasnou nad slovosledem. Interpunkce jim otvírá žíly, syntax bere dech. Ve středníku milují kata, zeugmatem k nim promlouvá On.
+
+</section>
+
+<section>
 
 Pálili mi paty –  
 bohudíky…  
@@ -133,6 +171,10 @@ Stahovali z kůže –
 cítíme to!  
 Vyhnali nás z města –  
 o nic jste nepřišli, my v něm zůstali.
+
+</section>
+
+<section>
 
 Smích.
 
@@ -144,6 +186,10 @@ Později to začalo být divné. Proč oni nikdy, když ostatní stále častěj
 
 Jistota, která Léviovy provázela, byla bez hranic. Tučněli a bytněli v ní a brzy přestali rozlišovat původ věcí; přátelili se s těmi, kdo přikazovali pálit ohně a vyprazdňovat domy. O své výjimečnosti nedokázali přemýšlet, byla od věčnosti.
 
+</section>
+
+<section>
+
 Byli jsme bezmocní, řekne muž.
 
 Zdá se mi, že je nejblíž tomu, který byl první, ale protože i on tápe, vím, že se mýlím.
@@ -154,7 +200,15 @@ Myslím na dům ponořený v temnotě.
 
 Jsem Léviová, Marie.
 
+</section>
+
+<section>
+
 Za mými zády koluje sáček karamel, chřestí oříšky. Brzy přijde na řadu slovo, do židle uprostřed kuchyně usedá mladá žena.
+
+</section>
+
+<section>
 
 Ostříhali mi vlasy
 
@@ -163,6 +217,10 @@ Ostříhali mi vlasy
 Ráno vypustili z vězení.
 
 Žena na vratké židli tiskne kolena k sobě. Je stejně stará jako já, k Léviům se provdala před mnoha lety. Bránila se? Každá slušná dívka se chvíli brání. Byla nasáklá utrpením, ještě teď kulhá. Lévi k ní přišel v noci. Mluvil k ní tak, že se zapomněla. Vidím jejího Léviho, je to jeden z měšťanů v dlouhém plášti, milostně na ni patří. Ona samé mléko a med, ale jazyk jako jateční stůl.
+
+</section>
+
+<section>
 
 S každým vytržením vlasu a zlomenou kostí drtí některý z Léviů v ústech praženou mandli, olizuje karamel, tiskne si dlaně na tvář.
 
@@ -244,9 +302,17 @@ Nikdo neodmítal Léviovy, přestože vstoupit s nimi do manželství bylo hor�
 
 Zavřísknutí. Matka si přitiskne ruku na břicho.
 
+</section>
+
+<section>
+
 Chtěl tě zničit, řekne Marie. V žádném případě není s matkou na stejné lodi, ale záchod má svažující se podlahu, a to ji svádí k ne­uváženosti. Zatímco pozoruje lom porcelánu, matka od ní odtáhne tvář. Přemýšlí.
 
 Copak Marie nic nepochopila? Nešlo o věci týkající se běžného života, alespoň v první řadě ne.
+
+</section>
+
+<section>
 
 Byl to Lévi, řekne matka, o kterém jsem slýchávala už jako dítě. Lévi, hlava příběhu. Sotva jsem ho uviděla stát před domem, bylo mi jasné, že čeká na mě.
 
@@ -254,7 +320,15 @@ Vyprávěl mi, jak přežil válku, bez hvězdy a v dostatku. Já jsem mlčela
 
 Mluvil se mnou něžně a klidně, pokračuje matka. Potichu mě přesvědčoval, až jsem se rozhodla stát se jeho ženou. Nakonec jsem měla pocit, jako bych měla na výběr.
 
+</section>
+
+<section>
+
 Ale ta klíčová dírka, řekne Marie, pomni, matko, copak se to dělá, šmírovat jeho rodiče?
+
+</section>
+
+<section>
 
 Po schodech klouzala matka opatrně, radostně vzrušená tím, že u Léviů se život nezastavil. Sama nedokázala navázat na to, čím byla před válkou. V podkroví domu se milovala se svým mužem, ale myšlenkami byla o patro níž, kde se jeho rodiče, jak byla přesvědčena, zabývali něčím mnohem zajímavějším.
 
@@ -274,6 +348,10 @@ Před Mariinýma očima bledne do dívčí podoby.
 
 Marie pevně semkne víčka, takovou matku znát nechce.
 
+</section>
+
+<section>
+
 Vzala jsem si, co mi patřilo, řekne matka. Když jste všichni odešli z domu, začala jsem znovu.
 
 Jak by mohla? myslí si Marie.
@@ -287,6 +365,10 @@ Sešity si opravuje sama, nebo zastavila čas ještě někomu jinému? Marie se 
 Celé dny sama nebo s Almou, Sofií a Zillou, které si vysnila, a večer šichta pro Léviovy – přece jen nemůže přeskočit všechno, co se stalo.
 
 Pije kávu a jezdí na kole, hodně kouří. Nejvíc před večerem, kdy je na řadě s vyprávěním. Bylo by tomu tak i předevčírem, kdyby neměla tu nehodu.
+
+</section>
+
+<section>
 
 Je jí jasné, že dny klidu jsou sečteny, stěží se sem dostane večer z nemocnice. Pořád by spala, ale léviovské setkání nemůže vynechat.
 
@@ -305,3 +387,5 @@ Labutěnkou přejíždí historii, vepsanou v kůži. Pod vrstvu rýžového pr
 Pak sevře rty. Zaklapne pudřenku a usměje se na Marii.
 
 Fershke, je celá z křehkého těsta.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Mína
 
@@ -23,6 +25,10 @@ U krku dva malé průduchy pro brož, otvory pro řeku kovu.
 
 Boty a pod nimi fialový zápisník.
 
+</section>
+
+<section>
+
 Když vystoupila, zdržela se na stanici, dokud krabici opět pečlivě nezabalila. Přečnívající papírové rohy přeložila a zasunula pod provaz. Pevně utáhla uzly.
 
 Fialový sešit skryla do kabelky.
@@ -35,9 +41,21 @@ Nenosila nic jiného, řekla sestra jejího muže a otevřela skříň. Byla na
 
 Prosili jsme ji, ať to nedělá. Jezdili se na ni dívat až z města, řekla sestra jejího muže, když šatník zavírala.
 
+</section>
+
+<section>
+
 Na uvítanou Aniela dostala slepičí polévku. Obsluhovala ji malá žena s hustými vlasy. Představila se jako Matčina švagrová.
 
+</section>
+
+<section>
+
 Matčin muž položil balík doprostřed stolu. Bylo prostřeno, chystali se k obědu. Jeho sestra ji vtlačila do židle. Převyšovala Anielu i ve své trpasličí velikosti. Když uviděla balík, přitiskla si ho k boku, ledabyle do něj zaklesla prsty a odnesla ho pryč. Aniela překvapeně pohlédla na muže.
+
+</section>
+
+<section>
 
 Nenávistně vládla Matčinu šatníku. Krabicím na klobouky vyhlásila válku. Z krabičky od sirek vypouštěla moly. V noci se neodvažovala vyjít z pokoje, ale alespoň ve snu trhala manžety a párala spodničky.
 
@@ -46,6 +64,10 @@ Mušelín, gabardén, krep.
 Plivala slova jako ostré kamínky.
 
 Na rozdíl od Matky její švagrová nenáviděla šaty, nejraději by chodila nahá.
+
+</section>
+
+<section>
 
 Polévka, kterou uvařila, byla silná.
 
@@ -58,6 +80,10 @@ Volány, krajky, stuhy. Patenty, korále, šněrování. Klobouky. Plátěné py
 Rukavičky.
 
 Celou válku jsme nedělali nic jiného, než to přenášeli do sklepa a zase zpátky, řekla malá žena. Ve sklepě bylo moc vlhko a nahoře zase prach.
+
+</section>
+
+<section>
 
 Když se vracely k jídelně, slyšely vzlyky. Pootevřenými dveřmi zahlédla Aniela Matčina muže. S tváří pohřbenou v dlaních plakal.
 
@@ -91,6 +117,10 @@ Malá žena mlčí, lesklýma očima přejíždí hroby padlých.
 
 Rybí kostice popírají vzkříšení.
 
+</section>
+
+<section>
+
 Nemůžu pokračovat v cestě. Trpaslice vedle mě se šklebí; mnohem raději se krmí, než přemýšlí.
 
 Nedokážu udělat ani krok, přivedla mě na bitevní pole.
@@ -113,17 +143,29 @@ Ještě ten den jsem telegrafovala svému muži, Přijeď, to musíš vidět.
 
 Noc opět v posteli malé ženy, jmenovala se Mína, v pokoji s výhledem do dvora, k boudě strukovité feny.
 
+</section>
+
+<section>
+
 Josef Holman přijel nazítří, odpoledním vlakem.
 
 Seděla jsem na lavičce a pozorovala psici napájející štěňata. Mína vedle mě si stahovala vlasy navoskovaným provázkem.
 
 Když jsem zahlédla svého muže, vyšla jsem mu naproti.
 
+</section>
+
+<section>
+
 Večer mě Mína vypudila ze svého lůžka. Uložila nás s mužem v pokoji s postelí úzkou jako máry. Muž seděl u okna, tvář nerozeznatelnou od tmy.
 
 Chvilku předtím jsem ho poslala do zahrady, k hrobům s tlejícími šaty.
 
 Teď seděl proti mně, prsty zabořené v tabatěrce.
+
+</section>
+
+<section>
 
 Viděl jsem konec, řekl. Ale kde to má začátek?
 
@@ -139,6 +181,10 @@ Pozorovala jsem jeho obličej. Procházel šiky těch, kterými se postupně pro
 
 Ostýchavě vložil ruku dovnitř a dotkl se látky. Manžeta mu proklouzla mezi prsty.
 
+</section>
+
+<section>
+
 Vytahovali jsme jedny šaty za druhými. Odemkla jsem další skříň a zatáhla za kousek bílého plátna. Vysypalo se na nás ložní prádlo s hedvábnými vložkami, obroubené tak jemně, že se rozplývalo v mlhu. Monogram na kapesnících se podobal orchidejovým kořenům. Ubrusy byly řidší než svítání.
 
 Ubrousky, šátky, prostírání. Rukavice, slunečníky, podvazky, vějíře.
@@ -153,15 +199,27 @@ Oběma rukama vyvrhoval skříň.
 
 Šperky, šály, klobouky s bledým ovocem a kropenatou stuhou, zahnívající závoje.
 
+</section>
+
+<section>
+
 Stál široce rozkročen a lámal si nehty o knoflíky. Tvář bořil do úzkých blůz s krajkovým límcem, připomínal sochu zahalenou oponou.
 
 Aniela, hrdlo stažené úzkostí, na něm mohla oči nechat. To ona ho přivedla do doupěte, přitiskla mu ústa k prameni.
+
+</section>
+
+<section>
 
 Když Josef Holman vybíral ze skříně staré šaty, myslel na rodinu své ženy. Sloužil šifonové rekviem, ale ona to netušila. Měla strach, že se zbláznil. Posedl ho duch vídeňských kalhotek, bombarďáků s rozervaným lemem a nedobytným rozkrokem.
 
 V hebké noci vytahoval ze skříně oblečení. Lámal ho, jako se lámou ze země kameny. Šiky hadrů, připravené jako dračí zuby k setí. Oblékl bych do nich celý regiment, nekonečné řady dětí.
 
 Nalezl dokonce košilku pro svého mrtvého syna, přepychovou zátku mezi Anielina nespolehlivá stehna.
+
+</section>
+
+<section>
 
 Nedokázal se zastavit, dokud nenarazil na dno skříně. Tázavě přejel nehty po dřevě, odolal tomu, zabušit na ně. Aniela vedle něj vzdychla.
 
@@ -179,7 +237,15 @@ O to mu šlo.
 
 V jezdeckém obleku jsem se změnila v kentaura.
 
+</section>
+
+<section>
+
 Odřízl mi bradavky.
+
+</section>
+
+<section>
 
 Hroby nehroby, většinu prádla jsme roznesli na kopytech.
 
@@ -187,11 +253,19 @@ Opřel mě o stěnu, bušila jsem do ní čelem.
 
 Nesla jsem ho na zádech jako oblohu.
 
+</section>
+
+<section>
+
 V zetlelých hadrech jsme si vydupali skrýš.
 
 Ubrusy a prostěradla jsme zalili pryskyřicí.
 
 Pokoj jsme proměnili v kovárnu, hedvábí v podestýlku.
+
+</section>
+
+<section>
 
 Rozhodil kameny proti mému štítu.
 
@@ -203,17 +277,45 @@ Když jsme odpočívali ve vlhkém pelechu, otevřely se dveře a vstoupila ona
 
 Nejprve jako paprsek světla.
 
+</section>
+
+<section>
+
 Mína v noční košili.
+
+</section>
+
+<section>
 
 Zasyčela a já jsem zvedla hlavu z mužova sadu.
 
+</section>
+
+<section>
+
 Bojiště kolem nás, Mína tlukoucí ocasem o podlahu. Planoucí jazyk, zprvu ochromený. Pohled k oknu, vřískotem by mohlo sejít ze světa.
+
+</section>
+
+<section>
 
 Oživené košilky, Mínina noční můra.
 
+</section>
+
+<section>
+
 Nohy v dřevácích, a přesto tichá jako duch.
 
+</section>
+
+<section>
+
 Oči jsem jí neviděla.
+
+</section>
+
+<section>
 
 Stála mlčky, pozorovala tisíckrát přenášená mláďata (dole vlhko, nahoře prach) a nás mezi nimi.
 
@@ -254,3 +356,5 @@ Když se vrátili z trpasličího doupěte, uvažovala, jak napravit škodu a 
 Nakonec se rozhodla, že Míně pošle dárek. Rozvažovala nad tím a týdny plynuly.
 
 Když to nemohla vydržet, koupila květiny a nasedla do vlaku.
+
+</section>

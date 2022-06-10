@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Josef Holman
 
@@ -10,6 +12,10 @@ Josef Holman
 > /vtékání/
 
 První šedivý vlas si našla ještě předtím, než porodila Annu. Čekala na křižovatce a pročesávala si rukou vlasy. Jeden vlas jí zůstal v prstech a zazářil; v tu chvíli provoz na silnici ustal a ona mohla přejít. Vlas držela před sebou a na druhé straně ho pustila do řeky.
+
+</section>
+
+<section>
 
 Večer pozorovala svého muže a počítala. Než přijde o vlasy, porodí mu ještě dvě děti. V noci to pošeptala břichu. Anna mlčela. Její prvenství nemohl nikdo ohrozit.
 
@@ -32,3 +38,5 @@ Dvaapadesát, řekne, když uléhá vedle Aniely. Myslel na to už ráno, nebo t
 Rázem je mezi nimi i její otec.
 
 On pro něj pláče víc než ona.
+
+</section>

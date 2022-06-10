@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Marie
 
@@ -12,6 +14,10 @@ Marie
 Okurku krájí na tenké plátky. Včera brousila nůž a dneska by i nehet svlékla z kůže.
 
 Vlasy jí plihnou párou, nenávidí recepty, ale pokračuje v kuchtění.
+
+</section>
+
+<section>
 
 Marie jí vyprávěla o shromáždění v kuchyni. Srdce domu! Ušklíbne se, po prstech jí putuje bílek. Jaké to setkání, cirkus! Zná to, jak by ne.
 
@@ -33,11 +39,27 @@ Soustředí se na máslo. Láme fazolové lusky, počítá kuličky pepře.
 
 Jakuba má jeden ze svých bezmasých dnů.
 
+</section>
+
+<section>
+
 Pro Jakubu vaří, ale myslí na Marii. Dokáže si představit tržiště lé­viov­ských předků, rynk mrtvých, svaté pole; ukazují se tak, jak potřebují, a většinou nemají co skrývat, kolena u sebe, kosti ještě masité, sedí v kruhu a čekají, nechávají přitom kolovat sáček karamel.
+
+</section>
+
+<section>
 
 Manéž, řekla Marie. Příšeří. Nevěděla jsem, co mám dělat. Teplo vycházející ze středu kruhu mě lákalo. Chtěla jsem ho prozkoumat.
 
+</section>
+
+<section>
+
 Aniela se potýká s křenem.
+
+</section>
+
+<section>
 
 Uštěpačný závěr, strouhá ho tak, jak je, s hlínou, dlouhými chlupy a bříšky prstů, na okamžik zapomíná na zranitelnost Jakubina jazyka a touží vymáčknout z něj všechnu palčivost, ničí ho, ohýbá a rozkládá.
 
@@ -63,9 +85,21 @@ Na ramenou sestra, něžně splývá. Aniela cítí tlak kostí zhutnělých v 
 
 Kdo byl prvním? myslí si, když se dozví o léviovském tajemství.
 
+</section>
+
+<section>
+
 Nikdy o tom nepřemýšleli, řekne Marie, Anielina sestra.
 
+</section>
+
+<section>
+
 Někdy na to myslím, řekne Marie.
+
+</section>
+
+<section>
 
 Proč se Mariina matka dívala klíčovou dírkou?
 
@@ -73,17 +107,37 @@ Měla strach o své tělo? Bála se ohně?
 
 Nevadilo jí obětovat oko?
 
+</section>
+
+<section>
+
 Nemá smysl dávat Marii odpovědi.
 
 * * *
 
 Nejistým hlasem vypráví Marie o své návštěvě v Jakubině salonu.
 
+</section>
+
+<section>
+
 Aniela Marii chápe. To ty vlasy, také jich viděla celá pohoří.
+
+</section>
+
+<section>
 
 Měla jsem pocit, že v každém z těch vlasů je žena, řekne Marie.
 
+</section>
+
+<section>
+
 Srst, která pádila Jakubě kolem kotníků, a odtud rovnou do kanálu.
+
+</section>
+
+<section>
 
 Posadila mě a zaklonila mi hlavu do umyvadla.
 
@@ -92,3 +146,5 @@ Jak vypadala? zeptá se Aniela.
 Marie přemýšlí a Anielino zrcátko potemní.
 
 Nevím, řekne nakonec. Položila jsem hlavu na porcelánový špalek a přišla o zrak.
+
+</section>

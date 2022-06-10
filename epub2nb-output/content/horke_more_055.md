@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Alma
 
@@ -50,3 +52,5 @@ Výloha byla zamžená. Jako kdyby se všechno obrátilo, ona stála venku such�
 Mezitím vstoupily dovnitř dvě ženy. První pak vyšla s velkým balíkem v pruhovaném pytli, kterým ji přitiskla k výloze. Anielu nejdřív napadlo, že Magdalénin otec stále stojí za pultem a prodává knoflíky, plátno a krejčovskou křídu (vyděsilo ji to), ale pak si vzpomněla, že pan Börner balil své zboží elegantně (krémový papír převázaný tak důmyslně, že si zákaznice mohla nákupem pohazovat jako kabelkou), a pruhovaný pytel bylo něco, co by rozhodně nepustil přes práh.
 
 Nakonec vešla. Chuť zjistit, co se stalo s Magdaléniným domem, ji v tu chvíli už zcela opustila, udělala to hlavně proto, že to slíbila Almě. Postavila se čelem k vlhké stěně páry a snažila se, místo Magdalénina otce, překousnout skutečnost, že se z jeho luxusního galanterního obchodu stala prádelna.
+
+</section>

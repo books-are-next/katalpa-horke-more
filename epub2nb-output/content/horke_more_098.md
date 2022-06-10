@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 JAKUBA
 
 > /plynutí/
@@ -12,6 +14,10 @@ Narodila jsem se proto, abych stříhala vlasy.
 Nedokážu nic jiného.
 
 Vím to.
+
+</section>
+
+<section>
 
 Narodila jsem se proto, abych stříhala vlasy.
 
@@ -24,6 +30,10 @@ Víc o sobě nemohu říct.
 Když jsem se zabývala vlasy jedné z žen, které chodí do našeho salonu, zeptala se mě, jestli se nechci seznámit s její matkou. Tu ženu jsem poznávala podle chůze, dopadala na levou nohu a do dveří vstupovala pravým bokem napřed.
 
 Jmenovala se Anna.
+
+</section>
+
+<section>
 
 Po společném obědě jsem se s její matkou setkala před zrcadlovým bludištěm. Prošly jsme jeho skleněnými útrobami.
 
@@ -43,11 +53,19 @@ Přečetla jsem o něm úplně všechno.
 
 * * *
 
+</section>
+
+<section>
+
 Zvířata rozeznávám.
 
 Pes, kočka, humr.
 
 Dokážu je i nakreslit nebo poznat v inkoustových skvrnách.
+
+</section>
+
+<section>
 
 Rozeznávám také ryby a rostliny.
 
@@ -225,7 +243,15 @@ Euklidův odvážný sen, zhmotnění kuželoseček a vzdáleností, smělý tr
 
 Napínám smysly, oči jsou k nepotřebě.
 
+</section>
+
+<section>
+
 Dýchám.
+
+</section>
+
+<section>
 
 Orientuji se podle vůně a způsobu chůze, slyším nejjemnější šelest kůže.
 
@@ -235,17 +261,33 @@ Vyznávám rovnost geometrických tvarů.
 
 * * *
 
+</section>
+
+<section>
+
 Zapomněla jsem, jak poskládat koutky rtů k úsměvu nebo k pláči.
 
 Jsem smutkem a má tvář je rovná jako pole; jsem radostí a nic se nedotkne hladiny, na mé tváři se neobjeví jediná vráska.
 
 * * *
 
+</section>
+
+<section>
+
 Aniela.
+
+</section>
+
+<section>
 
 Jak důmyslně mě podťala zrcadlem.
 
 Nemilosrdná, ještě mě neznala, a už mě seznamovala se sklem.
+
+</section>
+
+<section>
 
 Naplnil mě strach, když jsme procházely zrcadlovým bludištěm.
 
@@ -327,9 +369,17 @@ Snad žhne silněji než obvykle a dozajista se rozhodla mě opustit.
 
 Při králičích hodech, které pořádáme, strnu.
 
+</section>
+
+<section>
+
 Talíře s bílým okrajem.
 
 Ostřím po špičce prstu, úzkou stopou, po dráze nervu, k hlavě.
+
+</section>
+
+<section>
 
 Nad sladkou omáčkou zděšení.
 
@@ -353,7 +403,15 @@ Nejdřív jsem začala ztrácet chuť. Odmítla jsem pít kávu a jíst maso; �
 
 Pak jsem si všimla, že ztrácím vnímavost k vůním. Poznat člověka podle pachu mi trvalo déle než obvykle.
 
+</section>
+
+<section>
+
 Čím budu, až přijdu o všechny smysly?
+
+</section>
+
+<section>
 
 Zděšeně píšu na kus papíru vůně, které si pamatuji; Aniela vratič, Marie bez, bez, bez; později se jen mlhavě rozpomínám, co mé poznámky znamenají, bloudím po nich očima a nakonec papír zmuchlám a vyhodím; to už špatně slyším a spoléhám především na zrak a hmat.
 
@@ -381,15 +439,27 @@ Bráním světlu vejít do kamene.
 
 Jsem sama.
 
+</section>
+
+<section>
+
 Za krátkou chvíli se obléknu, vyjdu z domu a vezmu do rukou nůžky.
 
 Teď jsem však vodní hladinou, odrážím všechny, kteří na mně spočinou pohledem.
+
+</section>
+
+<section>
 
 Stala jsem se okamžikem.
 
 Není tu nic, co bych si ponechala.
 
 Nemám chuť, hmat ani čich.
+
+</section>
+
+<section>
 
 Postavila jsem se do úzké škvíry mezi dvěma skly, postavila jsem se nad hlavu kamenné nymfy, kterou ze své výšky vidím jako omšelou žulovou slzu, vystoupila jsem na vrchol hory.
 
@@ -437,11 +507,19 @@ Ukrývám se v oblouku Anielina okna. Okap protějšího domu chrlí ptačí ve
 
 Špičkami přečnívám do ulice, paty, chráněné střechou domu, mám ještě suché.
 
+</section>
+
+<section>
+
 Temnota vržená z chodníku k nebi.
 
 Hromobití.
 
 Déšť ostrých zubů.
+
+</section>
+
+<section>
 
 Pevně svírám rty, mé čelo žulová deska. Paže mám bílé, objímám okenní rám.
 
@@ -453,33 +531,77 @@ Nemravné podpalubí.
 
 Šílenství racků s křídly obarvenými žloutkem; socha s šíjí zježenou úlomky skořápek.
 
+</section>
+
+<section>
+
 Jsem bosa.
+
+</section>
+
+<section>
 
 Uprostřed bouře stojím, vysoko v mracích, v mlatu ohnivých jazyků; uprostřed bouře stojím, nad sebou klenbu, vznešený nárt.
 
+</section>
+
+<section>
+
 Nad černými mraky se prochází Aniela, s povzdechem usedá na pohovku a tiskne obličej k látce páchnoucí klisnou.
+
+</section>
+
+<section>
 
 S doznívajícím zahřměním ve mně puká jeden z břehů.
 
 Vylévám se z koryta.
 
+</section>
+
+<section>
+
 Přišla jsem o smysly, oči mám zapuštěné hluboko v zemi a uši zakryté skálou; myslím na Anielu, kterou bych mohla ztratit.
 
 Břeh, který ve mně pukl, ach, ten je rozmělněn na prach, zorán a oset, těžknu jím, jsem nasycena.
 
+</section>
+
+<section>
+
 Hluboko ve mně myšlenka na Anielu, v divokém, horkém proudu myšlenka na Anielu, ve výkřiku, který mi vychází z úst, myšlenka na Anielu.
 
+</section>
+
+<section>
+
 Sestoupím z okna.
+
+</section>
+
+<section>
 
 Peří ztemnělé úzkostí.
 
 Lom.
 
+</section>
+
+<section>
+
 Myslím na Anielu, kterou bych mohla ztratit.
 
 Už ji neumím číst.
 
+</section>
+
+<section>
+
 To peklo rozvírá chřtán, má milá!
+
+</section>
+
+<section>
 
 Hladím si hrdlo.
 
@@ -489,17 +611,37 @@ Jdu tiše. Nikdo o mně neví. Co mám na sobě, netuším. Přidržuji se záb
 
 Nezastavuji se.
 
+</section>
+
+<section>
+
 Myslím na tebe. Myslím na tebe.
 
+</section>
+
+<section>
+
 Než vstoupím do Anielina Pokoje, minu drobnou larvu. Zželí se mi jí, leží rozlámaná na kamenných stupních, bílá a špinavá, bez života. Rozbitýma nohama ji opustila všechna míza; povaluje se tu mrtvá a obtočená lepkavými vlákny.
+
+</section>
+
+<section>
 
 Nezastavím se.
 
 Myslím na tebe.
 
+</section>
+
+<section>
+
 Není tu  
 nic  
 jiného.
+
+</section>
+
+<section>
 
 Otevřu dveře a vejdu. Čekám, že na mě zavoláš.
 
@@ -507,15 +649,27 @@ Přestála jsem bouři.
 
 Chtěla bych ti říct o tom, co jsem viděla venku.
 
+</section>
+
+<section>
+
 Necítím tě, ale vím, že jsi tady.
 
 Zahlédnu tě u stolu, sedíš a podpíráš si hlavu.
 
 Tvůj obličej nerozeznám. Zdá se mi, že záříš.
 
+</section>
+
+<section>
+
 Čekám, že na mě zavoláš.
 
 Ale ani ticho mě nemůže ranit.
+
+</section>
+
+<section>
 
 Ještě chvíli budu váhat a pak se k tobě rozběhnu.
 
@@ -526,3 +680,5 @@ Vidíš?
 Sotva popadám dech.
 
 Otvíráš náruč a já se v ní jediným skokem ocitám.
+
+</section>

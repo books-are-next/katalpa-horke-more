@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 David
 
@@ -23,3 +25,5 @@ Jeho dech nepohne ani chloupkem na mém těle.
 Zůstane sám.
 
 Volá za mnou, tiše a zkroušeně, potom čím dál hlasitěji a nakonec utichá s plačtivým škytnutím.
+
+</section>

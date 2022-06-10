@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Matka
 
@@ -63,3 +65,5 @@ Ach, vzdychne Aniela. Její dcera se zrcátkem nesouhlasila. Aniela jí musela p
 Je to ovšem nevýhoda, řekne Marie.
 
 Slyšela jsem o rodině, kde se předávala šeroslepost, poznamená Aniela. Marie jako by tu nebyla. Potřásá hlavou, tvář otlačenou od pohovky.
+
+</section>

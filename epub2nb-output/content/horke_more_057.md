@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA
 
 > nyní  
@@ -14,6 +16,10 @@ ANIELA
 
 U moře jsem viděla ženu zasypanou pískem. Venku měla jen hlavu v plátěném klobouku, dobře živený obličej bílý jako maso ryby, sluneční brýle. Držela jsem za ruku Annu, ale když jsem tu bledou hlavu uviděla, pustila jsem ji a rozběhla se tam; můj manžel vzal Annu do náruče a konejšil ji, ššš, podívej na ty krásné mušle, obrátil nohou slávku porostlou řasami a já jsem zatím utíkala pryč, paty rozežrané solí.
 
+</section>
+
+<section>
+
 Žena potřásla hlavou. Když jsem přibíhala, rozvířila jsem písek, který se jí pomalu usazoval na rtech. Brýle jí sklouzly ke špičce nosu, prohlédla si mě a zasmála se.
 
 Vedle ní stál muž a děti, všichni v plavkách a popraskaných sandálech, v rukou drželi dětské lopatičky. Vtrhla jsem doprostřed jejich obřadu. Ukládali matku do vlhkého hrobu, který si sama vybrala.
@@ -21,6 +27,10 @@ Vedle ní stál muž a děti, všichni v plavkách a popraskaných sandálech
 Když jsem odcházela, dali se do smíchu. V proudu rozpustilých hlasů vyplavalo ženino tělo na povrch, krusta písku pukla jako lusk.
 
 * * *
+
+</section>
+
+<section>
 
 Co se stane s masem uloženým v písku? zeptala jsem se večer muže. Ležel na zádech, oči zakryté dlaní, na protější straně místnosti se lesklo Annino tělo.
 
@@ -32,6 +42,16 @@ Možná přijdou krabi a rozeberou si ho vlákno po vláknu. Roz­pletou šlach
 
 Zdá se mi, že písek tráví všechno, co nemá skořápku.
 
+</section>
+
+<section>
+
 Mé děti jsou kameny. Když je muž stáčel do mých útrob, myslela jsem při tom na skálu.
 
+</section>
+
+<section>
+
 Ať byl její obličej sebekrásnější, místo mozku měla těsto, když to svému muži dovolila. Zespodu zvlhla mořem, nechala se naplnit a možná porodila raka. Teď už je nejspíš mrtvá.
+
+</section>

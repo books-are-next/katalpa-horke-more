@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Alma, Alma
 
@@ -41,6 +43,10 @@ Večer padla rosa. Ve světle hvězd viděla Alminu tvář, s opuštěnými rty
 
 Pak Alma poprvé vzala Anielu na vědomí, zvedla kufr a řekla, Jdeme.
 
+</section>
+
+<section>
+
 O dvě ulice dál, když pochopila, že je čeká další bezcílná pouť městem, začala Aniela křičet. Alma ji vlekla za sebou, pospíchala s hlavou vraženou mezi rameny a na každém rohu se zastavila a přitáhla si Anielu pohledem.
 
 Teprve ráno jí došly síly, posadily se spolu na břeh řeky a znaveně pozorovaly hladinu.
@@ -63,7 +69,15 @@ Paní Schappeová patřila k ženám, které pracují společně se svou služk
 
 Někdy, když společně uklízely nebo chystaly oběd, se paní Schap­peová na okamžik zastavila, nechala klesnout ruce, podívala se Almě do tváře a vzdychla.
 
+</section>
+
+<section>
+
 Pověsila se na mě očima, řekne později Alma, až jsem úplně cítila, jak se mi stahuje krk. Ale nikdy to nebylo proto, že by mi chtěla něco vyčítat. Skoro to vypadalo – v tu chvíli se Alma pokaždé uchichtne –, jako kdyby mě chtěla poprosit, abychom ji s pánem vzali mezi sebe.
+
+</section>
+
+<section>
 
 Do Huga Schappeho se Alma zamilovala v noci, nad šálkem horkého mléka. V noční košili seděla u kuchyňského stolu, vlasy zapletené. Šálek s mlékem držela v dlaních a právě se chystala ochutnat, když zaslechla, jak se otevírají dveře pracovny, a poznala, že pan Schappe míří do kuchyně. Neudělala nic, jen se trochu narovnala na židli a zvedla hlavu.
 
@@ -83,13 +97,33 @@ Druhý den vzbudil Almu před svítáním. Měl na sobě čisté šaty a byl oh
 
 Střevíce vybrali společně (bílé, s otevřenou špičkou a páskem kolem kotníku), naobědvali se a odešli do hotelového pokoje, kde se posadila na postel a nenápadně zkoušela měkkost matrace. On mezitím chodil od stěny ke stěně a říkal, že ji má rád. Nakonec se před ní zastavil a přinutil ji, aby se mu dívala do očí. Almu nenapadlo nic jiného než rozepnout mu kalhoty a vysvobodit jeho úd.
 
+</section>
+
+<section>
+
 V životě jsem to nedělala, řekne Alma. Sedí vedle Aniely, jednu ruku má v klíně, druhou si přidržuje okraj šatů. Ale kdybych se ho tenkrát nedotkla, možná bychom si sbalili věci a ve vší tichosti odjeli zase domů.
+
+</section>
+
+<section>
 
 Když na sobě ucítil Alminy prsty, zalapal po dechu a zavřel oči.
 
+</section>
+
+<section>
+
 Co jsem měla dělat, usmívá se Alma. Aniela se snaží nic si nepředstavovat, ale příliš se jí to nedaří.
 
+</section>
+
+<section>
+
 Nakonec, když cítil, že je to pod jeho důstojnost, mě odvedl do koupelny. Byl mazaný, všechno to pak osprchoval a až do večera jsme zůstali v čisté posteli.
+
+</section>
+
+<section>
 
 Kde jste vlastně byli? ptá se Aniela před usnutím, i když odpověď zná, viděla porcelánový pohárek na pití pramene.
 
@@ -105,11 +139,27 @@ Potom se začalo v rodině pana Schappeho mluvit německy. Už předtím chodil
 
 Mein Schätzen, řekla mu na jednom z nedělních výletů Alma, a jeho to tak vzrušilo, že vystříkl dřív, než do ní vstoupil.
 
+</section>
+
+<section>
+
 Pořád ještě jsem byla dobrá služka, řekla Alma. A proto mě nechtěli pustit.
+
+</section>
+
+<section>
 
 Nakonec byla situace neúnosná. Řekl jí to pán. Paní seděla za stolem, v ruce kuličku z novin.
 
+</section>
+
+<section>
+
 Nemohli mě už dál zaměstnávat, protože podle papírů jsem byla židovka; Alma zkoumá svou tvář v zrcadle, zatímco Aniela se na opačném konci místnosti obléká. Za chvíli vyrazí do prádelny.
+
+</section>
+
+<section>
 
 Paní řekla, že do druhého dne musím odejít, a stále přitom držela noviny plné vtipů, za které se styděla a které každý večer pálila; Alma zapomíná zavřít ústa, mezi zuby se jí leskne bledý jazyk. Aniela si zapíná střevíce, sahá po deštníku.
 
@@ -149,6 +199,10 @@ Bydlela ve sklepním pokoji. Záchod byl na chodbě a pro vodu chodila k hydra
 
 Nikdy nevěděla, jestli poteče voda. Ráno byl kohoutek čistý a studený, musela z něj setřít jinovatku a teprve pak na něj zavěsila kbelík. Než se naplnil, opatrně se protahovala a vdechovala čerstvý vzduch; připadalo jí zvláštní dýchat čistý vzduch bez milence, cítila se v něm nejistě a ohroženě. Když se spustila zpátky do sklepa, zalezla si do postele a znovu usnula.
 
+</section>
+
+<section>
+
 Přechod mezi dnem a nocí, syrovější než obyčejný večer, přinesl myšlenky a strach. Potmě seděla na posteli a dívala se k zabedněnému oknu. Někdy si zapálila svíčku, oblékla si šaty, které dostala od svého muže, a zkoumavě se prohlížela v zrcadle; dívala se, kolik látka odhaluje z jejích boků, nohou a ňader, předkláněla se a tajila dech, aby mohla za pásek sukně nacpat obě dlaně najednou.
 
 Občas cvičila. Měla hrůzu z toho, že by mohla uhořet, a proto používala svíčku co nejméně a cvičila potmě.
@@ -163,6 +217,10 @@ Pak toho nechala a kreslila jen boty a nohy, které vyrážely z horního okr
 
 Točila se jí z toho hlava, a když to řekla svému milenci, přikázal jí, aby si večer větrala dveřmi do chodby. V bytě naproti Almině pokoji bydlela domovnice, pověřená prodejem uhlí; v zimě je každý den nabírala do plechových kbelíků a Alma jí několikrát nabídla pomoc, ale domovnice ji pokaždé zahnala zpátky.
 
+</section>
+
+<section>
+
 Alma zůstávala v pokoji i při náletu. Zatímco v ostatních vzbuzovalo houkání sirén horečnou aktivitu, Alma upadala do strnulosti, nohy za oknem se měnily v barevné šmouhy a ona je sklíčeně přenášela na papír. Až budou houkat, lehni si pod postel a zavři oči, řekl jí pan Schappe, ale ona to nikdy neudělala, naopak, pokaždé se postavila doprostřed pokoje (když rozpažila, dotkla se prsty obou stěn) a dívala se ke stropu, takže kdyby domy byly ze skla, piloti by v průhledném hranolu uviděli její tvář, bílou pleť krysy a zadumané oči, echte Blondine, s tělem přivyklým vlhkosti a tmě.
 
 * * *
@@ -171,7 +229,15 @@ Alma zůstávala v pokoji i při náletu. Zatímco v ostatních vzbuzovalo ho
 
 Její síla byla tak velká, že udržela v letadlech bomby, a i když ulice byla na konci války lysá jako dáseň, dům, ve kterém bydlela Alma, zůstal nepoškozený. Myslela jsem na nevyspalé piloty, losující o to, kdo poletí nad Alminou čtvrtí, protože nikdo z nich už nechce zahlédnout rozpjatého kostlivce v bílých šatech, srdce domu s tváří obrácenou k nebesům.
 
+</section>
+
+<section>
+
 Ve sklepní kóji kynula Alma jako těsto, dozrávala. O tom, co se děje venku, nevěděla nic; to, že se má mimořádně dobře, odvodila pouze z bot, které viděla za oknem a které se v žádném případě nemohly rovnat jejím střevíčkům z teletiny, nablýskaným a bez jediné praskliny.
+
+</section>
+
+<section>
 
 Na konci války pan Schappe a jeho žena zmizeli. On po domovnici poslal Almě stříbrné pánské hodinky a sadu ručníků, v krémové obálce přišel list s jedinou řádkou, Geh nicht raus bis Ende Mai.
 
@@ -209,6 +275,10 @@ Později jsem začala o Almině rozhodnutí pochybovat, jsem si jista, že věd
 
 Nevím, jak dlouho vydržela sedět na víku kufru a udržovat sevřením stehen rovnováhu. Rozhodně za tu dobu vyhladověla a představa jídla ji podráždila mnohem víc než výbuch nálože, který připravil nádražní okna o poslední zbytky skla.
 
+</section>
+
+<section>
+
 Někdy si na Almino nádražní dobrodružství vzpomenu a přemýšlím, jaký pro ni mělo význam. Znamenalo totéž, jako když se při náletu zastavila uprostřed pokoje a balancovala na bříškách prstů starým domem? Viděla v duchu svého milence, který při úprku ulicemi připomínal rozpustilého školáka (koženou brašnu plnou zbytečností nakonec nacpal do popelnice)? Anebo v sobě nechávala rozmrznout a opět ztuhnout své rodiče?
 
 Možná spala. Brada jí pomalu klesala na prsa, oči měla zakapané sladkou šťávou a dech se jí zastavoval v hrdle, do úst nevstoupil.
@@ -217,7 +287,15 @@ Možná spala. Brada jí pomalu klesala na prsa, oči měla zakapané sladkou š
 
 Alma mi vyprávěla, jak za ní ve snu přišla babička, Pojď, pomodlíme se, šma jizrael.
 
+</section>
+
+<section>
+
 Nedokázala už ani zpívat. Pleť měla bílou, jako z porcelánu. Teplo do prstů se jí nevrátilo; když mě svlékala, bylo to, jako by se mě dotýkala studeným železným prutem. Ráno sedávala na posteli, držela se za patu a přemýšlela.
+
+</section>
+
+<section>
 
 Dělily jsme se o postel a brzy i o její sny. Spala hluboce a nenechala se vzbudit žádnou noční můrou. Uměla splynout s tmou svého pokoje tak, že jsem ji, přitisknuta k jejím zádům, sotva nahmatala.
 
@@ -227,7 +305,15 @@ Nakrmila můj spánek i modlitbychtivou babičkou. Zajímalo mě, co si nechala
 
 Mátlo mě, když si po probuzení stěžovala na zlé sny. Dívala se na mě průhlednýma očima, držela se za hlavu a naříkala.
 
+</section>
+
+<section>
+
 Zpočátku jsme byly ze své blízkosti v rozpacích. Zatímco Alma do sebe nechtěla vpustit druhého člověka, já jsem netoužila po ničem jiném.
+
+</section>
+
+<section>
 
 Žádná z nás neuměla laskat ženu.
 
@@ -246,3 +332,5 @@ Každé ráno chvilku okouněla v ulicích a pak zamířila na okraj města, k
 Někdy odpočívala na čerstvě natřené lavičce v parku a dívala se přes náměstí.
 
 Napadlo ji, jestli to samé dělá i Alma, předstírá, že hledá rodiče, zatímco se nazdařbůh prochází městem.
+
+</section>

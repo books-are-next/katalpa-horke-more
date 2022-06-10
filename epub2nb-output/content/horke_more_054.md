@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Ostatní
 
@@ -18,6 +20,10 @@ Někdy si představuje, jak se chvěje v otcových tříslech, a v matčinýc
 Přede mnou byla Marie a Markéta, po mně Rosa, Ilan, Joel a Adam. Bylo nás sedm. Jména nám vybíral otec a nebylo to nic lehkého; když jsme se narodili a matka nás předložila smotané v měkkém balíčku, díval se na nás jako na kámen nebo strom, jako bychom nebyli úštěpek z jeho ledví, ale zvíře, které měl Adam pojmenovat na úsvitu dějin. Tak nás pozoroval náš otec, křivku hlavy, zaoblení čela, zkřížení prstů, velikost rtů; přemýšlel o tom, jak pojmenovat bytost, která už teď je jedinečná a jednou bude sama.
 
 Porodila matka bezejmenné uzlíky, a teprve otec z nich přidělením jména učinil děti? Anebo jsme mu byli dětmi od počátku? Věděl, kolik dětí bude mít, a učinil tak Marii počátkem a Adama koncem?
+
+</section>
+
+<section>
 
 Představuji si ho ve světle lampy. Prsty pod bradou, trpělivě přebírá myšlenky. Chce své děti pojmenovat tak, aby byly nezávislé, jejich jména nemají mít žádný původ, měla by vzniknout společně s početím a být rozfoukána s popelem.
 
@@ -53,4 +59,10 @@ Po Ilanovi s Joelem se narodil Adam, První i Poslední zároveň; po Adamovi 
 
 Matčiny podprsenky byly z jemné bílé látky, všité do hladkých košilek nebo plátěných korzetů. Ramínka měly z širokého pruhu plátna, z obou stran sevřená krajkou, a zapínání na hladkou stuhu, zářivé vlákno mezi prsy, které matka dokázala vzít do prstů jedné ruky a rozvázat, takže se jí rozmarně zavlnilo kolem boků a po břiše.
 
+</section>
+
+<section>
+
 Nic z toho, co se dělo pak, nebylo tak jasné a přímé jako proud, který vycházel z jejích prsů.
+
+</section>

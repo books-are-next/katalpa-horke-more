@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Pohovka
 
@@ -44,3 +46,5 @@ Matka ji dostala věnem. Dostala zařízený celý dům, včetně ložnice. Z o
 Po Matčině smrti zdědila pohovku Mína. Kartoun už značně olysal, s pomocí ostrého nože a kleští ho tedy stáhla a napjala na pohovku nové plátno. Málem přitom přišla o prst, když si ho čalounickou sponkou přibila k opěradlu. Zaklela tak, že pohovku navždy opustil červotoč.
 
 Po Míně si pohovku přivlastnila Aniela. Obdivovala ji. Vycpaná žíněmi z jatečních koní, voněla jí jako zahrada, a když ji objímala, nepřišlo jí na mysl, že Matka z ní cítila rozpařené pohlaví a Mína slýchávala lupnutí vlastního prstu, doprovázené sotva postřehnutelným dýmkem z toho, jak jí nehtem procházel kov.
+
+</section>

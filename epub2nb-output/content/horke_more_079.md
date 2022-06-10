@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Anna
 
@@ -30,3 +32,5 @@ Všechno, co bylo po Magdaléně, se buď stalo ve světě stínu, nebo se nesta
 * * *
 
 Tu Anielu si nesu v sobě a nejsem jí opuštěna, stejně jako ona si nese mne a já ji neopouštím.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Marie  
 Pokoj
@@ -24,8 +26,14 @@ Ano, řekla jsem.
 
 Zbytek hodiny proseděla beze slova. Jakmile se ozval budík, ohlašující konec našeho setkání, vklouzla do bot, vzala si z věšáku kabát a počkala, až jí na rozloučenou podám ruku.
 
+</section>
+
+<section>
+
 Posadila jsem se na její místo.
 
 Řekla: Miluju, anebo ještě víc?
 
 Už tehdy, pár chvil po jejím odchodu, jsem si nemohla vzpomenout.
+
+</section>

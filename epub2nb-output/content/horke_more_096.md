@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Marie  
 Smrt
@@ -22,15 +24,35 @@ S rukama napjatýma čekám, trpělivě a mlčky, v neznámém pokoji, ukázn
 
 Občas se zvednu a přecházím ode dveří k oknu. Naslouchám. Zpočátku mě zaráželo, jak pomalu a těžkopádně se pohybuji. Jako bych byla stará žena.
 
+</section>
+
+<section>
+
 Zvolna otáčím hlavu a tisknu ucho ke dveřím, abych nepřeslechla Mariiny kroky.
 
 Jediná radost.
 
+</section>
+
+<section>
+
 Pak se posadím na pohovku a natáhnu nohy před sebe. Střevíce jsou mi o několik čísel větší a musím si je zavázat pevněji. S hlavou skloněnou zabloudím prstem do úst a narazím na hradbu zubů, řezavou past. Vyděsím se, jako by mým dosavadním domovem bylo hladké bezzubí.
+
+</section>
+
+<section>
 
 Než na schodech zaslechnu Marii, zbavím se zvyků stařeny. Těším se pružností mladých kloubů a sevřu v prstech ňadra, zasním se nad pánví stočenou v sveřepou pěst.
 
+</section>
+
+<section>
+
 Potom opustím pohovku.
+
+</section>
+
+<section>
 
 Lehkým krokem dojdu ke dveřím, pluji závojem černých vlasů.
 
@@ -38,13 +60,29 @@ Zářím.
 
 Lehkým krokem dojdu ke dveřím, kotníky rozechvělé, boky jásot a slast.
 
+</section>
+
+<section>
+
 Marii vytuším v ohybu schodiště.
 
+</section>
+
+<section>
+
 Lehkým krokem dojdu ke dveřím.
+
+</section>
+
+<section>
 
 Jsem rysem v houštinách, jsem hádětem.
 
 Jsem skalní puklinou, jsem říčním dnem.
+
+</section>
+
+<section>
 
 Opojena, vyjdu jí vstříc.
 
@@ -58,9 +96,21 @@ Sen není delší než mžik. Potom pád do bdělosti, oběma nohama pevně na z
 
 Pod řídkým plátnem opatrný pohyb, nesmělá črta ramenem.
 
+</section>
+
+<section>
+
 Aniela otvírá ústa k výkřiku.
 
+</section>
+
+<section>
+
 V bílém víru se z dřevěných már zvedá Magdaléna, chvěje se a mrzne, stále ještě spřátelena s prknem; rozhlíží se, opásána lněnou nití.
+
+</section>
+
+<section>
 
 Anielu opouští strnulost, rozbíhá se, letí. S hlasitým křikem se klene přes propast, přichází o rty. Žene se proti bílé stěně, vrhá se mezi rybí břicha, do trnoví akátů; s trýznivou radostí, rozbolavělá, žhnoucí, vrhá se k M.
 
@@ -74,15 +124,35 @@ Vidím ji. Polyká schody, jeden za druhým, zastavuje se v tmavém výklenku a
 
 Představuji si její zjasněnou tvář.
 
+</section>
+
+<section>
+
 Dělí nás několik kamenných vln.
+
+</section>
+
+<section>
 
 Napínám oči a ona víří v proudu košilek, zalyká se bílou. Vře plátnem a závoji, bledne obsahem Míniných skříní.
 
+</section>
+
+<section>
+
 Magdaléna.
+
+</section>
+
+<section>
 
 Potáhla jsem se rozkoší.
 
 V bedrech tiše mi naříká Mirjamka.
+
+</section>
+
+<section>
 
 A ona! V bílém. Soví let.
 
@@ -94,11 +164,23 @@ Marie, Marie.
 
 Je má.
 
+</section>
+
+<section>
+
 Mezi hřbety ovcí sladká tvář, cestička v zahradě.
 
 Matka v divokém tanci.
 
+</section>
+
+<section>
+
 Na konci však. Magdaléna.
+
+</section>
+
+<section>
 
 Spěchám za ní. Prodírám se liliovým polem, prsty mi váznou v lepkavých kořenech. Otvírám náruč, tryskám radostí.
 
@@ -108,6 +190,16 @@ Ona pode mnou. Zvednutá tvář. Ústřižek kozí srsti.
 
 Skok!
 
+</section>
+
+<section>
+
 Ach, pod nohama prázdno; ach, pod nohama jekot a kvil.
 
+</section>
+
+<section>
+
 A potom, dosahuji vítězství.
+
+</section>
