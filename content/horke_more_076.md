@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Anna
 
@@ -24,6 +26,10 @@ Krmila jsem ji mlékem svařeným se smetanou, řekla Mína. Škraloup jí zacpa
 To řekla, když jsme se šly samy projít. Pohlédla jsem na ni a ona se usmála.
 
 Před spaním jsem otevřela Anně ústa a opravdu: jazyk, patro a dásně měla potažené sladkou mízou, laskavým baldachýnem. Polkla medúzku ticha a od té doby nezakřičela.
+
+</section>
+
+<section>
 
 Když byly Anně dva roky, Mínin bratr zemřel. Krátce nato opustil můj muž nemocnici a otevřel si soukromou praxi. Protože už měl jméno, nemusel si dlouho a namáhavě shánět pacienty; brzy jich měl tolik, že nemohl přijímat další. Proto je posílal za mnou.
 
@@ -47,16 +53,34 @@ Matka se zdála v pořádku. Na konci hodiny si stáhla rukavičky a sáhla do
 
 Uviděla jsem před sebou fenu hryzající štěňata a štěňata, která si olizováním chladí rány; občas zasáhnou jazykem i matku a nakonec se soustředí jen na ni, jazykem a zuby se vzájemně zraňují k bezvědomí.
 
+</section>
+
+<section>
+
 Večer jsem o nich řekla muži.
 
 Tak jsi je poznala, řekl. Sestřičky hydřičky, rusý postrach duše­zpytců.
+
+</section>
+
+<section>
 
 Když jsem jela druhý den za Annou, smekla se mi noha a já jsem stihla na poslední chvíli zabrzdit. Za okamžik se kolem mě prohnal vlak. Vystoupila jsem a na světle si prohlédla své střevíce, zvetšelou podrážku a popraskaný lak. Nakonec jsem se zula a řídila bosa. Překvapilo mě, jak lehce to šlo. Později jsem zastavila na okraji pole a střevíce jsem zahrabala do měkké ornice.
 
 Ve městě jsem si koupila nové boty, červené a zářivé.
 
+</section>
+
+<section>
+
 Když se přivalí zrzavé loukotě, pohlédnu jim vstříc, vyzývavě opřená o stůl a s obnaženýma nohama; mé tělo pichlavý osten s červenou špičkou. Jakmile zahlédnou mé střevíce, vyletí do povětří a zmizí, dokonce zapomenou i na obvyklý hryzavý souboj na schodech.
 
 Zvítězila jsem. Mám z toho radost a ony jako by nebyly, marně se dívám z okna a čekám, až vyjdou na ulici.
 
+</section>
+
+<section>
+
 Tehdy jsem netušila, že přijdou další, a proti těm už nepomůžou červené boty, nezastaví je slovo ani mlčení, neustoupí před napřaženou dlaní a nepolíbí umdlenou tvář. Lamači totemů, beranidla lásky, opěvovatelé pohovky a mistři v pronikání temným hvozdem osudu.
+
+</section>

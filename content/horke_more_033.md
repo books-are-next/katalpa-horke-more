@@ -3,12 +3,18 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Matka
 
 > /vlnolam, moře/
 
 Mám horečku.
+
+</section>
+
+<section>
 
 Jednoho dne se probudím a sama sebe nepoznávám.
 
@@ -20,11 +26,23 @@ Zvolna otáčím rukou.
 
 Maso, kost a sval, nerv od malíčku k podžebří a mozku.
 
+</section>
+
+<section>
+
 Poprvé v životě si své tělo prohlížím věcně. Strávím tak tři dny, a stále je to málo, pouhý zlomek náročných měsíců, které jsem prožila v matčině břiše.
+
+</section>
+
+<section>
 
 Třetí den uslyším bušení na dveře, jen nerada se zvednu od zrcadla. Zdá se, že je to naléhavé.
 
 Jsem nemocná, řeknu a cizí hlas v chodbě vysloví zaklínadlo, telegram, a já se zabalím do zimního pláště.
+
+</section>
+
+<section>
 
 Před třemi dny zemřela matka.
 
@@ -51,3 +69,5 @@ Sedmý den odpočívám. Chtěla bych mluvit o svých šesti. Pod vrstvou špí
 Jsem unavená, k smrti zemdlená, a matka hnije kdesi u ledu.
 
 Nestěžuji si, tentokrát jsem to já, kdo má navrch. V plamenech praská její zmrzlé tělo tak, že mě zaměstnanci krematoria začnou nenávidět; odkud jste ji přivezla, ohlížejí se na mě, z točny?
+
+</section>

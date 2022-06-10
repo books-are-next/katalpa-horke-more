@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -18,17 +20,37 @@ Myslím na něj víc než na muže Davida.
 
 Myslím na něj víc než na Jakubu.
 
+</section>
+
+<section>
+
 Horko.
 
 Květiny klopí listy, slyším je šelestit ve tmě.
+
+</section>
+
+<section>
 
 Do léviovského domu se odvažuji vstoupit jen tehdy, když jdu navštívit matku.
 
 Do léviovského domu se stěží odvažuji vstoupit.
 
+</section>
+
+<section>
+
 Myslím na něj od chvíle, kdy se mi o něm zdál sen.
 
+</section>
+
+<section>
+
 Druhý den vyprávím o svém snu Aniele.
+
+</section>
+
+<section>
 
 Napřed jsem musela jít hustým lesem. Cítila jsem, jak mi prorůstá tělem, mlází, mech a borůvčí, v žaludku mi zapustil kořeny ostružiník a v plicích chrpa, oči jsem měla vraní.
 
@@ -42,4 +64,10 @@ Byla jsem ve středu vlastního snu. Jazyky kolem mě byly zmatené. I já jsem
 
 Nakonec jsem se zastavila a podvolila se bolesti, která mě plnila od špiček prstů po klenbu čela, před léviovským domem jsem se zastavila, uprostřed zahrady.
 
+</section>
+
+<section>
+
 Dokud ten dům stojí, sotva se mohu počítat mezi živé.
+
+</section>

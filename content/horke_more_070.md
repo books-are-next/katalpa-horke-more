@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Matka
 
@@ -15,6 +17,10 @@ Dala jsem jí hmatat svou ránu.
 
 Couvla a pak mě objala, přitiskla mi podpaží k ramenům.
 
+</section>
+
+<section>
+
 V noci se zabila.
 
 Otevřela se perleťovou jehlicí do vlasů, kterou musela měsíce pečlivě brousit.
@@ -25,8 +31,18 @@ Více než dvě třetiny jí seděly v křesle, když ji ráno našly ošetřov
 
 Zavolaly mého muže. Když se vrátil domů, povečeřel. Tak jsem ho milovala, že nebylo nic z masa.
 
+</section>
+
+<section>
+
 Nikdo neměl čas postarat se o Matčinu pozůstalost. Její manžel odjel na venkov a na telegramy neodpovídal. Kromě mě nebyl nikdo, kdo by byl ochotný doručit mu balíček s jejími věcmi. Nakonec jsem podepsala výdejku a vydala se na nádraží.
+
+</section>
+
+<section>
 
 Statek, kde žil Matčin muž, byl asi dvacet minut chůze od zastávky, na které jsem vystoupila. Neoznámila jsem svůj příjezd, a tak mi nikdo nepřišel naproti.
 
 Na cestu jsem se musela zeptat.
+
+</section>

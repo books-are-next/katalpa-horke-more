@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Jakuba
 
@@ -17,3 +19,5 @@ Pohození hlavou, napnutí šíje.
 Nad Jakubiným nezvyklým úsměvem stráví celý večer. Papír, na který ho zapsala, roztrhá na kousíčky a spolkne.
 
 Vztekle posílá do břicha mapu pokladu, a přestože ještě neumí trávit celulózu, nevyjde z ní ani kousíček, tak je roztrpčená.
+
+</section>

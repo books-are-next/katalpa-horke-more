@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Matka  
 Dům
@@ -29,6 +31,10 @@ Vyruší ji teprve noční sestra, přicházející změřit matčinu teplotu. N
 
 Marie se pomalu vydá ke schodišti. V přízemí potká lékaře s příjemnou tváří, usměje se na ni a pozdraví ji, opětuje jeho pozdrav a představuje si, jak ji o dvě patra výš společně s noční sestrou hledá.
 
+</section>
+
+<section>
+
 Přejde dvůr a vstoupí do jiné budovy. Sejde do suterénu, světlo z vrátnice stačí přesně na poslední schod. Jde opatrně a ruku sune podél zdi. Pak otevře dveře laboratoře a rozsvítí. Její věci zůstaly nedotčené, tak, jak je nechala, když se dozvěděla, že přivezli matku; do půlky vypitá sklenice vody, rozsypané papíry, otevřený diář.
 
 Oblékne si kabát a vrátí se do tmy.
@@ -49,4 +55,10 @@ Když jdeme nočním městem, zastavím se v bistru a poručím si párek. Pak
 
 Do čtvrti, kde žije matka, jedeme autobusem. Posadíme se vedle sebe a on na chvíli usne, vzbudím ho na konečné a pak ještě musíme jít kus cesty pěšky. Na zahradách, kolem nichž procházíme, se ještě neodhodlalo vypučet nic jiného než sněženky a krokusy, stromy váhají s nalitými pupeny.
 
+</section>
+
+<section>
+
 Dům, ve kterém jsem vyrůstala, je temný. Plot mi sahá sotva k prsům, branka nemá kliku, musím prostrčit ruku a otevřít ji zevnitř.
+
+</section>

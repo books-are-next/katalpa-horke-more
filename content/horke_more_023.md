@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -19,6 +21,10 @@ Nedokážu odhadnout, kolik mám času. Jak dlouho bude trvat její kóma?
 Je v bezvědomí, a přesto přítomná. Spící, zůstává za branami domu. Neodvažuje se zaútočit a vejít, protáhnout se dveřmi do míst, která obývala, nechce zavadit nohou o práh a upozornit na sebe.
 
 Dokud jsem tu já, zůstane pozorovatelkou, bude k sobě tisknout rty a zaujatýma očima měřit okna.
+
+</section>
+
+<section>
 
 Začnu prohledávat horní patro. Svůj pokoj vynechám, nenašla bych v něm nic, co bych neznala. Pátrám v matčině skříni, nočním stolku, knihovně. V poledne dojdu k telefonu, zavolám do nemocnice a ujistím se, že matka je dosud v bezvědomí.
 
@@ -54,6 +60,10 @@ Nemohu uvěřit tomu, že jsem se odvážila.
 
 Jsem v léviovském domě.
 
+</section>
+
+<section>
+
 Stojím uprostřed schodiště. Oči si zakrývám dlaní.
 
 * * *
@@ -64,6 +74,10 @@ V chodbě uvidím matku. Sklání se u dveří do babiččiny kuchyně, oko p�
 
 Z podlahy vzlíná voda a ústí do jejích podvíček, dvěma silnými prameny je matka připoutána k zemi.
 
+</section>
+
+<section>
+
 Je sobota, a v sobotu pozoruje matka otcovy rodiče nejraději, protože rozdělují chléb.
 
 Její oko je nosem.
@@ -71,6 +85,10 @@ Její oko je nosem.
 Právě se nadechuje, když se zastavím o pár schodů výš a vzdychnu.
 
 Vyjde ze mě krvavý koláč.
+
+</section>
+
+<section>
 
 Matčino radostné rozjímání bylo přerušeno. Vzala mě za ruku, druhou sebrala vlhký cárek, který ze mě vypadl.
 
@@ -86,4 +104,10 @@ Konec nadějím, odpověděla.
 
 Když vzhlédnu, chodba je prázdná.
 
+</section>
+
+<section>
+
 Nemohu uvěřit tomu, že jsem se odvážila.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Sestra Marie
 
@@ -33,6 +35,10 @@ Prohne se v zádech a ve stejném okamžiku zazní střelba. Nečeká to a k�
 
 Když se rozběhla, zranila jí prsty.
 
+</section>
+
+<section>
+
 K dosažení cíle stačily Marii tři skoky; Aniela je později vnímala jako velký zářivý oblouk.
 
 * * *
@@ -44,3 +50,5 @@ Elektrické dráty jí neublížily, neměla nakřivo ani vlásek. Cítila jsem,
 Má sestra měla průsvitné čelo, za ním jsem viděla mraky a páru. Nemohla být ničím jiným než vzpomínkou.
 
 Mirjamka vedle mě vydala vítězný skřek, radostně bušila pěstí do kavalce.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Mína
 
@@ -19,7 +21,15 @@ Vzpomněla jsem si na Matčiny šaty, ocelový korzet, řadu knoflíků a háč
 
 Annu změnila v přízrak, na hlavu jí posadila klobouk, ohyzdné zvíře z tuhé krajky, smělé a dobře nakrmené dráty a peřím.
 
+</section>
+
+<section>
+
 Nevěděla jsem, co počít.
+
+</section>
+
+<section>
 
 Míno, zavolala jsem. Míno, Šičko, vrať mi dceru.
 
@@ -27,8 +37,14 @@ Vyděsila se. Vyděsila se tak, že polkla špendlík, kterých měla plná úst
 
 Odložila krejčovský metr. Zastavila práci.
 
+</section>
+
+<section>
+
 Ach, dceru jsem z ní nedostala hned. Byla do ní zaklesnutá zuby nehty, olemovala ji a vetkala do svého těla. Musela jsem se s ní dlouho potýkat. Stále nechtěla povolit, až mi začal docházet dech. Nakonec jsem vložila ruku do jejího košíčku na šití, celou ruku jsem tam vtiskla, a vytáhla ji obsypanou jehlami. Nalezla jsem však Míniny paličkovací hůlky a s nimi, jako stříbrné vlákno, dlouhou bílou nit.
 
 Hodila jsem je daleko od sebe a Mína zaúpěla. Rozběhla se za nimi a pustila mou dceru.
 
 Tak jsme obě dostaly, co nám patřilo; Mína paličky s nití, která stínala trávu stéblo za stéblem, a já Annu.
+
+</section>

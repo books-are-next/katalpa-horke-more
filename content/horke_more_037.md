@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE
 
 > /moře/
@@ -18,3 +20,5 @@ Jdi za svým mužem.
 Copak se odchází z války?
 
 Vrhám se do kouta, abych mohla výt.
+
+</section>

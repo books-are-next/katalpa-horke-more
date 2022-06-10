@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Pokoj
 
@@ -28,3 +30,5 @@ V Pokoji jsou dvě okna. Přiléhá k němu nevelká místnost, úzké doupě 
 Socha Anielu dráždí, a tak jí každé ráno vylévá za krk lógr; její muž dělal totéž s cigaretovým popelem.
 
 V malé místnosti je Aniela v obležení papírů. Jsou tu otcovy rukopisy, práce Anielina muže, její vlastní zápisky. Papíry zůstávají, kam je odložila, někdy po nich opatrně chodí jako po křehkém listí. Občas má chuť je spálit, ale neví kde.
+
+</section>

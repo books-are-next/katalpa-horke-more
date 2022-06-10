@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Mirjam  
 Smrt
@@ -14,11 +16,23 @@ Vím o ní.
 
 Ona se nesnaží skrývat a já ji poznám na první pohled; nejprve podle stop, které zanechává, a potom si stojíme tváří v tvář, ona prstem vybírá marmeládu, kterou kdesi ukořistila, a když mě zahlédne, pokrčí rameny.
 
+</section>
+
+<section>
+
 Mirjamka.
+
+</section>
+
+<section>
 
 Musím se posadit. Místo strachu cítím zuřivost. Zasloužím si klidnou smrt, tichou smrt, smrt znenadání, ale ona na mě nebere ohled, buď ji mám v patách, anebo prochází cestu přede mnou, lebka jí svítí a ona stále něco požírá a ochutnává, smyslně a bezděčně. Večer se ke mně přitiskne a já si rovnám záda o její lopatky, v kyčlích uchytím zápěstí a usnu; má teplé kosti a je hladká, velkoryse rozvírá hrudník.
 
 Přála bych si, aby mě podťala jako strom, rychle a nečekaně. Ona však vytahuje ostří jen proto, aby si udělala manikúru. Následuje mě do obchodů a pomáhá mi vybrat rtěnku. Když přijde Jakuba, uvolní mou postel a stáhne se do kouta.
+
+</section>
+
+<section>
 
 Viděla jsem, jak kosí šiky. Seděla na ramenou každého, kdo přijel tmavým vlakem, cvakala zuby a stála mezi námi rozkročena. Když se rozmáchla pažemi, ostrými rameny zapálila vzduch. Naříkala a rvala maso. Dbala na kvalitu popela a nebyla vybíravá, brala každého a její síla spočívala v jejím stisku, svírala pěsti, zuby a rty, uzavírala podpaží a drtila hlavy.
 
@@ -28,6 +42,10 @@ Dcery vracela otcům, semleté v prach, lebka špínka, milované čelisti rozt
 
 Brousila nahotu, zasněně, a přesto bezchybně, a když si jemně říhla, udělala to do krabice od dortu.
 
+</section>
+
+<section>
+
 Jednou jsem ji přistihla jíst jablko. Schoulená seděla na zemi, kolena pokrčená, lokty vražené mezi stehna, zadumaně se skláněla k půlce bílého plodu a prstem vybírala jádřinec; stočená v něžném stínu olizovala sladké maso, ospale, smutně a tiše; laskala jablko a opatrně vykusovala smavé žilky. Zem pod ní vlhla, a když Mirjamka v jablku nalezla červa, dlouze si ho prohlížela a pak ho upustila do trávy.
 
 Dívala jsem se na její stín, žebra tygřila žebra, jazylka ostře bodala temnotou kyčlí.
@@ -36,11 +54,27 @@ Dívala jsem se na její stín, žebra tygřila žebra, jazylka ostře bodala te
 
 Vím o ní.
 
+</section>
+
+<section>
+
 Češu si vlasy a cítím v zádech její pohled; když se oblékám, podává mi prádlo. Klene se nade mnou a stačí jedinkrát zvednout hlavu, abych věděla, že nemá na starosti nic jiného než dělat mi garde.
+
+</section>
+
+<section>
 
 Jak by mě mohla skolit, když se mnou každý den snídá? Otáčím se k ní zády a čekám ránu do zátylku, nakrčím čelo a loučím se se životem, a protože se nic neděje, pohlédnu na ni a ona si u stolu rovná šaty, tváří se dotčeně a vrtí hlavou.
 
+</section>
+
+<section>
+
 Mým rodičům rozdrtila lebku.
+
+</section>
+
+<section>
 
 Nevzdaluje se ode mne na krok. Jakuba o ní nemá tušení, sedí vedle ní a cpe se snídaní. Mirjamka se také neostýchá, nakloní se a vyfoukne Jakubě z talíře koláč, Jakuba si ničeho nevšimne, natáhne se přes stůl a znovu si naloží.
 
@@ -66,11 +100,23 @@ Rychlost.
 
 Každopádně.
 
+</section>
+
+<section>
+
 Když si Matka párala břicho, seděla jí na špičce jehly.
 
 Byla tak rychlá, že při svém běhu přehlédla věčnost.
 
+</section>
+
+<section>
+
 Sotva se objevila, zpozorněla jsem. Pomyslela jsem na konec a sepjala ruce, teď přijde švihnutí bičem, dech se mi zastaví a tělo ztuhne; je to Mirjamka, královna apelplacu, rychlá a úsporná v pohybech, divoška, jak ta se rozdává!; je to Mirjamka, rozmařilá pěstitelka tyfu, louskající hlavy jako ořechy, ta, kterou jsem nechala v díře zasypané hlínou; to ona mě naučila nosit klobouky se širokým dnem; je to Mirjamka, která procedila mezi zuby všechny z mého okolí, matku i otce, celou rodinu, Josefa Holmana a Mínu; je to Mirjamka, rychlá a trpělivá.
+
+</section>
+
+<section>
 
 Snídala se mnou z bílého porcelánu a s chutí si dolévala čaj. Líně směřovala k poledni a nespouštěla ze mě oči, klidná a spokojená, mřížovím kostí se mi pokládala k nohám, měkce a bez pohnutí. Pozorovala každý můj pohyb, vnímala a uchovávala všechna má slova. Stala se ozvěnou, ale chybělo málo, aby předešla mému hlasu.
 
@@ -80,7 +126,15 @@ O smrti chtěla Aniela mluvit se svou matkou.
 
 Chtěla se dozvědět o plynutí času, vyčerpat se. Pak, v táboře, si uvědomila, že její čas stojí. Obešla jej, vpadla mu do zad. Ve kterém ze svých životů stárne?
 
+</section>
+
+<section>
+
 Ve snu počala děti a nechala zemřít muže. Uvěřila všemu, co se stalo za zavřenými víčky.
+
+</section>
+
+<section>
 
 Probouzí se pomalu, opatrně otevírá oči.
 
@@ -100,7 +154,15 @@ Všechno, co zničí, když tápe k zrcadlu, do rána zmizí.
 
 Je sama. Totiž Jakuba, totiž Mirjamka, totiž sestra Marie, totiž dcera Anna spí. Je sama. Šerá v noci. Plahočí se k zrcadlu, a už teď má strach.
 
+</section>
+
+<section>
+
 Odvahu!
+
+</section>
+
+<section>
 
 Zvedne hlavu a oněmí, ach, na dně studny zrcadlo. Kam se to sápe temnotou? K zrcadlu, a hle, když stojí před ním, vzdá se slov a ochabne.
 
@@ -110,6 +172,12 @@ Vrazí pěst do skleněné pasti, rozčeří hladinu.
 
 Zakřič a vzbudíš ostatní; raději polkne jazyk, než by vydala hlásku.
 
+</section>
+
+<section>
+
 Plakat nemůže. Stojí s rukama ztuhlýma před obličejem, chtěla si zakrýt oči. Stojí mlčky, beznadějně pohlcená obrazem vlastního těla, nehýbe se.
 
 Nemůžu tomu uvěřit, řekne.
+
+</section>

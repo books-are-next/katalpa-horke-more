@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -14,7 +16,15 @@ Zloději, napadne ji, když se konečně posadí. Okamžitě je zlitá potem. M�
 
 Opatrně se zvedne a míří k šatníku. Napadne ji, kolik může být hodin, podle blednoucího nebe soudí, že se blíží ráno. Skříň nejde otevřít, nacpe prsty do úzké skuliny ve dveřích a snaží se je od sebe odtáhnout, a protože má stále napjaté uši a smysly v pozoru, uslyší z kuchyně tiché špitnutí.
 
+</section>
+
+<section>
+
 Klíč je tady, miláčku.
+
+</section>
+
+<section>
 
 Ztuhne. Oči třeští do tmy. Pak, po špičkách, doběhne zpátky k posteli, sáhne pod polštář a vklouzne do noční košile; je cítit cigaretami a mastným krémem, kterým se matka natírá před spaním.
 
@@ -33,3 +43,5 @@ Jako kdyby živý znamenalo hlučný, postěžuje si pak Aniele.
 Držela se u dveří. Pár hlav se za ní otočilo, ale většina přítomných se dál soustředila na ženu, usazenou uprostřed místnosti.
 
 Byla to Mariina matka, kdo, nohu přes nohu, z kuchyňské židle vykládal rozumy.
+
+</section>

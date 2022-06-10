@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Magdaléna
 
@@ -19,7 +21,15 @@ Aniela je zvědavá na to, co přijde.
 
 V Magdalénině dlani se objeví dva černé kousky. Aniela na první pohled poznává lékořici. Magdaléna se tváří vážně a Aniela se brání smíchu. Zastaví ho ještě v hrdle, těsně pod mandlemi, nedovolí si ani zamrkat, protože Magdaléna ji pozoruje jako ostříž.
 
+</section>
+
+<section>
+
 Jed, řekne Magdaléna.
+
+</section>
+
+<section>
 
 Aniela nic nenamítá. Magdaléna se s ní podělí a vtlačí jí do dlaně hořký úštěpek.
 
@@ -32,3 +42,5 @@ Nakonec Magdaléna řekne, nikdy to nedokážu (a to je pravda), takže teď je 
 Vstrčí si ho pod jazyk a pak opatrně mezi zuby, žvýká.
 
 Přes tryskající sliny pozoruje slunce.
+
+</section>

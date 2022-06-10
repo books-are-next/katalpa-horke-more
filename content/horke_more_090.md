@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Anna  
 Jakuba
@@ -12,6 +14,10 @@ Jakuba
 
 Omáčka z králíka. Boj o ledvinky. Jedné se zmocňuje Jakuba. Její ruka se rychle mihne nad talířem, sleduje dráhu, kterou si předtím vytyčila pohledem. Postřehnout ledvinku v míse plné bobkového listu a jalovce je umění, které předtím ovládala jenom Anna. Teď sedí vedle konkurence a trochu se ušklíbne, když Jakubina vidlička zamíří i podruhé ke kousku, který si vyhlédla pro sebe. Když se Jakuba vítězně stahuje na svůj talíř, upustí ledvinku přímo do Annina klína.
 
+</section>
+
+<section>
+
 Bude se ti líbit, řekne Anna, když odnášíme domů krvavý úlovek. Králíka přinesl jeden z mnoha jejích ctitelů, bezhlavé tělo jí podal přes pult (kapka krve se ztratila mezi salámy) a přívětivě na ni mrkl.
 
 Bude se ti líbit, opakuje Anna a zastaví se nad kanálem. Vsune ruku do tašky s králíkem a vytáhne kapesní hodinky; přes mřížku kanálu jim pomůže špičkou boty. Pak pokračujeme v cestě, Anna si něco tiše brouká a já přemýšlím o tom, co mi říkala.
@@ -20,13 +26,25 @@ Neměla jsi vyhazovat ty hodinky, řeknu, když odemyká dveře. Zastaví se, š
 
 Maso beru, řekne. Ale rolexky?
 
+</section>
+
+<section>
+
 Jestli se Jakuba stydí, nedává to na sobě znát. Je z nás tří oblečená nejméně slavnostně, v přiléhavých kalhotách a dlouhém svetru. Anna je ve svatebním, před několika dny se vdávala, a podle zažloutlých kruhů v podpaží soudím, že jí nestálo za to, šaty prát.
 
 Usmívá se a usazuje Jakubu ke stolu, chvilku nato si Jakuba přivlastňuje ledvinky, jednu z nich vybírá z Annina klína, a já začínám nenápadně otáčet prstem v botě; nemůžu se dočkat, až obě zmizí. Když se nedívá, prohlížím si Jakubinu tvář. Připomíná zrcadlo, a proto si ji ve vzpomínkách budu vybavovat jako svou vlastní.
 
+</section>
+
+<section>
+
 Anna si od Jakuby slibuje velké věci. Poznala ji jako odraz v zrcadle a okamžitě k ní zahořela láskou; líbilo se jí, s jakou pečlivostí se Jakuba věnuje jejím vlasům. Než se pustila do práce, ohřála si prsty pod horkou vodou, pak je položila Anně na krk a počítala tep; když spolu byly sladěné, chopila se nůžek a začala ji stříhat. Anna zavřela oči a usnula. Po probuzení zjistila, že Jakuba jí podpírá hlavu dlaní a jemným štětečkem ji zbavuje ostříhaných vlasů. Od té doby se nenechávala stříhat od nikoho jiného, a čím déle Jakubu znala, tím radostněji usedala do vysokého křesla, zakláněla hlavu a nechala si kolem krku uvazovat plátěný límec. Jakuba se nikdy nedotýkala rovnou jejích vlasů, ale nejprve kladla ruce do vzduchu nad ní, přejížděla prsty po špičkách neviditelné koruny, a teprve když Anna ucítila její prsty uvnitř lebky, sklonila hlavu na prsa a klidně vydechla. Jakuba prozkoumala švy uvnitř Anniny hlavy, houževnaté vazy v čelistech a týlu, protáhla se soukolím myšlenek a polechtala patro.
 
 Dotkla se střepů, které v sobě mám, řekne Anna, když chystáme večeři.
+
+</section>
+
+<section>
 
 Když Jakuba dojí, všimnu si jejích rukou; pod jedním nehtem má zrníčko pepře. Kosti ohlodala dohladka, rozkousala klouby, a kde mohla, vysála morek; na okraj talíře nahrnula ostré úlomky. Vypadá spokojeně, prostor mezi jejíma rukama a tváří je vyplněn světlem.
 
@@ -56,7 +74,15 @@ Podruhé se s Jakubou setkala v zrcadlovém bludišti. Když na to vzpomíná,
 
 Zrcadlo. Jakubina noční můra. Nepoužívá ho, a proto nestárne. Je přesvědčena, že by se z něj nemohla dozvědět nic nového. Rozčilovalo by ji stále dokola luštit cizí tvář. Spojovat to, čím je, s neznámou krajinou, v místech, kde cítí údolí, nacházet hory, zastavovat řeky a hloubit jejich koryta jinde, uvěřit, že ústa jí nevyrůstají z čela a že nemá víc než dvě oči, sledovat linii krku a narazit na tvrdou vypouklinu brady tam, kde cítí něžné otevření. Slyšela, že zrcadlo ukazuje, jaká ve skutečnosti je. Nevěřila tomu ani jako dítě, protože pokaždé, když zvedla pravou ruku, zrcadlo zvedlo ruku opačnou. Obelstít se nedalo. Jak mohla věřit tomu, že tvář, na kterou se dívá, patří právě jí? Ani nejdokonalejší optické zařízení nemohlo nahradit radost, kterou cítila, když poslouchala svůj hlas, dotýkala se kůže na bocích a čichala k podpaží; když olizovala krev z ruky prošlé maliním a unavenýma očima pátrala po místě, kudy do ní vstoupily trny.
 
+</section>
+
+<section>
+
 Aniela ji tlačila před sebou, nejdřív lehce a pak čím dál naléhavěji. Poháněla ji zvědavost. Všichni, kteří se s Jakubou setkali, byli zvědaví. Rozeznává muže a ženy? Mladé od starých, šťastné od zoufalých, pilné od lenochů a samotáře od opuštěných? Pozná smích se zavřenými ústy a pláč zbavený slz? A co krásu? Dokáže ji nalézt, nebo ji beze slova mine?
+
+</section>
+
+<section>
 
 Anielu poznala podle vůně. Postavu měla nachýlenou kupředu, ohnutá ramena a stažené břicho. Zamávala jí. Aniela jí vyšla vstříc a Jakuba si všimla, že tentokrát jí krk nesvírají cizí stehna.
 
@@ -77,3 +103,5 @@ Její výčitky mě obměkčily. Hebce přilnula k patě mého těla. Pomohla j
 * * *
 
 Viděla jsem jen nás dvě. Znásobené a polknuté zářivou plochou. I kdyby nás odráželo tisíc zrcadel, vždycky bychom byly jenom dvě. Zástup tvořený povedeným párkem, jednou bezzubou a druhou s pamětí děravou jako cedník.
+
+</section>

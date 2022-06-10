@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Matka
 
@@ -13,7 +15,15 @@ Začala docházet na oddělení, kde Josef Holman pracoval. Nedělala nic zvlá�
 
 Většina žen, které byly v nemocnici, nevěděla nic o světě venku. Některé z nich, když dostaly tabletu nebo injekci, si vzpomněly na život za mřížemi a začaly se dožadovat svých otců, manželů nebo synů, jejich síla však stačila sotva na to, aby poslala myšlenku z hlavy k ústům, po chvilce usnuly a neopouštěly bezpečí své postele.
 
+</section>
+
+<section>
+
 Aniela si vzpomíná na tu, které říkali Matka, ačkoliv nikdy nerodila.
+
+</section>
+
+<section>
 
 Žádná z Charcotových pacientek nedokázala tak skvostný most jako Matka, která se zavrtávala hlavou i špičkami nohou do podlahy a sténala přitom mužským hlasem. Když ztuhla v posteli, připomínala vzácný šperk, bělmo tvrdé a křehké jako porcelán, duhový řetízek slin; Aniela nechávala práce a chodila se dívat na její zvrácenou hlavu, malou, černou a vlhkou jako hlava draka; pozorovala zuby zaťaté do rtu a měla strach.
 
@@ -39,11 +49,23 @@ Možná ho ještě někde mám. Byl to fialový sešit s tuhými deskami a ost
 
 Když jsem za ní přišla podruhé, přistrčila mi ho, prázdný až na jednu stranu, na které stálo: rychle rychle rychle rychle.
 
+</section>
+
+<section>
+
 Od chvíle, kdy mi vzali šaty, řekla, to se mnou jde z kopce.
+
+</section>
+
+<section>
 
 Šaty jí vzali brzo po jejím příchodu. Byla tu už tolik let, že patřila k inventáři. Křičela na konci chodby; chtěla, abychom o ní věděli.
 
 Když měla záchvat, mohla jsem ji do sytosti pozorovat, ruce zmrz­lé v pohybu, hruď bez dechu, obličej připravený k setí; vypadala jako žena trápená zlým snem, prsty jí strnuly v gestu, jímž svírala vyšívací obruč a hladila děti po hlavě; ústa sešpulená k ochutnání omáčky, vína nebo dortu, nohy ztuhlé a vlasy jako síť.
+
+</section>
+
+<section>
 
 Při jednom z jejích záchvatů jsem se k ní přiblížila a odhrnula deku. Měla bílé nohy a hladká stehna, sladké a unavené maso. Dotkla jsem se lemu její noční košile, pukla mi v rukou, jako by k ní nepatřila. Odhrnula jsem ji a prohlédla si její pohlaví.
 
@@ -58,3 +80,5 @@ Spolkla její noční košili, zavětřila.
 Neřekla jsem nic.
 
 Dole byla čistá jako porcelán.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Alma  
 Anna
@@ -18,9 +20,17 @@ Prošly jsme městem a stanuly na místě, kde je řeka čistá. Alma si zula b
 
 Překvapilo mě, jak radostně si počíná, ačkoliv bylo jisté, že do rána bude všechno pryč. Už teď zanášela jámy, ze kterých vybírala hlínu, voda.
 
+</section>
+
+<section>
+
 Divíš se, že má kosti? zeptala se mě Almina babička. Zahlédla jsem ji v jednom z Alminých střevíců, zády se opírala o jeho nárt a švihala vyschlými lýtky.
 
 Ano, řekla jsem. Když jsem ji opouštěla, byla měkká tak, že se v jejím těle neudržely ani sny.
+
+</section>
+
+<section>
 
 Když Alma dokončila poslední mohylu, vrátila se ke mně. Na břehu si utrhla kus trávy a očistila si nohy. Všimla jsem si, že patu má stále poraněnou.
 
@@ -30,7 +40,15 @@ Zamířila k botám a její babička se připravila ke skoku. Pak se uvelebila
 
 Přítmí.
 
+</section>
+
+<section>
+
 Před chvílí ještě na hřbitově, kde leží Almin milenec. Lehce se dotkla kamenné desky, ale vášeň, s jakou vstupovala do řeky, v očích neměla. Aniela ji pozorovala zpovzdálí.
+
+</section>
+
+<section>
 
 Aniela: Nic ti nechybí.
 
@@ -74,6 +92,10 @@ Aniela se tiskne k Alminým rtům. Ten večer se nebojí ničeho. Alma přede s
 
 Teprve když začala zvedat v řece hliněné kopce, stala se dítětem.
 
+</section>
+
+<section>
+
 Ze školačky se Alma proměňuje v ženu, vstupuje do obchodu s obuví a vybírá si střevíce. Opatrně se zouvá, odmotává z levé paty kapesníček a ukazuje prodavači ránu. Prodavač se tváří uctivě a spěchá do zadní části obchodu, odkud přináší krabici s botami z jemné kůže. Jsou bílé, a když do nich Alma vklouzne, není poznat, kde končí ona a začínají střevíce. Když doma usedá k prostřenému stolu, tvář jí září. Aniela si prohlíží Alminy spolustolovníky. Jsou tu všichni, kdo k ní přicházeli ve snu. Chystají se povečeřet. Omáčku z čerstvých žloutků potahuje škraloup.
 
 Z jejich bolesti nezbylo nic. Jsou celí, nemají na sobě ani oděrku. Společně se zpěvem vycházejí z Almina hrdla, stejně jako vůně pečeně, třpyt skla a vosk, který se rozpouští pod několika svícny.
@@ -101,3 +123,5 @@ Namydlila mi krk a ramena. Co ses naučila?
 Poslouchej, řekla jsem a začala zpívat to, co mě naučila Alma. Anna se mi přestala věnovat a posadila se na okraj vany. Děti v jejím břiše se postavily do pozoru.
 
 Kolem nás byla voda.
+
+</section>

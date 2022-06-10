@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -18,6 +20,10 @@ Vybrala zevnitř.
 
 Rozdrtila jsem ho a vysála.
 
+</section>
+
+<section>
+
 Vylezla jsem na střechu. Cestou jsem poklepávala na stěny a uvažovala o jejich síle. Viděla jsem, že dům má dobrou kostru, zdi napjaté a krovy sevřené. Za komínem jsem znovu usnula a probudil mě déšť, vstala jsem a přemýšlela, jednou nohou nakročená k městu a druhou zabořena v hřebeni. Okapem se hnala voda.
 
 * * *
@@ -30,7 +36,15 @@ Co chceš dělat s mými šaty? zeptala se matka, která mě přistihla uprost�
 
 Neměj strach, řekla jsem jí.
 
+</section>
+
+<section>
+
 Večer jsem je prolila lihem a zapálila.
+
+</section>
+
+<section>
 
 Matku popudí, když jí slavnostní šaty stráví plameny. Vyčte mi to a snaží se táborák uhasit. Potom si všimne, že se usmívám do dlaně, a posadí se vedle mě.
 
@@ -52,11 +66,23 @@ Nastražila jsem Léviovým past. Vraceli se a netušili, že přicházejí o 
 
 Smála jsem se, když usedali na rozviklané židle a hledali rovnováhu. Žárovka v kuchyni visela na posledním vlákně a podél stěny se táhla špatně zakrytá brázda, kterou posléze vytrhám elektrické vedení.
 
+</section>
+
+<section>
+
 Neměla jsem s nimi slitování.
+
+</section>
+
+<section>
 
 Tašku po tašce jsem odnosila střechu; když jsem měla hotovo, zhroutil se komín a některé z cihel mě zasáhly do zad.
 
 Později přišla bouřka a strhala v domě patra. Přečkala jsem ji na zahradě a druhý den jsem se brodila po kolena ve vodě a nehty odstraňovala poslední zbytky omítky.
+
+</section>
+
+<section>
 
 Pak jsem se posadila a odpočívala. Všimla jsem si, že mezi dveřmi přešlapuje matka. Nafukovala tváře a krčila čelo; když ke mně udělala krok, zavrtěla jsem hlavou. Dívala jsem se na ni tak dlouho, dokud nezmizela.
 
@@ -70,7 +96,15 @@ Ach ano, vzala jsem si škrabošku, bílé punčochy a stuhu do vlasů.
 
 Vyprávěli si o bolesti, když jsem se zakousla do drátu elektrického vedení. Obešla jsem kuchyni a žárovka zhasla. Zmatek a chroupání karamelu, pod některými z nich začaly praskat židle. Útěk. Pokračuji v ničení. Tlesknu a stěny se složí, obrazy jsou napadrť. Kamna, hromádka střepů.
 
+</section>
+
+<section>
+
 Léviové opouštějí dům.
+
+</section>
+
+<section>
 
 Matka nakonec.
 
@@ -108,6 +142,10 @@ Prohlížím si zlámané veřeje, prstem okusím zbytky omítky.
 
 Není tu patro, hlavu mohu zvednout jen k blankytu.
 
+</section>
+
+<section>
+
 Postrádám sykot léviovského jazyka, zmizela pestrost, se kterou se mísily stíny.
 
 Procházím ztichlým polem. Jdu pomalu a občas se zastavím v místech, kde jsem při trhání podlahy krvácela.
@@ -124,7 +162,15 @@ Dům je tichý a prázdný, připravený znít.
 
 Kuchyně zlomená v údivu. Zpustošená podlaha, rez. Díry po skobách zahlazené.
 
+</section>
+
+<section>
+
 Tady to začíná.
+
+</section>
+
+<section>
 
 Ve středu kuchyně úzký otvor, puklina.
 
@@ -132,7 +178,15 @@ Položím se na břicho.
 
 Mezi kameny a maltou tmavá škvíra, výstřik hlíny. Přitisknu k ní tvář a začichám. Nehtem zavadím o tenký klíček.
 
+</section>
+
+<section>
+
 Stéblo trávy.
+
+</section>
+
+<section>
 
 Ze zvuku, se kterým prorazilo podlahu, se rodí nový jazyk.
 
@@ -145,3 +199,5 @@ Až se vzbudí, bude se překvapeně rozhlížet. Zatímco spala, kuchyně se zm
 Zabloudí mezi stromy a radostně se dotkne kmene. Pak začne hledat své šaty. Zamyšleně se oblékne a několikrát zadrhne o šev, stále ještě vlk i člověk. Oblečená si znovu prohlédne stromy i trávu.
 
 Nakonec se vydá za Anielou.
+
+</section>

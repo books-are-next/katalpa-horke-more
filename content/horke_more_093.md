@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Marie
 
@@ -20,6 +22,10 @@ Cvak!
 Vstanu a postavím se k oknu. Mohla bych zamknout a odejít, o patro níž Jakuba chystá oběd, posadila bych se ke stolu a pozorovala, jak obratně si počíná s masem. Připravuje ho pro mě, sama přestala jíst maso před týdnem. Proč? Pokrčila rameny. Tak.
 
 Nesnesu ji a měla jsem to říct Anně včas. Nemám s ní trpělivost, všechno jí trvá roky. V poslední době si navykla zavrtat se mi do podpaží a zhluboka vdechovat mou vůni, můžu ji odtahovat, jak chci, vždycky si najde cestu, jak se mi dostat k tělu. Kožomilka.
+
+</section>
+
+<section>
 
 Co asi dělá Marie?
 
@@ -60,3 +66,5 @@ Má osrstěnou tvář.
 Proměnila se, řekne Anielina sestra.
 
 Obdivují Mariinu krásu, Aniela trochu nejistě a její sestra s potěšením; v duchu přeměřuje Mariinu lebku a váží zuby.
+
+</section>

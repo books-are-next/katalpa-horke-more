@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA
 
 > kdysi  
@@ -26,6 +28,10 @@ Pozorují se mlčky. Potom Aniela odhodlaně sklouzne ze židle a vezme za klik
 
 Počkej, zastaví ji. Až do večera mu pak pere špinavé spodky a pokrývky a on je, ještě vlhké, cpe do lepenkového kufru.
 
+</section>
+
+<section>
+
 Žer hlínu, křičí na ni, když odmítá prát další várku zatuchlé špíny a sbíhá ze schodů. Žer hlínu! slyší v ohybu schodiště a v tmavém průjezdu, a protože je to jediná rada, kterou od něj dostala, opravdu to vyzkouší. Na nábřeží nabere hrst hlíny a ochutná ji. Nakonec zahrne důlek, ze kterého vyškrábala vlhkou pochoutku, nohou a zbaví se zbytku hlíny, která jí lepí prsty.
 
 Když se vrací domů (a vyhýbá se mostům), cítí v sobě náznak klenutí. Před domem potkává Josefa Holmana, který si odnáší poslední z otcových knih.
@@ -33,3 +39,5 @@ Když se vrací domů (a vyhýbá se mostům), cítí v sobě náznak klenutí.
 * * *
 
 Ten rabín přežil válku. Když jsem ho znovu potkala, vyprávěl mi, že mokré oblečení na něm ztuhlo jako štít, kůže Hospodinova mu říkal, a žádný šíp ji neprostřelil, nedotklo se ho nic, z čeho měl strach, neutrpěl žádnou ránu.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -52,4 +54,10 @@ Kuchyně je opuštěná. Padá sem dost světla z ulice, takže nemusím svíti
 
 Chtěla bych říct, že tomu nerozumím, ale vlastně je mi to od začátku jasné, rozhodla jsem se začít s prázdnotou, s místem, na kterém matka nežije, s opuštěným prostorem; ačkoliv jsem věděla, že tu matku nenajdu, že mi nebudou dopřány ani její stopy, závan vůně, dechu, nic, začala jsem od koruny, kterou opouští duše stromu nejdřív.
 
+</section>
+
+<section>
+
 Nemám sílu dál procházet pustým domem. Neochotně se uložím ke spánku, matčino povlečení je tuhé a voní čistotou. Se zavřenýma očima přemýšlím nad tím, kde trávila své noci.
+
+</section>

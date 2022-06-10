@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Magdaléna
 
@@ -23,6 +25,10 @@ Vyplňovala prostor. Sama byla vyplněna. Nezbylo v ní už žádné místo, sk
 
 O poslední kousek jejího srdce, menší než špendlíková hlavička, se strhl boj.
 
+</section>
+
+<section>
+
 Venku se mezitím rozednilo.
 
 Magdalénin otec, zahryznutý do vlastní ruky, se vklínil do pohovky.
@@ -33,7 +39,15 @@ Když Magdaléně vyklouzla zpod plachty ruka, zachvěl se; jakmile křísla neh
 
 Po chvíli ho do sebe prudkým nádechem vtáhla růžovožlutá socha; přilepil se jí na zuby a nehýbal se, dokud nepominulo nebezpečí jazyka. Potom se spustil do stříkajících vlhkých temnot, nechal se rozmělnit žaludkem a jícnem se vydrápal zpátky nahoru, do plic, a z plic rovnou do srdce, které už trochu znal. Záhy zjistil, že je jiné než to předchozí, vyhublé a skleslé. Přesto se rozhodl v něm usadit, vytáhnout drápky a zahnízdit se, ostrým cípkem se zachytit mezi komorami.
 
+</section>
+
+<section>
+
 Aniela ucítila bodnutí, když se to stalo. Neviděla však souvislost mezi Magdaléniným prstem vlekoucím se po chodníku a palčivou bolestí pod svým levým prsem.
+
+</section>
+
+<section>
 
 Okamžik poté, co se namodralý plynek usadil za Anielinou hrudní kostí, Aniela usnula.
 
@@ -58,3 +72,5 @@ Pak polkne a vydá se na roh ulice, odkud se rozběhne a vrhne kupředu, ke st
 Vrátila jsem se domů. Šla jsem po špičkách a neohlížela jsem se. Věděla jsem, že tam stojí.
 
 Šla jsem schýlená, oči vybledlé hrůzou, zlomená, bez oděvu, šla jsem sama.
+
+</section>

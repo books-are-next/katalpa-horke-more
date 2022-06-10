@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Matka  
 Dům
@@ -17,17 +19,33 @@ Snídaně, kterou už matka nestihla sníst.
 
 Ve skříni její šaty. Krabice s pomačkanými šátky a rukavicemi. V ložnici důlek, matrace nasáklá teplem těla. Koš plný přátelského tlení. Lampy napěchované světlem a kouty zvyklé poskytovat stín. Růžová, zlatá, modrá. V chodbě kolo s výplety umazanými od bláta.
 
+</section>
+
+<section>
+
 Posadím se.
+
+</section>
+
+<section>
 
 Celou dobu žila matka v babiččině kuchyni.
 
 Šla ve svých stopách pozpátku. Vrátila se do doby, kdy byla dívkou. Nenechala se připravit o nic, na čem jí záleželo.
+
+</section>
+
+<section>
 
 Procházím jednu skříň za druhou. Kde vzala oblečení, kterým přetékají?
 
 Prohlížím proti světlu šaty, dávno vyšlé z módy. Široké kalhoty, blůzy s námořnickým límcem a sukně do společnosti, s pasem tak úzkým, že se pustím do dalšího hledání a za chvíli opravdu nacházím korzet a podvazkový pás.
 
 Vyrabovala bleší trhy, muzea?
+
+</section>
+
+<section>
 
 Pokaždé, když jsem ji přišla navštívit, nalezla jsem ji v ložnici, rozmrzelou a ospalou.
 
@@ -67,11 +85,27 @@ Mám být dcerou ženy, která má pas útlejší než já?
 
 Kdykoliv jsem za ní přišla, byla nahoře. Nikdy mě nenapadlo použít klíčovou dírku.
 
+</section>
+
+<section>
+
 Co je dole?
+
+</section>
+
+<section>
 
 Každý pohyb byl můj – otevřela jsem hlavní dveře, rozhlédla se a vstoupila na schodiště; nemohla jsem opakovat nic z toho, co dělala kdysi ona, nemohla jsem opakovat nic z toho, co dělala kdysi ona.
 
+</section>
+
+<section>
+
 Co je dole?
+
+</section>
+
+<section>
 
 Místnost, kterou jsme vybílily. Prázdno po těch, kdo přijímali od kohokoliv.
 
@@ -86,3 +120,5 @@ V babiččině kuchyni se matka opět stala pannou, ještě jsem nebyla vsazena
 Klíčová dírka, kterou vstoupí do nového života, je pro ni vzácnější než já.
 
 Chci opustit léviovský dům. Zahrada, ponořená do tmy, vypadá neprostupně. Rozhodnu se přečkat tu poslední noc. Vlezu si do vany a celá se umyju, ruce, nohy, podpaží, vlasy. Najdu čistý ručník. Vypláchnu si ústa. Pak se stočím do postele, vyberu si chladnou a nedotčenou polovinu, zavřu oči, břicho vystavím stropu a snažím se nemyslet na matčin důlek vedle sebe.
+
+</section>

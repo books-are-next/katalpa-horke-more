@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Anna
 
@@ -13,7 +15,15 @@ Aniela se opírá o umyvadlo, neodvažuje se zvednout oči k zrcadlu.
 
 Myslí na tábor, kterým prošla s Mirjamkou v ruce.
 
+</section>
+
+<section>
+
 Uvažuje o Magdaléniných rtech a o jejím vztyčeném prstu, nehnutém a pronikavém.
+
+</section>
+
+<section>
 
 Nezůstalo nic než Magdalénin prst.
 
@@ -33,6 +43,10 @@ Mami, řekne Anna a skloní se k ní.
 
 Aniela pláče.
 
+</section>
+
+<section>
+
 Později sedí vedle sebe a upíjejí horký čaj. Anna je prostovlasá, klobouk položila na okno.
 
 Tentokrát je to vážné, usoudí, když se Aniela neklidně pohne.
@@ -51,6 +65,10 @@ Když studovala na vysoké škole, řekla jí Aniela všechno, obnažila se pře
 
 Anna vedle ní zpracovávala tu novinu, totiž že její matka miluje ženy, a Aniela se ani nestihla začít bát, že přijde o dceru, užívala si nově nabytou svobodu, a nakonec uchopila Annu za ruku a zahleděla se jí do obličeje.
 
+</section>
+
+<section>
+
 Teď se tisknou k sobě jako obvykle, Anna žvýká cukr a v myšlenkách je u svého muže.
 
 Aniela je ponořená do sebe, Annina blízkost ji těší a uklidňuje.
@@ -60,3 +78,5 @@ Mluví o Marii.
 Vypráví Anně o zrcátku, které si přichystala na stůl, aby mohla Marii nenápadně pozorovat, pohřbít jí obličej pod nánosem amalgámu a kochat se jím.
 
 Nedokáže mluvit o ničem jiném. Vypouští na Annu takový příval, až se její čelisti drtící cukr na chvilku zastaví a pak začnou pracovat dvojnásobnou rychlostí; Anna má strach, že kdyby se zaposlouchala do jejích slov, Aniela by z ní sedřela kůži.
+
+</section>

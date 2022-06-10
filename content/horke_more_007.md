@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 MARIE  
 Dům
 
@@ -17,6 +19,10 @@ Jako bych byla složena ze dvou částí, tak, jako je ze dvou částí složeno
 Oběma jmény jsem spojena se starým životem, ve kterém jím dobré maso a tloustnu.
 
 Zároveň však vcházím do nového života, stále ještě Marie, dosud Léviová, nepostřehnutelně jiná, ne snad krásnější nebo divoká, ale z podstaty jiná, rozkošná a otevřená.
+
+</section>
+
+<section>
 
 Snad je to proto, že jsem kdysi ucítila barches.
 
@@ -46,6 +52,10 @@ Od každého z nich mám něco.
 
 Ale nejsem to já.
 
+</section>
+
+<section>
+
 Nejsem v Davidovi ani v Jakubě.
 
 Nejsem v Aniele ani v její pohovce.
@@ -55,6 +65,10 @@ Nejbližší je mi léviovský dům, dům, ve kterém jsem vyrůstala.
 Vešla jsem do něj jako dítě a opustila ho dospělá.
 
 Trvalo dlouho, než jsem se odvážila do něj vrátit.
+
+</section>
+
+<section>
 
 Jeho strukturu jsem objevila náhodou, snad ve snu.
 
@@ -66,10 +80,28 @@ Od ohně je oddělen jen tenkou slupkou, zemskými deskami, zavěšenými nad pl
 
 Čím víc se blíží povrchu, tím chladnější jsou stěny; teprve pod střechou začíná dům znovu plát.
 
+</section>
+
+<section>
+
 Zdá se mi, že byl vyzdvižen z prsních kůstek země. Schodiště, které se rozpíná mezi studnou a komínem, odolává nářkům. Lze ho rozpůlit myšlenkou, ale zemětřesení se mu vyhne.
+
+</section>
+
+<section>
 
 Ukrývá ostýchavý klín, červený korálek z průsvitného skla.
 
+</section>
+
+<section>
+
 Nestojí rovně, plave. Někdy se zdá, že tančí. Lůno mu visí na hedvábném vlákně. Střásá omítku a ignoruje štuky. Směřuje k čertově kuchyni, kde olizuje svůj základní kámen; stojí v místech, která se brání vodováze.
 
+</section>
+
+<section>
+
 V nejzazším koutku korýtko pro krev; kde tma je hebká, pupeční šňůra.
+
+</section>

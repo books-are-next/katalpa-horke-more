@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Josef Holman
 
@@ -13,9 +15,21 @@ Byla přesvědčena, že v ní nevyrostl nikdo z nich. Nedovolila by to.
 
 Byli dávno mrtví, a kromě toho neznali vymoženosti nové doby; bezešvé punčocháče, tekutý pudr a překapávač na kávu.
 
+</section>
+
+<section>
+
 S výjimkou Anieliny sestry Marie se nevracel nikdo. Marie se obje­vovala jen občas a nikdy nebyla spokojená s tím, co Aniela dělá. Když si kupovala podprsenku, věšela se jí na bradavky. Když Aniela chystala jídlo, vyskakovala z vůně usmažené cibule. Nelíbilo se jí, co Aniela čte, buď četla příliš málo, nebo nepatřičné knihy.
 
+</section>
+
+<section>
+
 O jejich smrti jí řekl on.
+
+</section>
+
+<section>
 
 Když byla v táboře, doufala, že je potká. Nakonec pochopila, že ji opustili.
 
@@ -27,15 +41,31 @@ Nevydržím to, řekl můj muž, když jsme se domilovali. Pověz mi, co se s n
 
 Nevím o nich víc než ty, odpověděla jsem.
 
+</section>
+
+<section>
+
 Oči zahleděné do tmy, ještě jsme nepočali ani toho, který byl před Annou.
 
 * * *
 
+</section>
+
+<section>
+
 Josef Holman nemohl Aniele odpustit, že po nich nepátrala. Sám byl netrpělivý; po skončení války se vracelo tolik lidí! Potkával je každý den na ulicích, valili se proti němu jako černá lavina. Sbíral odvahu a vyčkával. Chodíval na obhlídky domu, kde žila Albertova rodina. Bylo jich přece tolik, alespoň jeden z nich se musel vrátit.
+
+</section>
+
+<section>
 
 Když se setkal s Anielou, vyděsil se. Nerozuměl jejímu tělu. Fialové jako kosatec, ale s pevnými klouby.
 
 Vychovávám přítelovu dceru, říkal ženám, které opouštěl.
+
+</section>
+
+<section>
 
 Nikdy mu nepřirostla k srdci, a proto ho překvapilo, že mu vlezla do postele. V duchu počítal, kolik je jí let.
 
@@ -43,7 +73,15 @@ Vzal si ji, když jí bylo dvacet. Stále si nemohl zapamatovat její tvář; vo
 
 Nevzpomínal si na žádného z Anieliných sourozenců, přesto měl pocit, že si na krk uvázal celou rodinu.
 
+</section>
+
+<section>
+
 Jsou mrtví, řekl si několikrát. Poprvé to dokonce vyslovil před ní. Čekal, že ona bude pokračovat, ale mlčela.
+
+</section>
+
+<section>
 
 Váš transport měl jméno, víš to?
 
@@ -66,3 +104,5 @@ Ano, i má sestra to má za sebou, odpoví Aniela.
 * * *
 
 Vyptával se mě stále na to samé. Jako bych uměla čarovat a jednoho dne mu mohla na jeho obvyklé, Jsou mrtví, odpovědět, Ale kdepak, je to jen žert.
+
+</section>

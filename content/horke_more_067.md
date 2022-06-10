@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Josef Holman
 
@@ -14,6 +16,10 @@ Na podzim se slunce pohybovalo mimořádně rychle. Aniela stále nevěděla, ja
 Naučila se psát na stroji a přepsala otcovy rukopisy. Na některých poznala písmo své sestry Marie. Když ukázala Josefu Holmanovi úhlednou hraničku papírů, jedno písmeno jako druhé, zaradoval se a přinesl ze své pracovny další složku, dopisy a narychlo naškrábané diagnózy.
 
 Seděla u kuchyňského stolu a cítila, jak jí slunce prochází obličejem.
+
+</section>
+
+<section>
 
 Když se zbavila Alminých příbuzných, zůstala beze snů. V noci do jejích útrob, kromě dechu Josefa Holmana, nevstupovalo nic.
 
@@ -44,3 +50,5 @@ Ještě nebyl doma. Zastavila jsem se v koupelně, abych se naposledy prohlédl
 Chtěla jsem ho zlomit krajkou, udolat perletí.
 
 Uměla jsem toho tolik, stačilo jen se přiblížit.
+
+</section>

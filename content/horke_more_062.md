@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ANIELA  
 Josef Holman
 
@@ -81,6 +83,10 @@ Marie ho nemohla vystát. Po obědě se s ním otec zavřel v pracovně, Marie
 
 Když Holman odešel, Marie se rozběhla za otcem a něco mu tiše vyčítala. Slyšela jsem, jak se otec směje, a když Marie vyšla z jeho pracovny, nesla v rukou tác se špinavými šálky a přeplněný popelník.
 
+</section>
+
+<section>
+
 Josef Holman. Sedí teď proti mně a poslouchá, v rukou drží otevřené pero a papír, ale neudělal ještě ani čárku.
 
 Marie, říká. Vidím, jak úpěnlivě se snaží vzpomenout si. Co z ní vidí? Ruce, které se dotýkaly jeho převlečníku, hledaly v podšívce poutko a dávaly ho na věšák? Rozevřené rty, nedůtklivé oči, tělo nakloněné v očekávání gesta, jímž by ji zvali dál, do místnosti myšle­nek a mužských hlasů?
@@ -90,6 +96,10 @@ Jednou jsem Marii přistihla, řeknu, když si zkoušela otcovy šaty. Kalhoty, 
 Muž proti mně se vrtí, vidí mlhu oblečenou do otcových šatů.
 
 Občas mě před spaním políbila. A rty jí voněly tabákem.
+
+</section>
+
+<section>
 
 Marie otce milovala mnohem víc než já. Připadal jí zajímavý. Četla jeho knihy.
 
@@ -122,3 +132,5 @@ Zeptal se, jestli nepomýšlela na odchod z domu, jako by zapomněl, že celé 
 * * *
 
 Měla i jiné muže. Jména už si Aniela nevybavuje. Jeden z nich ji zval na čaj (potkávala ho každý den při cestě do školy), a když konečně svolila, zavedl ji do restaurace a pak k sobě; z jeho spěchu poznala, že je ženatý; a další muž měl na ruce stejné číslo jako ona a přál si, aby ho Aniela políbila na každou z jizev, které jí ukázal.
+
+</section>
