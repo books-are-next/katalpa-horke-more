@@ -8,14 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-horke-more-fd97005",
-  "revision": "fd97005",
+  "identifier": "katalpa-horke-more-593aef4",
+  "revision": "593aef4",
   "readingOrder": [
     "promo.html",
-    "horke_more_001.html",
-    "horke_more_002.html",
-    "horke_more_003.html",
-    "horke_more_004.html",
     "horke_more_005.html",
     "horke_more_006.html",
     "horke_more_007.html",
@@ -110,11 +106,11 @@
     "horke_more_096.html",
     "horke_more_097.html",
     "horke_more_098.html",
-    "horke_more_099.html"
+    "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 14:25:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655389522049
+    "date": "Thu Jun 16 2022 14:37:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655390228407
   },
   "documents": [
     {
@@ -126,88 +122,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "horke_more_001.html",
-      "toc": []
-    },
-    {
-      "title": "Hořké moře",
-      "file": "horke_more_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "horke_more_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hořké moře",
-      "file": "horke_more_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "horke_more_001.html",
-      "next": "horke_more_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hořké moře",
-      "file": "horke_more_003.html",
-      "words": 4,
-      "chars": 24,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 3,
-      "prev": "horke_more_002.html",
-      "next": "horke_more_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hořké moře",
-      "file": "horke_more_004.html",
-      "words": 92,
-      "chars": 598,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "horke_more_003.html",
       "next": "horke_more_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Hořké moře",
@@ -216,8 +132,8 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
-      "prev": "horke_more_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "horke_more_006.html",
       "toc": [
         {
@@ -236,7 +152,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "horke_more_005.html",
       "next": "horke_more_007.html",
       "toc": [
@@ -256,7 +172,7 @@
       "chars": 2966,
       "ideas": 34,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "horke_more_006.html",
       "next": "horke_more_008.html",
       "toc": [
@@ -276,7 +192,7 @@
       "chars": 4184,
       "ideas": 36,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "horke_more_007.html",
       "next": "horke_more_009.html",
       "toc": [
@@ -296,7 +212,7 @@
       "chars": 2487,
       "ideas": 13,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "horke_more_008.html",
       "next": "horke_more_010.html",
       "toc": [
@@ -316,7 +232,7 @@
       "chars": 1720,
       "ideas": 11,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "horke_more_009.html",
       "next": "horke_more_011.html",
       "toc": [
@@ -336,7 +252,7 @@
       "chars": 1775,
       "ideas": 20,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "horke_more_010.html",
       "next": "horke_more_012.html",
       "toc": [
@@ -356,7 +272,7 @@
       "chars": 1070,
       "ideas": 27,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "horke_more_011.html",
       "next": "horke_more_013.html",
       "toc": [
@@ -376,7 +292,7 @@
       "chars": 2377,
       "ideas": 12,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "horke_more_012.html",
       "next": "horke_more_014.html",
       "toc": [
@@ -396,7 +312,7 @@
       "chars": 813,
       "ideas": 7,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "horke_more_013.html",
       "next": "horke_more_015.html",
       "toc": [
@@ -416,7 +332,7 @@
       "chars": 3588,
       "ideas": 37,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "horke_more_014.html",
       "next": "horke_more_016.html",
       "toc": [
@@ -436,7 +352,7 @@
       "chars": 1050,
       "ideas": 4,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "horke_more_015.html",
       "next": "horke_more_017.html",
       "toc": [
@@ -456,7 +372,7 @@
       "chars": 561,
       "ideas": 7,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "horke_more_016.html",
       "next": "horke_more_018.html",
       "toc": [
@@ -476,7 +392,7 @@
       "chars": 1800,
       "ideas": 24,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "horke_more_017.html",
       "next": "horke_more_019.html",
       "toc": [
@@ -496,7 +412,7 @@
       "chars": 3421,
       "ideas": 36,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "horke_more_018.html",
       "next": "horke_more_020.html",
       "toc": [
@@ -516,7 +432,7 @@
       "chars": 484,
       "ideas": 7,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "horke_more_019.html",
       "next": "horke_more_021.html",
       "toc": [
@@ -536,7 +452,7 @@
       "chars": 3511,
       "ideas": 21,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "horke_more_020.html",
       "next": "horke_more_022.html",
       "toc": [
@@ -556,7 +472,7 @@
       "chars": 3952,
       "ideas": 22,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "horke_more_021.html",
       "next": "horke_more_023.html",
       "toc": [
@@ -576,7 +492,7 @@
       "chars": 4010,
       "ideas": 37,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "horke_more_022.html",
       "next": "horke_more_024.html",
       "toc": [
@@ -596,7 +512,7 @@
       "chars": 4075,
       "ideas": 37,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "horke_more_023.html",
       "next": "horke_more_025.html",
       "toc": [
@@ -616,7 +532,7 @@
       "chars": 2120,
       "ideas": 14,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "horke_more_024.html",
       "next": "horke_more_026.html",
       "toc": [
@@ -636,7 +552,7 @@
       "chars": 3170,
       "ideas": 29,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "horke_more_025.html",
       "next": "horke_more_027.html",
       "toc": [
@@ -656,7 +572,7 @@
       "chars": 1602,
       "ideas": 17,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "horke_more_026.html",
       "next": "horke_more_028.html",
       "toc": [
@@ -676,7 +592,7 @@
       "chars": 12185,
       "ideas": 145,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "horke_more_027.html",
       "next": "horke_more_029.html",
       "toc": [
@@ -696,7 +612,7 @@
       "chars": 98,
       "ideas": 4,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "horke_more_028.html",
       "next": "horke_more_030.html",
       "toc": [
@@ -716,7 +632,7 @@
       "chars": 3055,
       "ideas": 27,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "horke_more_029.html",
       "next": "horke_more_031.html",
       "toc": [
@@ -736,7 +652,7 @@
       "chars": 77,
       "ideas": 4,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "horke_more_030.html",
       "next": "horke_more_032.html",
       "toc": [
@@ -756,7 +672,7 @@
       "chars": 79,
       "ideas": 4,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "horke_more_031.html",
       "next": "horke_more_033.html",
       "toc": [
@@ -776,7 +692,7 @@
       "chars": 2037,
       "ideas": 21,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "horke_more_032.html",
       "next": "horke_more_034.html",
       "toc": [
@@ -796,7 +712,7 @@
       "chars": 240,
       "ideas": 5,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "horke_more_033.html",
       "next": "horke_more_035.html",
       "toc": [
@@ -816,7 +732,7 @@
       "chars": 6388,
       "ideas": 42,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "horke_more_034.html",
       "next": "horke_more_036.html",
       "toc": [
@@ -836,7 +752,7 @@
       "chars": 2664,
       "ideas": 9,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "horke_more_035.html",
       "next": "horke_more_037.html",
       "toc": [
@@ -856,7 +772,7 @@
       "chars": 186,
       "ideas": 8,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "horke_more_036.html",
       "next": "horke_more_038.html",
       "toc": [
@@ -876,7 +792,7 @@
       "chars": 2720,
       "ideas": 33,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "horke_more_037.html",
       "next": "horke_more_039.html",
       "toc": [
@@ -896,7 +812,7 @@
       "chars": 636,
       "ideas": 10,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "horke_more_038.html",
       "next": "horke_more_040.html",
       "toc": [
@@ -916,7 +832,7 @@
       "chars": 1020,
       "ideas": 16,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "horke_more_039.html",
       "next": "horke_more_041.html",
       "toc": [
@@ -936,7 +852,7 @@
       "chars": 763,
       "ideas": 5,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "horke_more_040.html",
       "next": "horke_more_042.html",
       "toc": [
@@ -956,7 +872,7 @@
       "chars": 4833,
       "ideas": 65,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "horke_more_041.html",
       "next": "horke_more_043.html",
       "toc": [
@@ -976,7 +892,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "horke_more_042.html",
       "next": "horke_more_044.html",
       "toc": [
@@ -996,7 +912,7 @@
       "chars": 3272,
       "ideas": 27,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "horke_more_043.html",
       "next": "horke_more_045.html",
       "toc": [
@@ -1016,7 +932,7 @@
       "chars": 854,
       "ideas": 12,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "horke_more_044.html",
       "next": "horke_more_046.html",
       "toc": [
@@ -1036,7 +952,7 @@
       "chars": 640,
       "ideas": 8,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "horke_more_045.html",
       "next": "horke_more_047.html",
       "toc": [
@@ -1056,7 +972,7 @@
       "chars": 349,
       "ideas": 10,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "horke_more_046.html",
       "next": "horke_more_048.html",
       "toc": [
@@ -1076,7 +992,7 @@
       "chars": 1055,
       "ideas": 10,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "horke_more_047.html",
       "next": "horke_more_049.html",
       "toc": [
@@ -1096,7 +1012,7 @@
       "chars": 823,
       "ideas": 12,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "horke_more_048.html",
       "next": "horke_more_050.html",
       "toc": [
@@ -1116,7 +1032,7 @@
       "chars": 3202,
       "ideas": 27,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "horke_more_049.html",
       "next": "horke_more_051.html",
       "toc": [
@@ -1136,7 +1052,7 @@
       "chars": 739,
       "ideas": 12,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "horke_more_050.html",
       "next": "horke_more_052.html",
       "toc": [
@@ -1156,7 +1072,7 @@
       "chars": 868,
       "ideas": 9,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "horke_more_051.html",
       "next": "horke_more_053.html",
       "toc": [
@@ -1176,7 +1092,7 @@
       "chars": 3764,
       "ideas": 18,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "horke_more_052.html",
       "next": "horke_more_054.html",
       "toc": [
@@ -1196,7 +1112,7 @@
       "chars": 5522,
       "ideas": 22,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "horke_more_053.html",
       "next": "horke_more_055.html",
       "toc": [
@@ -1216,7 +1132,7 @@
       "chars": 2965,
       "ideas": 23,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "horke_more_054.html",
       "next": "horke_more_056.html",
       "toc": [
@@ -1236,7 +1152,7 @@
       "chars": 23434,
       "ideas": 108,
       "role": "chapter",
-      "order": 56,
+      "order": 52,
       "prev": "horke_more_055.html",
       "next": "horke_more_057.html",
       "toc": [
@@ -1256,7 +1172,7 @@
       "chars": 1956,
       "ideas": 15,
       "role": "chapter",
-      "order": 57,
+      "order": 53,
       "prev": "horke_more_056.html",
       "next": "horke_more_058.html",
       "toc": [
@@ -1276,7 +1192,7 @@
       "chars": 2348,
       "ideas": 14,
       "role": "chapter",
-      "order": 58,
+      "order": 54,
       "prev": "horke_more_057.html",
       "next": "horke_more_059.html",
       "toc": [
@@ -1296,7 +1212,7 @@
       "chars": 1445,
       "ideas": 12,
       "role": "chapter",
-      "order": 59,
+      "order": 55,
       "prev": "horke_more_058.html",
       "next": "horke_more_060.html",
       "toc": [
@@ -1316,7 +1232,7 @@
       "chars": 13349,
       "ideas": 128,
       "role": "chapter",
-      "order": 60,
+      "order": 56,
       "prev": "horke_more_059.html",
       "next": "horke_more_061.html",
       "toc": [
@@ -1336,7 +1252,7 @@
       "chars": 1443,
       "ideas": 15,
       "role": "chapter",
-      "order": 61,
+      "order": 57,
       "prev": "horke_more_060.html",
       "next": "horke_more_062.html",
       "toc": [
@@ -1356,7 +1272,7 @@
       "chars": 6295,
       "ideas": 55,
       "role": "chapter",
-      "order": 62,
+      "order": 58,
       "prev": "horke_more_061.html",
       "next": "horke_more_063.html",
       "toc": [
@@ -1376,7 +1292,7 @@
       "chars": 3993,
       "ideas": 26,
       "role": "chapter",
-      "order": 63,
+      "order": 59,
       "prev": "horke_more_062.html",
       "next": "horke_more_064.html",
       "toc": [
@@ -1396,7 +1312,7 @@
       "chars": 590,
       "ideas": 9,
       "role": "chapter",
-      "order": 64,
+      "order": 60,
       "prev": "horke_more_063.html",
       "next": "horke_more_065.html",
       "toc": [
@@ -1416,7 +1332,7 @@
       "chars": 2825,
       "ideas": 35,
       "role": "chapter",
-      "order": 65,
+      "order": 61,
       "prev": "horke_more_064.html",
       "next": "horke_more_066.html",
       "toc": [
@@ -1436,7 +1352,7 @@
       "chars": 855,
       "ideas": 12,
       "role": "chapter",
-      "order": 66,
+      "order": 62,
       "prev": "horke_more_065.html",
       "next": "horke_more_067.html",
       "toc": [
@@ -1456,7 +1372,7 @@
       "chars": 1494,
       "ideas": 19,
       "role": "chapter",
-      "order": 67,
+      "order": 63,
       "prev": "horke_more_066.html",
       "next": "horke_more_068.html",
       "toc": [
@@ -1476,7 +1392,7 @@
       "chars": 1582,
       "ideas": 19,
       "role": "chapter",
-      "order": 68,
+      "order": 64,
       "prev": "horke_more_067.html",
       "next": "horke_more_069.html",
       "toc": [
@@ -1496,7 +1412,7 @@
       "chars": 1888,
       "ideas": 17,
       "role": "chapter",
-      "order": 69,
+      "order": 65,
       "prev": "horke_more_068.html",
       "next": "horke_more_070.html",
       "toc": [
@@ -1516,7 +1432,7 @@
       "chars": 1062,
       "ideas": 14,
       "role": "chapter",
-      "order": 70,
+      "order": 66,
       "prev": "horke_more_069.html",
       "next": "horke_more_071.html",
       "toc": [
@@ -1536,7 +1452,7 @@
       "chars": 10225,
       "ideas": 115,
       "role": "chapter",
-      "order": 71,
+      "order": 67,
       "prev": "horke_more_070.html",
       "next": "horke_more_072.html",
       "toc": [
@@ -1556,7 +1472,7 @@
       "chars": 895,
       "ideas": 13,
       "role": "chapter",
-      "order": 72,
+      "order": 68,
       "prev": "horke_more_071.html",
       "next": "horke_more_073.html",
       "toc": [
@@ -1576,7 +1492,7 @@
       "chars": 504,
       "ideas": 10,
       "role": "chapter",
-      "order": 73,
+      "order": 69,
       "prev": "horke_more_072.html",
       "next": "horke_more_074.html",
       "toc": [
@@ -1596,7 +1512,7 @@
       "chars": 2361,
       "ideas": 28,
       "role": "chapter",
-      "order": 74,
+      "order": 70,
       "prev": "horke_more_073.html",
       "next": "horke_more_075.html",
       "toc": [
@@ -1616,7 +1532,7 @@
       "chars": 3929,
       "ideas": 40,
       "role": "chapter",
-      "order": 75,
+      "order": 71,
       "prev": "horke_more_074.html",
       "next": "horke_more_076.html",
       "toc": [
@@ -1636,7 +1552,7 @@
       "chars": 4490,
       "ideas": 27,
       "role": "chapter",
-      "order": 76,
+      "order": 72,
       "prev": "horke_more_075.html",
       "next": "horke_more_077.html",
       "toc": [
@@ -1656,7 +1572,7 @@
       "chars": 1959,
       "ideas": 22,
       "role": "chapter",
-      "order": 77,
+      "order": 73,
       "prev": "horke_more_076.html",
       "next": "horke_more_078.html",
       "toc": [
@@ -1676,7 +1592,7 @@
       "chars": 4775,
       "ideas": 26,
       "role": "chapter",
-      "order": 78,
+      "order": 74,
       "prev": "horke_more_077.html",
       "next": "horke_more_079.html",
       "toc": [
@@ -1696,7 +1612,7 @@
       "chars": 813,
       "ideas": 12,
       "role": "chapter",
-      "order": 79,
+      "order": 75,
       "prev": "horke_more_078.html",
       "next": "horke_more_080.html",
       "toc": [
@@ -1716,7 +1632,7 @@
       "chars": 1989,
       "ideas": 15,
       "role": "chapter",
-      "order": 80,
+      "order": 76,
       "prev": "horke_more_079.html",
       "next": "horke_more_081.html",
       "toc": [
@@ -1736,7 +1652,7 @@
       "chars": 1590,
       "ideas": 15,
       "role": "chapter",
-      "order": 81,
+      "order": 77,
       "prev": "horke_more_080.html",
       "next": "horke_more_082.html",
       "toc": [
@@ -1756,7 +1672,7 @@
       "chars": 593,
       "ideas": 8,
       "role": "chapter",
-      "order": 82,
+      "order": 78,
       "prev": "horke_more_081.html",
       "next": "horke_more_083.html",
       "toc": [
@@ -1776,7 +1692,7 @@
       "chars": 2612,
       "ideas": 12,
       "role": "chapter",
-      "order": 83,
+      "order": 79,
       "prev": "horke_more_082.html",
       "next": "horke_more_084.html",
       "toc": [
@@ -1796,7 +1712,7 @@
       "chars": 5741,
       "ideas": 42,
       "role": "chapter",
-      "order": 84,
+      "order": 80,
       "prev": "horke_more_083.html",
       "next": "horke_more_085.html",
       "toc": [
@@ -1816,7 +1732,7 @@
       "chars": 14714,
       "ideas": 98,
       "role": "chapter",
-      "order": 85,
+      "order": 81,
       "prev": "horke_more_084.html",
       "next": "horke_more_086.html",
       "toc": [
@@ -1836,7 +1752,7 @@
       "chars": 697,
       "ideas": 12,
       "role": "chapter",
-      "order": 86,
+      "order": 82,
       "prev": "horke_more_085.html",
       "next": "horke_more_087.html",
       "toc": [
@@ -1856,7 +1772,7 @@
       "chars": 1155,
       "ideas": 11,
       "role": "chapter",
-      "order": 87,
+      "order": 83,
       "prev": "horke_more_086.html",
       "next": "horke_more_088.html",
       "toc": [
@@ -1876,7 +1792,7 @@
       "chars": 633,
       "ideas": 13,
       "role": "chapter",
-      "order": 88,
+      "order": 84,
       "prev": "horke_more_087.html",
       "next": "horke_more_089.html",
       "toc": [
@@ -1896,7 +1812,7 @@
       "chars": 4063,
       "ideas": 47,
       "role": "chapter",
-      "order": 89,
+      "order": 85,
       "prev": "horke_more_088.html",
       "next": "horke_more_090.html",
       "toc": [
@@ -1916,7 +1832,7 @@
       "chars": 8588,
       "ideas": 33,
       "role": "chapter",
-      "order": 90,
+      "order": 86,
       "prev": "horke_more_089.html",
       "next": "horke_more_091.html",
       "toc": [
@@ -1936,7 +1852,7 @@
       "chars": 2819,
       "ideas": 41,
       "role": "chapter",
-      "order": 91,
+      "order": 87,
       "prev": "horke_more_090.html",
       "next": "horke_more_092.html",
       "toc": [
@@ -1956,7 +1872,7 @@
       "chars": 2458,
       "ideas": 20,
       "role": "chapter",
-      "order": 92,
+      "order": 88,
       "prev": "horke_more_091.html",
       "next": "horke_more_093.html",
       "toc": [
@@ -1976,7 +1892,7 @@
       "chars": 2299,
       "ideas": 26,
       "role": "chapter",
-      "order": 93,
+      "order": 89,
       "prev": "horke_more_092.html",
       "next": "horke_more_094.html",
       "toc": [
@@ -1996,7 +1912,7 @@
       "chars": 5810,
       "ideas": 51,
       "role": "chapter",
-      "order": 94,
+      "order": 90,
       "prev": "horke_more_093.html",
       "next": "horke_more_095.html",
       "toc": [
@@ -2016,7 +1932,7 @@
       "chars": 3630,
       "ideas": 33,
       "role": "chapter",
-      "order": 95,
+      "order": 91,
       "prev": "horke_more_094.html",
       "next": "horke_more_096.html",
       "toc": [
@@ -2036,7 +1952,7 @@
       "chars": 3099,
       "ideas": 52,
       "role": "chapter",
-      "order": 96,
+      "order": 92,
       "prev": "horke_more_095.html",
       "next": "horke_more_097.html",
       "toc": [
@@ -2056,7 +1972,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 97,
+      "order": 93,
       "prev": "horke_more_096.html",
       "next": "horke_more_098.html",
       "toc": [
@@ -2076,9 +1992,9 @@
       "chars": 14052,
       "ideas": 206,
       "role": "chapter",
-      "order": 98,
+      "order": 94,
       "prev": "horke_more_097.html",
-      "next": "horke_more_099.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -2090,20 +2006,20 @@
       ]
     },
     {
-      "title": "Hořké moře",
-      "file": "horke_more_099.html",
-      "words": 43,
-      "chars": 293,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 99,
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 132,
+      "chars": 850,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
       "prev": "horke_more_098.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -2112,14 +2028,14 @@
   ],
   "totals": {
     "all": {
-      "words": 47877,
-      "chars": 283801,
-      "ideas": 2597
+      "words": 47867,
+      "chars": 283731,
+      "ideas": 2589
     },
     "chapters": {
-      "words": 47870,
-      "chars": 283761,
-      "ideas": 2592
+      "words": 47729,
+      "chars": 282846,
+      "ideas": 2570
     }
   }
 }
