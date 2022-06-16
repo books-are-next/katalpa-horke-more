@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Dvojčata
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Dvojčata
 
 > kdysi  
 > /prameny/

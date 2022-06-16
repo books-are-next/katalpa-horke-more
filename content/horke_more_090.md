@@ -1,13 +1,9 @@
 ---
-title: ''
+title: ANIELA Anna Jakuba
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Anna  
-Jakuba
 
 > nyní  
 > /žár/

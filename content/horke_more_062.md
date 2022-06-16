@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Josef Holman
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Josef Holman
 
 > kdysi  
 > /vtékání/

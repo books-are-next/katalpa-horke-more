@@ -1,13 +1,9 @@
 ---
-title: ''
+title: 'ANIELA Marie Pokoj '
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Marie  
-Pokoj
 
 > nyní  
 > /touha/

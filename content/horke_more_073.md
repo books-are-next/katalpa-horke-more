@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Sestra Marie
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Sestra Marie
 
 > kdysi  
 > /žár/

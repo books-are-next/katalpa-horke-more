@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Mína
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Mína
 
 > kdysi  
 > /žár/

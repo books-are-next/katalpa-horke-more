@@ -1,13 +1,9 @@
 ---
-title: ''
+title: ANIELA Mirjam Smrt
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Mirjam  
-Smrt
 
 > nyní  
 > /ticho/

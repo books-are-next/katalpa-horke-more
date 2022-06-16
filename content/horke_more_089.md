@@ -1,13 +1,9 @@
 ---
-title: ''
+title: ANIELA Alma Anna
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Alma  
-Anna
 
 > nyní  
 > /žár/

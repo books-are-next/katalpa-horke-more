@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Marie
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Marie
 
 > nyní  
 > /touha/

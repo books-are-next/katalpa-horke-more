@@ -1,11 +1,9 @@
 ---
-title: ''
+title: ANIELA
 contentType: prose
 ---
 
 <section>
-
-ANIELA
 
 > kdysi  
 > /nepokoj/

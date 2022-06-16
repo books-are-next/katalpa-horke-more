@@ -1,12 +1,9 @@
 ---
-title: ''
+title: MARIE David
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-David
 
 > /souš/
 

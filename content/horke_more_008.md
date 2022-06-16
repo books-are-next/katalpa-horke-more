@@ -1,12 +1,9 @@
 ---
-title: ''
+title: MARIE Jakuba
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-Jakuba
 
 > /přítoky/
 

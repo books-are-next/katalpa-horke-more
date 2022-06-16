@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Anna
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Anna
 
 > nyní  
 > /oddech/

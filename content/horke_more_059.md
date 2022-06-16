@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Pokoj
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Pokoj
 
 > nyní  
 > /strnulost, ticho/

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: MARIE
 contentType: prose
 ---
 
 <section>
-
-MARIE
 
 > /příboj/
 
