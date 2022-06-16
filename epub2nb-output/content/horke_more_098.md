@@ -1,11 +1,9 @@
 ---
-title: ''
+title: JAKUBA
 contentType: prose
 ---
 
 <section>
-
-JAKUBA
 
 > /plynutí/
 

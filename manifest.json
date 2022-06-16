@@ -1,0 +1,2125 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Hořké moře",
+  "author": "Jakuba Katalpa",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "katalpa-horke-more-fd97005",
+  "revision": "fd97005",
+  "readingOrder": [
+    "promo.html",
+    "horke_more_001.html",
+    "horke_more_002.html",
+    "horke_more_003.html",
+    "horke_more_004.html",
+    "horke_more_005.html",
+    "horke_more_006.html",
+    "horke_more_007.html",
+    "horke_more_008.html",
+    "horke_more_009.html",
+    "horke_more_010.html",
+    "horke_more_011.html",
+    "horke_more_012.html",
+    "horke_more_013.html",
+    "horke_more_014.html",
+    "horke_more_015.html",
+    "horke_more_016.html",
+    "horke_more_017.html",
+    "horke_more_018.html",
+    "horke_more_019.html",
+    "horke_more_020.html",
+    "horke_more_021.html",
+    "horke_more_022.html",
+    "horke_more_023.html",
+    "horke_more_024.html",
+    "horke_more_025.html",
+    "horke_more_026.html",
+    "horke_more_027.html",
+    "horke_more_028.html",
+    "horke_more_029.html",
+    "horke_more_030.html",
+    "horke_more_031.html",
+    "horke_more_032.html",
+    "horke_more_033.html",
+    "horke_more_034.html",
+    "horke_more_035.html",
+    "horke_more_036.html",
+    "horke_more_037.html",
+    "horke_more_038.html",
+    "horke_more_039.html",
+    "horke_more_040.html",
+    "horke_more_041.html",
+    "horke_more_042.html",
+    "horke_more_043.html",
+    "horke_more_044.html",
+    "horke_more_045.html",
+    "horke_more_046.html",
+    "horke_more_047.html",
+    "horke_more_048.html",
+    "horke_more_049.html",
+    "horke_more_050.html",
+    "horke_more_051.html",
+    "horke_more_052.html",
+    "horke_more_053.html",
+    "horke_more_054.html",
+    "horke_more_055.html",
+    "horke_more_056.html",
+    "horke_more_057.html",
+    "horke_more_058.html",
+    "horke_more_059.html",
+    "horke_more_060.html",
+    "horke_more_061.html",
+    "horke_more_062.html",
+    "horke_more_063.html",
+    "horke_more_064.html",
+    "horke_more_065.html",
+    "horke_more_066.html",
+    "horke_more_067.html",
+    "horke_more_068.html",
+    "horke_more_069.html",
+    "horke_more_070.html",
+    "horke_more_071.html",
+    "horke_more_072.html",
+    "horke_more_073.html",
+    "horke_more_074.html",
+    "horke_more_075.html",
+    "horke_more_076.html",
+    "horke_more_077.html",
+    "horke_more_078.html",
+    "horke_more_079.html",
+    "horke_more_080.html",
+    "horke_more_081.html",
+    "horke_more_082.html",
+    "horke_more_083.html",
+    "horke_more_084.html",
+    "horke_more_085.html",
+    "horke_more_086.html",
+    "horke_more_087.html",
+    "horke_more_088.html",
+    "horke_more_089.html",
+    "horke_more_090.html",
+    "horke_more_091.html",
+    "horke_more_092.html",
+    "horke_more_093.html",
+    "horke_more_094.html",
+    "horke_more_095.html",
+    "horke_more_096.html",
+    "horke_more_097.html",
+    "horke_more_098.html",
+    "horke_more_099.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 16 2022 14:25:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655389522049
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "horke_more_001.html",
+      "toc": []
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "horke_more_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "horke_more_001.html",
+      "next": "horke_more_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_003.html",
+      "words": 4,
+      "chars": 24,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "horke_more_002.html",
+      "next": "horke_more_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_004.html",
+      "words": 92,
+      "chars": 598,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "horke_more_003.html",
+      "next": "horke_more_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_005.html",
+      "words": 3,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "horke_more_004.html",
+      "next": "horke_more_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_006.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "horke_more_005.html",
+      "next": "horke_more_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_007.html",
+      "words": 506,
+      "chars": 2966,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 7,
+      "prev": "horke_more_006.html",
+      "next": "horke_more_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Jakuba",
+      "file": "horke_more_008.html",
+      "words": 677,
+      "chars": 4184,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 8,
+      "prev": "horke_more_007.html",
+      "next": "horke_more_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Jakuba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Aniela",
+      "file": "horke_more_009.html",
+      "words": 424,
+      "chars": 2487,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 9,
+      "prev": "horke_more_008.html",
+      "next": "horke_more_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Aniela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE David",
+      "file": "horke_more_010.html",
+      "words": 289,
+      "chars": 1720,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "horke_more_009.html",
+      "next": "horke_more_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE David",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_011.html",
+      "words": 308,
+      "chars": 1775,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 11,
+      "prev": "horke_more_010.html",
+      "next": "horke_more_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Aniela",
+      "file": "horke_more_012.html",
+      "words": 178,
+      "chars": 1070,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 12,
+      "prev": "horke_more_011.html",
+      "next": "horke_more_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Aniela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_013.html",
+      "words": 386,
+      "chars": 2377,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 13,
+      "prev": "horke_more_012.html",
+      "next": "horke_more_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Aniela",
+      "file": "horke_more_014.html",
+      "words": 141,
+      "chars": 813,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 14,
+      "prev": "horke_more_013.html",
+      "next": "horke_more_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Aniela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE David",
+      "file": "horke_more_015.html",
+      "words": 609,
+      "chars": 3588,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 15,
+      "prev": "horke_more_014.html",
+      "next": "horke_more_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE David",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_016.html",
+      "words": 178,
+      "chars": 1050,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 16,
+      "prev": "horke_more_015.html",
+      "next": "horke_more_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_017.html",
+      "words": 91,
+      "chars": 561,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 17,
+      "prev": "horke_more_016.html",
+      "next": "horke_more_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka Dům",
+      "file": "horke_more_018.html",
+      "words": 305,
+      "chars": 1800,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 18,
+      "prev": "horke_more_017.html",
+      "next": "horke_more_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Aniela",
+      "file": "horke_more_019.html",
+      "words": 575,
+      "chars": 3421,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 19,
+      "prev": "horke_more_018.html",
+      "next": "horke_more_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Aniela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Jakuba",
+      "file": "horke_more_020.html",
+      "words": 77,
+      "chars": 484,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 20,
+      "prev": "horke_more_019.html",
+      "next": "horke_more_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Jakuba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka Dům",
+      "file": "horke_more_021.html",
+      "words": 606,
+      "chars": 3511,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 21,
+      "prev": "horke_more_020.html",
+      "next": "horke_more_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_022.html",
+      "words": 664,
+      "chars": 3952,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 22,
+      "prev": "horke_more_021.html",
+      "next": "horke_more_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_023.html",
+      "words": 667,
+      "chars": 4010,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 23,
+      "prev": "horke_more_022.html",
+      "next": "horke_more_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka Dům",
+      "file": "horke_more_024.html",
+      "words": 682,
+      "chars": 4075,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 24,
+      "prev": "horke_more_023.html",
+      "next": "horke_more_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_025.html",
+      "words": 360,
+      "chars": 2120,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "horke_more_024.html",
+      "next": "horke_more_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka",
+      "file": "horke_more_026.html",
+      "words": 517,
+      "chars": 3170,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 26,
+      "prev": "horke_more_025.html",
+      "next": "horke_more_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_027.html",
+      "words": 270,
+      "chars": 1602,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 27,
+      "prev": "horke_more_026.html",
+      "next": "horke_more_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka Dům",
+      "file": "horke_more_028.html",
+      "words": 2064,
+      "chars": 12185,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 28,
+      "prev": "horke_more_027.html",
+      "next": "horke_more_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_029.html",
+      "words": 17,
+      "chars": 98,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 29,
+      "prev": "horke_more_028.html",
+      "next": "horke_more_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE David",
+      "file": "horke_more_030.html",
+      "words": 539,
+      "chars": 3055,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 30,
+      "prev": "horke_more_029.html",
+      "next": "horke_more_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE David",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_031.html",
+      "words": 14,
+      "chars": 77,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 31,
+      "prev": "horke_more_030.html",
+      "next": "horke_more_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_032.html",
+      "words": 15,
+      "chars": 79,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 32,
+      "prev": "horke_more_031.html",
+      "next": "horke_more_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Matka",
+      "file": "horke_more_033.html",
+      "words": 355,
+      "chars": 2037,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 33,
+      "prev": "horke_more_032.html",
+      "next": "horke_more_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_034.html",
+      "words": 41,
+      "chars": 240,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 34,
+      "prev": "horke_more_033.html",
+      "next": "horke_more_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_035.html",
+      "words": 1080,
+      "chars": 6388,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 35,
+      "prev": "horke_more_034.html",
+      "next": "horke_more_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_036.html",
+      "words": 456,
+      "chars": 2664,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 36,
+      "prev": "horke_more_035.html",
+      "next": "horke_more_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_037.html",
+      "words": 38,
+      "chars": 186,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 37,
+      "prev": "horke_more_036.html",
+      "next": "horke_more_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Jakuba Dům",
+      "file": "horke_more_038.html",
+      "words": 476,
+      "chars": 2720,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 38,
+      "prev": "horke_more_037.html",
+      "next": "horke_more_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Jakuba Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE David",
+      "file": "horke_more_039.html",
+      "words": 113,
+      "chars": 636,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 39,
+      "prev": "horke_more_038.html",
+      "next": "horke_more_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE David",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "horke_more_040.html",
+      "words": 172,
+      "chars": 1020,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 40,
+      "prev": "horke_more_039.html",
+      "next": "horke_more_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE David Dům",
+      "file": "horke_more_041.html",
+      "words": 136,
+      "chars": 763,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 41,
+      "prev": "horke_more_040.html",
+      "next": "horke_more_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE David Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE Dům",
+      "file": "horke_more_042.html",
+      "words": 829,
+      "chars": 4833,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 42,
+      "prev": "horke_more_041.html",
+      "next": "horke_more_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE Dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_043.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 43,
+      "prev": "horke_more_042.html",
+      "next": "horke_more_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Magdaléna",
+      "file": "horke_more_044.html",
+      "words": 547,
+      "chars": 3272,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 44,
+      "prev": "horke_more_043.html",
+      "next": "horke_more_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Magdaléna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mirjam Smrt",
+      "file": "horke_more_045.html",
+      "words": 139,
+      "chars": 854,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 45,
+      "prev": "horke_more_044.html",
+      "next": "horke_more_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mirjam Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Magdaléna",
+      "file": "horke_more_046.html",
+      "words": 96,
+      "chars": 640,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 46,
+      "prev": "horke_more_045.html",
+      "next": "horke_more_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Magdaléna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_047.html",
+      "words": 57,
+      "chars": 349,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 47,
+      "prev": "horke_more_046.html",
+      "next": "horke_more_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mirjam Smrt",
+      "file": "horke_more_048.html",
+      "words": 172,
+      "chars": 1055,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 48,
+      "prev": "horke_more_047.html",
+      "next": "horke_more_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mirjam Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie Pokoj",
+      "file": "horke_more_049.html",
+      "words": 138,
+      "chars": 823,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 49,
+      "prev": "horke_more_048.html",
+      "next": "horke_more_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie Pokoj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Anna",
+      "file": "horke_more_050.html",
+      "words": 552,
+      "chars": 3202,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 50,
+      "prev": "horke_more_049.html",
+      "next": "horke_more_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Anna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma",
+      "file": "horke_more_051.html",
+      "words": 134,
+      "chars": 739,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 51,
+      "prev": "horke_more_050.html",
+      "next": "horke_more_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie",
+      "file": "horke_more_052.html",
+      "words": 139,
+      "chars": 868,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 52,
+      "prev": "horke_more_051.html",
+      "next": "horke_more_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_053.html",
+      "words": 652,
+      "chars": 3764,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 53,
+      "prev": "horke_more_052.html",
+      "next": "horke_more_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Ostatní",
+      "file": "horke_more_054.html",
+      "words": 923,
+      "chars": 5522,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 54,
+      "prev": "horke_more_053.html",
+      "next": "horke_more_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Ostatní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma",
+      "file": "horke_more_055.html",
+      "words": 494,
+      "chars": 2965,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 55,
+      "prev": "horke_more_054.html",
+      "next": "horke_more_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma, Alma",
+      "file": "horke_more_056.html",
+      "words": 3914,
+      "chars": 23434,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 56,
+      "prev": "horke_more_055.html",
+      "next": "horke_more_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma, Alma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_057.html",
+      "words": 334,
+      "chars": 1956,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 57,
+      "prev": "horke_more_056.html",
+      "next": "horke_more_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma",
+      "file": "horke_more_058.html",
+      "words": 383,
+      "chars": 2348,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 58,
+      "prev": "horke_more_057.html",
+      "next": "horke_more_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Pokoj",
+      "file": "horke_more_059.html",
+      "words": 248,
+      "chars": 1445,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 59,
+      "prev": "horke_more_058.html",
+      "next": "horke_more_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Pokoj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_060.html",
+      "words": 2248,
+      "chars": 13349,
+      "ideas": 128,
+      "role": "chapter",
+      "order": 60,
+      "prev": "horke_more_059.html",
+      "next": "horke_more_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Magdaléna",
+      "file": "horke_more_061.html",
+      "words": 239,
+      "chars": 1443,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 61,
+      "prev": "horke_more_060.html",
+      "next": "horke_more_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Magdaléna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_062.html",
+      "words": 1097,
+      "chars": 6295,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 62,
+      "prev": "horke_more_061.html",
+      "next": "horke_more_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Matka",
+      "file": "horke_more_063.html",
+      "words": 677,
+      "chars": 3993,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 63,
+      "prev": "horke_more_062.html",
+      "next": "horke_more_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_064.html",
+      "words": 98,
+      "chars": 590,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 64,
+      "prev": "horke_more_063.html",
+      "next": "horke_more_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Matka",
+      "file": "horke_more_065.html",
+      "words": 482,
+      "chars": 2825,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 65,
+      "prev": "horke_more_064.html",
+      "next": "horke_more_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma",
+      "file": "horke_more_066.html",
+      "words": 142,
+      "chars": 855,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 66,
+      "prev": "horke_more_065.html",
+      "next": "horke_more_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_067.html",
+      "words": 235,
+      "chars": 1494,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 67,
+      "prev": "horke_more_066.html",
+      "next": "horke_more_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Sestra Marie",
+      "file": "horke_more_068.html",
+      "words": 272,
+      "chars": 1582,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 68,
+      "prev": "horke_more_067.html",
+      "next": "horke_more_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Sestra Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_069.html",
+      "words": 334,
+      "chars": 1888,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 69,
+      "prev": "horke_more_068.html",
+      "next": "horke_more_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Matka",
+      "file": "horke_more_070.html",
+      "words": 183,
+      "chars": 1062,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 70,
+      "prev": "horke_more_069.html",
+      "next": "horke_more_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mína",
+      "file": "horke_more_071.html",
+      "words": 1658,
+      "chars": 10225,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 71,
+      "prev": "horke_more_070.html",
+      "next": "horke_more_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mína",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_072.html",
+      "words": 160,
+      "chars": 895,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 72,
+      "prev": "horke_more_071.html",
+      "next": "horke_more_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Sestra Marie",
+      "file": "horke_more_073.html",
+      "words": 85,
+      "chars": 504,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 73,
+      "prev": "horke_more_072.html",
+      "next": "horke_more_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Sestra Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Josef Holman",
+      "file": "horke_more_074.html",
+      "words": 408,
+      "chars": 2361,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 74,
+      "prev": "horke_more_073.html",
+      "next": "horke_more_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Josef Holman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie Pokoj",
+      "file": "horke_more_075.html",
+      "words": 668,
+      "chars": 3929,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 75,
+      "prev": "horke_more_074.html",
+      "next": "horke_more_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie Pokoj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Anna",
+      "file": "horke_more_076.html",
+      "words": 757,
+      "chars": 4490,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 76,
+      "prev": "horke_more_075.html",
+      "next": "horke_more_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Anna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_077.html",
+      "words": 345,
+      "chars": 1959,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 77,
+      "prev": "horke_more_076.html",
+      "next": "horke_more_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Magdaléna",
+      "file": "horke_more_078.html",
+      "words": 807,
+      "chars": 4775,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 78,
+      "prev": "horke_more_077.html",
+      "next": "horke_more_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Magdaléna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Anna",
+      "file": "horke_more_079.html",
+      "words": 152,
+      "chars": 813,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 79,
+      "prev": "horke_more_078.html",
+      "next": "horke_more_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Anna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_080.html",
+      "words": 345,
+      "chars": 1989,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 80,
+      "prev": "horke_more_079.html",
+      "next": "horke_more_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mína",
+      "file": "horke_more_081.html",
+      "words": 272,
+      "chars": 1590,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 81,
+      "prev": "horke_more_080.html",
+      "next": "horke_more_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mína",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie",
+      "file": "horke_more_082.html",
+      "words": 105,
+      "chars": 593,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 82,
+      "prev": "horke_more_081.html",
+      "next": "horke_more_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mirjam Smrt",
+      "file": "horke_more_083.html",
+      "words": 459,
+      "chars": 2612,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 83,
+      "prev": "horke_more_082.html",
+      "next": "horke_more_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mirjam Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie",
+      "file": "horke_more_084.html",
+      "words": 947,
+      "chars": 5741,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 84,
+      "prev": "horke_more_083.html",
+      "next": "horke_more_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Dvojčata",
+      "file": "horke_more_085.html",
+      "words": 2518,
+      "chars": 14714,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 85,
+      "prev": "horke_more_084.html",
+      "next": "horke_more_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Dvojčata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Jakuba",
+      "file": "horke_more_086.html",
+      "words": 112,
+      "chars": 697,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 86,
+      "prev": "horke_more_085.html",
+      "next": "horke_more_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Jakuba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Dvojčata",
+      "file": "horke_more_087.html",
+      "words": 198,
+      "chars": 1155,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 87,
+      "prev": "horke_more_086.html",
+      "next": "horke_more_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Dvojčata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA",
+      "file": "horke_more_088.html",
+      "words": 105,
+      "chars": 633,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 88,
+      "prev": "horke_more_087.html",
+      "next": "horke_more_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Alma Anna",
+      "file": "horke_more_089.html",
+      "words": 718,
+      "chars": 4063,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 89,
+      "prev": "horke_more_088.html",
+      "next": "horke_more_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Alma Anna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Anna Jakuba",
+      "file": "horke_more_090.html",
+      "words": 1405,
+      "chars": 8588,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 90,
+      "prev": "horke_more_089.html",
+      "next": "horke_more_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Anna Jakuba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie",
+      "file": "horke_more_091.html",
+      "words": 464,
+      "chars": 2819,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 91,
+      "prev": "horke_more_090.html",
+      "next": "horke_more_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Pohovka",
+      "file": "horke_more_092.html",
+      "words": 398,
+      "chars": 2458,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 92,
+      "prev": "horke_more_091.html",
+      "next": "horke_more_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Pohovka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie",
+      "file": "horke_more_093.html",
+      "words": 411,
+      "chars": 2299,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 93,
+      "prev": "horke_more_092.html",
+      "next": "horke_more_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Mirjam Smrt",
+      "file": "horke_more_094.html",
+      "words": 989,
+      "chars": 5810,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 94,
+      "prev": "horke_more_093.html",
+      "next": "horke_more_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Mirjam Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Magdaléna",
+      "file": "horke_more_095.html",
+      "words": 570,
+      "chars": 3630,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 95,
+      "prev": "horke_more_094.html",
+      "next": "horke_more_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Magdaléna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANIELA Marie Smrt",
+      "file": "horke_more_096.html",
+      "words": 515,
+      "chars": 3099,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 96,
+      "prev": "horke_more_095.html",
+      "next": "horke_more_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ANIELA Marie Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JAKUBA",
+      "file": "horke_more_097.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 97,
+      "prev": "horke_more_096.html",
+      "next": "horke_more_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JAKUBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JAKUBA",
+      "file": "horke_more_098.html",
+      "words": 2368,
+      "chars": 14052,
+      "ideas": 206,
+      "role": "chapter",
+      "order": 98,
+      "prev": "horke_more_097.html",
+      "next": "horke_more_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JAKUBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořké moře",
+      "file": "horke_more_099.html",
+      "words": 43,
+      "chars": 293,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 99,
+      "prev": "horke_more_098.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 47877,
+      "chars": 283801,
+      "ideas": 2597
+    },
+    "chapters": {
+      "words": 47870,
+      "chars": 283761,
+      "ideas": 2592
+    }
+  }
+}

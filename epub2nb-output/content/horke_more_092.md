@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Pohovka
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Pohovka
 
 > nyní  
 > /řečiště/

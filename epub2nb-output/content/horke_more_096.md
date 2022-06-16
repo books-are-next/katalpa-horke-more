@@ -1,13 +1,9 @@
 ---
-title: ''
+title: ANIELA Marie Smrt
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Marie  
-Smrt
 
 > stále znovu  
 > /pohyb/

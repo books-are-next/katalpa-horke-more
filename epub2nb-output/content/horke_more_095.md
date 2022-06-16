@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Magdaléna
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Magdaléna
 
 > nyní  
 > /pohyb/

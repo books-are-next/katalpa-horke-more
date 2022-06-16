@@ -1,11 +1,9 @@
 ---
-title: ''
+title: ANIELA
 contentType: prose
 ---
 
 <section>
-
-ANIELA
 
 > stále znovu  
 > /strnulost, ticho/

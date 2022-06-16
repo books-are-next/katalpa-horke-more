@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Matka
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Matka
 
 > kdysi  
 > /žár/

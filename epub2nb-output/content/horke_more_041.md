@@ -1,13 +1,9 @@
 ---
-title: ''
+title: MARIE David Dům
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-David  
-Dům
 
 > /příboj/
 

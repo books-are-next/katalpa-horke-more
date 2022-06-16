@@ -1,12 +1,9 @@
 ---
-title: ''
+title: MARIE Aniela
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-Aniela
 
 > /přítoky/
 

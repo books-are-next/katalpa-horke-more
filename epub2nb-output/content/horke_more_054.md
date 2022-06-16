@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Ostatní
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Ostatní
 
 > kdysi  
 > /plameny/

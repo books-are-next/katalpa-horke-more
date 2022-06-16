@@ -1,12 +1,9 @@
 ---
-title: ''
+title: MARIE Dům
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-Dům
 
 > /prameny/
 

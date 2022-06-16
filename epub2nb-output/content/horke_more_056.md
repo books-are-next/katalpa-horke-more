@@ -1,12 +1,9 @@
 ---
-title: ''
+title: ANIELA Alma, Alma
 contentType: prose
 ---
 
 <section>
-
-ANIELA  
-Alma, Alma
 
 > kdysi  
 > /žár/

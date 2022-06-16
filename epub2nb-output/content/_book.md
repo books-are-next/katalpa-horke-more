@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Hořké moře
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jakuba Katalpa
   publisher: Městská knihovna v Praze
   modified: '2021-04-13T00:00:00.000Z'
+  contentType: prose
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - horke_more_001.html
@@ -114,6 +118,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -121,5 +126,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

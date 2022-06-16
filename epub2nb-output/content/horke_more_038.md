@@ -1,13 +1,9 @@
 ---
-title: ''
+title: MARIE Jakuba Dům
 contentType: prose
 ---
 
 <section>
-
-MARIE  
-Jakuba  
-Dům
 
 > /přítoky, prameny/
 
