@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-horke-more-7ee3224",
-  "revision": "7ee3224",
+  "identifier": "katalpa-horke-more-97c9897",
+  "revision": "97c9897",
   "readingOrder": [
     "promo.html",
     "horke_more_005.html",
@@ -106,11 +106,11 @@
     "horke_more_096.html",
     "horke_more_097.html",
     "horke_more_098.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:09:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978973802
+    "date": "Thu Jul 07 2022 08:29:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182597447
   },
   "documents": [
     {
@@ -1994,7 +1994,7 @@
       "role": "chapter",
       "order": 94,
       "prev": "horke_more_097.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2007,11 +2007,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 850,
+      "chars": 849,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "horke_more_098.html",
       "next": null,
@@ -2029,7 +2029,7 @@
   "totals": {
     "all": {
       "words": 47867,
-      "chars": 283731,
+      "chars": 283730,
       "ideas": 2589
     },
     "chapters": {

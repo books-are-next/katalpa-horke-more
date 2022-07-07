@@ -109,7 +109,7 @@ readingOrder:
   - horke_more_096.html
   - horke_more_097.html
   - horke_more_098.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
