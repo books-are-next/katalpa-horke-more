@@ -13,6 +13,7 @@ meta:
   contentType: prose
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2675-1
 readingOrder:
   - promo.html
   - horke_more_005.html
