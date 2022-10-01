@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-horke-more-3bb7711",
-  "revision": "3bb7711",
+  "identifier": "katalpa-horke-more-d86a316",
+  "revision": "d86a316",
   "readingOrder": [
     "promo.html",
     "horke_more_005.html",
@@ -109,8 +109,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:26:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486810665
+    "date": "Sat Oct 01 2022 15:56:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639803274
   },
   "documents": [
     {
