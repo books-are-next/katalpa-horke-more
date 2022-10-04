@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-horke-more-d86a316",
-  "revision": "d86a316",
+  "identifier": "katalpa-horke-more-3978b3f",
+  "revision": "3978b3f",
   "readingOrder": [
     "promo.html",
     "horke_more_005.html",
@@ -109,8 +109,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:56:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639803274
+    "date": "Tue Oct 04 2022 16:44:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901857568
   },
   "documents": [
     {
@@ -2008,9 +2008,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 136,
+      "words": 134,
       "chars": 887,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "horke_more_098.html",
@@ -2028,9 +2028,9 @@
   ],
   "totals": {
     "all": {
-      "words": 47871,
+      "words": 47869,
       "chars": 283768,
-      "ideas": 2590
+      "ideas": 2588
     },
     "chapters": {
       "words": 47729,
